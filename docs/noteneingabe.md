@@ -10,7 +10,7 @@ Nachdem Sie Ihre MyMAGELLAN-Datei in MyMAGELLAN geladen haben, können Sie unter
 
 Welche Sichtweise Sie für Ihre Eingaben verwenden bleibt Ihnen überlassen. Selbstverständlich können Sie auch zwischen den Sichtweisen wechseln.
 
-Alle Eingaben beruhen auf zuvor in Magellan festgelegten Schlüsselverzeichnissen für Noten und Zeugnisbemerkungen.
+Alle Eingaben beruhen auf zuvor in MAGELLAN festgelegten Schlüsselverzeichnissen für Noten und Zeugnisbemerkungen.
 
 Die Eingabe von selbst definierten Noten oder Veränderung von Schüler¬stammdaten ist nicht möglich! Wenden Sie sich in diesem Fall in Ihren Ad¬ministrator.
 
@@ -58,17 +58,17 @@ Auf der Registerkarte Weitere Daten können zusätzliche Informationen für das 
  
 Es gibt hier ein zusätzliches Optionsfeld „Keine Unterrichtstage, Versäumnisse, Fehltage usw...“
 
-Markieren Sie diesen Feld, so werden die Werte für Unterrichtstage, Ver¬säumnisse, Fehltage, Fehltage unentschuldigt, Fehlstunden und Fehlstunden unentschuldigt als leere Felder in der MyMAGELLAN-Datei gespeichert. Beim Einlesen der Daten nach Magellan werden diese Felder nicht berücksichtigt und führen somit auch zu keinen Veränderungen bestehender Eingaben.
+Markieren Sie diesen Feld, so werden die Werte für Unterrichtstage, Ver¬säumnisse, Fehltage, Fehltage unentschuldigt, Fehlstunden und Fehlstunden unentschuldigt als leere Felder in der MyMAGELLAN-Datei gespeichert. Beim Einlesen der Daten nach MAGELLAN werden diese Felder nicht berücksichtigt und führen somit auch zu keinen Veränderungen bestehender Eingaben.
 
 !!! info "Hinweis"
 
-	In MyMAGELLAN eingetragene Zeugnisbemerkungen werden nur nach Magellan importiert, wenn der Lehrer auch Klassenleiter1 der Klasse ist.
+	In MyMAGELLAN eingetragene Zeugnisbemerkungen werden nur nach MAGELLAN importiert, wenn der Lehrer auch Klassenleiter1 der Klasse ist.
 
 So fügen Sie eine Zeugnisbemerkung ein:
 
 1.	Klicken Sie auf Hinzufügen.
 
-2.	Legen Sie im Dialogfenster Zeugnisbemerkung unter Text den Inhalt der Bemerkung fest. Sie können dazu auf Textbausteine über die Schalt¬fläche Aus Verzeichnis wählen zurückgreifen, sofern diese zuvor in Magellan definiert worden sind.
+2.	Legen Sie im Dialogfenster Zeugnisbemerkung unter Text den Inhalt der Bemerkung fest. Sie können dazu auf Textbausteine über die Schalt¬fläche Aus Verzeichnis wählen zurückgreifen, sofern diese zuvor in MAGELLAN definiert worden sind.
 
 3.	Legen Sie optional ein Merkmal bzw. eine Position der Bemerkung fest.
 
@@ -144,22 +144,22 @@ Nachdem Sie einmal Ihre MyMAGELLAN-Datei mit MyMAGELLAN geladen haben, merkt sic
 
 ### Besonderheiten
 
-Verhalten und Mitarbeit: Sind in Magellan Eintragungen vorhanden auf den Registerkarten `Schüler > Zeugnis > Zeugnis` und `Schüler > Zeugnis > Details` in den Feldern Verhalten und Mitarbeit, so werden diese nicht gelöscht, wenn eine mym-Datei nach Magellan übertragen wird, die in den genannten Feldern keinen Eintrag enthält. 
+Verhalten und Mitarbeit: Sind in MAGELLAN Eintragungen vorhanden auf den Registerkarten `Schüler > Zeugnis > Zeugnis` und `Schüler > Zeugnis > Details` in den Feldern Verhalten und Mitarbeit, so werden diese nicht gelöscht, wenn eine mym-Datei nach MAGELLAN übertragen wird, die in den genannten Feldern keinen Eintrag enthält. 
 
-Unterrichtstage und Versäumnisse: Sind die folgenden Felder in Magellan auf Registerkarte `Schüler > Zeugnis > Details` mit einem Wert gefüllt, wird dieser überschrieben, wenn eine mym-Datei eingesammelt wird, die in diesen Feldern einen Wert hat, d.h. entweder einen Noten-, Punkt- bzw. Füllwert oder 0 beinhaltet:
+Unterrichtstage und Versäumnisse: Sind die folgenden Felder in MAGELLAN auf Registerkarte `Schüler > Zeugnis > Details` mit einem Wert gefüllt, wird dieser überschrieben, wenn eine mym-Datei eingesammelt wird, die in diesen Feldern einen Wert hat, d.h. entweder einen Noten-, Punkt- bzw. Füllwert oder 0 beinhaltet:
 
 * Unterrichtstage
 * Versäumnisse
 
-Fehltage, davon unentschuldigt, Fehlstunden und davon unentschuldigt: Wie die nachfolgenden Felder beim Einlesen in Magellan verarbeitet werden (Überschreiben, Addieren oder keine Änderung), hängt von der Einstellungen des Administrator ab, der Ihre MyMAGELLAN-Datei erstellt hat:
+Fehltage, davon unentschuldigt, Fehlstunden und davon unentschuldigt: Wie die nachfolgenden Felder beim Einlesen in MAGELLAN verarbeitet werden (Überschreiben, Addieren oder keine Änderung), hängt von der Einstellungen des Administrator ab, der Ihre MyMAGELLAN-Datei erstellt hat:
 
 * Fehltage 
 * davon unentschuldigt
 * Fehlstunden
 * davon unentschuldigt
 
-Felder unter `Zeugnis > Zeugnis und Leistungen`: Für alle Eintragungen auf Registerkarte `Schüler > Zeugnis > Zeugnis` und alle Felder auf Registerkarte `Schüler > Zeugnis > Leistungen` gilt ebenfalls, dass dies beim Einlesen in Magellan zu einem Überschreiben der bisherigen Werte in Magellan führt.
-Mit Null vorbesetzte Felder: Nach dem Einschulen eines Schülers in Magellan sind auf der Registerkarte `Schüler > Zeugnis > Details` folgende Felder automatisch mit dem Wert 0 vorbelegt (es werden hier nur die Felder genannt, die als Eingabefeld in MyMAGELLAN existieren):
+Felder unter `Zeugnis > Zeugnis und Leistungen`: Für alle Eintragungen auf Registerkarte `Schüler > Zeugnis > Zeugnis` und alle Felder auf Registerkarte `Schüler > Zeugnis > Leistungen` gilt ebenfalls, dass dies beim Einlesen in MAGELLAN zu einem Überschreiben der bisherigen Werte in MAGELLAN führt.
+Mit Null vorbesetzte Felder: Nach dem Einschulen eines Schülers in MAGELLAN sind auf der Registerkarte `Schüler > Zeugnis > Details` folgende Felder automatisch mit dem Wert 0 vorbelegt (es werden hier nur die Felder genannt, die als Eingabefeld in MyMAGELLAN existieren):
 
 * Unterrichtstage
 * Versäumnisse
@@ -168,8 +168,8 @@ Mit Null vorbesetzte Felder: Nach dem Einschulen eines Schülers in Magellan sin
 * Fehlstunden
 * davon unentschuldigt
 
-Es ist sowohl in Magellan als auch in MyMAGELLAN nicht möglich, diese Felder zu leeren. Das bedeutet, dass bei dem Verteilen von MyMAGELLAN-Dateien in den o.g. Feldern immer ein 0-Wert ausgegeben wird, was zur Folge hat, dass beim Einsammeln dieser Dateien grundsätzlich der Wert 0 zurück nach Magellan übertragen wird, wenn in MyMAGELLAN dort keine Eintragung vorgenommen wurde. Das wiederum bewirkt ein Überschreiben eines eventuell in Magellan bereits vorhandenen Wertes mit dem Wert 0, wie unter Punkt 2 beschrieben.
+Es ist sowohl in MAGELLAN als auch in MyMAGELLAN nicht möglich, diese Felder zu leeren. Das bedeutet, dass bei dem Verteilen von MyMAGELLAN-Dateien in den o.g. Feldern immer ein 0-Wert ausgegeben wird, was zur Folge hat, dass beim Einsammeln dieser Dateien grundsätzlich der Wert 0 zurück nach MAGELLAN übertragen wird, wenn in MyMAGELLAN dort keine Eintragung vorgenommen wurde. Das wiederum bewirkt ein Überschreiben eines eventuell in MAGELLAN bereits vorhandenen Wertes mit dem Wert 0, wie unter Punkt 2 beschrieben.
 
 !!! info "Fazit"
 
-	Die mym-Datei desjenigen Lehrers, der die Zeugnisdetails der Schüler erfassen soll (in den meisten Fällen der Klassenlehrer), sollte erst ein¬gesammelt werden, wenn die Dateien der Fachlehrer schon nach Magellan übernommen wurden.
+	Die mym-Datei desjenigen Lehrers, der die Zeugnisdetails der Schüler erfassen soll (in den meisten Fällen der Klassenlehrer), sollte erst ein¬gesammelt werden, wenn die Dateien der Fachlehrer schon nach MAGELLAN übernommen wurden.
