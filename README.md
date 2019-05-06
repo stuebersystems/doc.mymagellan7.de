@@ -32,7 +32,7 @@ Dieses Repository ist ein Git-Repository. Um das Repository auf deinem lokalen C
 
 Willst du mit Git erstmal nichts zu tun haben, kannst Du das Repository auch als Zip-Archiv herunterladen:
 
-1. Öffne die URL `https://github.com/stuebersystems/doc.mymagellan.de` in deinem Webbrowser
+1. Öffne die URL `https://github.com/stuebersystems/doc.mymagellan7.de` in deinem Webbrowser
 
 2. Klicke auf die Schaltfläche `Clone or download` und dann auf `Download ZIP`.
 
