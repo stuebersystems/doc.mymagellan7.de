@@ -20,8 +20,8 @@ theme:
     feature:
         tabs: false
     palette:
-        primary: 'indigo'
-        accent: 'amber'
+        primary: 'orange'
+        accent: 'blue'
     font:
         text: Roboto
         code: Roboto Mono
