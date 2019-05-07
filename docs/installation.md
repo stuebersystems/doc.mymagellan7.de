@@ -1,6 +1,5 @@
 # Installation
 
-![Bildbeschreibung](assets/images/screenshot1.png "hello world")
 
 ## Systemvoraussetzungen
 
