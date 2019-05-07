@@ -1,4 +1,4 @@
-![Build status](https://ci.appveyor.com/api/projects/status/ciuo03al3wbe9d8v?svg=true)
+[![Build status](https://ci.appveyor.com/api/projects/status/ciuo03al3wbe9d8v?svg=true)](https://ci.appveyor.com/project/stueber/doc-mymagellan-de)
 
 # MyMAGELLAN 7 Dokumentation
 
