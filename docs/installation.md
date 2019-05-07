@@ -1,19 +1,25 @@
 # Installation
 
+![Bildbeschreibung](assets/images/screenshot1.png "hello world")
+
 ## Systemvoraussetzungen
 
 MyMAGELLAN ist kompatibel mit folgenden Betriebssystemen:
 
-* Vista / 2008 / 7/ 8 / 10 (32-Bit)
-* Windows 7 / 8 / 2008 / 2012 (64-Bit)
+|MAGELLAN| Kompatibilität|
+--|--|
+|**Betriebssystem 32-Bit**|Windows  Vista / Windows  2008 / Windows  7 / Windows  8 / Windows  10 |
+|**Betriebssystem 64-Bit**|Windows 7 /  Windows 8 /  Windows 10 /  Windows2008 /  Windows 2012 /  Windows 2016 |
+|**Office-Versionen**|Office  2007<br/>Office 2010<br/>Office 2013<br/>Office 2016|
+|**Hardware**|MAGELLAN benötigt keine besonderen Hardware-Anforderungen|
+|**Bildschirmauflösung**|Die Bildschirmauflösung sollte 1280x800 Bildpunkte nicht unterschreiten|
 
-MyMAGELLAN benötigt keine besonderen Hardware-Anforderungen, lediglich die Bildschirmauflösung sollte 1024 x 768 Bildpunkte nicht unterschreiten.
 
 ## So installieren Sie MyMAGELLAN
 
 Nachdem Sie die Installationsdateien für MyMAGELLAN in Absprache mit Ihrem Administrator erhalten haben, gehen Sie wie folgt vor:
 
-1. Starten Sie über Ihren Windows-Explorer die Datei „MyMAGELLAN7.msi“ auf Ihrem Datenträger.
+1. Starten Sie über Ihren Windows-Explorer die Datei „MyMAGELLAN.msi“ auf Ihrem Datenträger.
 
 2. Folgen Sie den Anweisungen des Installationsprogramms. 
 	
@@ -29,9 +35,8 @@ Sie können jetzt MyMAGELLAN starten:
 	
 MyMAGELLAN 7 wird nun gestartet.
 
-!!! info "Hinweis"
 
-	Öffnen Sie das Menü Start|Programme|STÜBER SYSTEMS, halten Sie die Taste Strg gedrückt, klicken Sie gleichzeitig mit der Maus auf MyMAGELLAN 7 und ziehen Sie das Programmsymbol mit gedrückter Maustaste auf Ihre Bildschirmarbeitsfläche. Sie können dann direkt auf das MyMAGELLAN-Symbol auf Ihrer Arbeitsfläche klicken, um MyMAGELLAN 7 zu starten.
+Öffnen Sie das Menü `Start > Programme > STÜBER SYSTEMS`, halten Sie die Taste Strg gedrückt, klicken Sie gleichzeitig mit der Maus auf MyMAGELLAN 7 und ziehen Sie das Programmsymbol mit gedrückter Maustaste auf Ihre Bildschirmarbeitsfläche. Sie können dann direkt auf das MyMAGELLAN-Symbol auf Ihrer Arbeitsfläche klicken, um MyMAGELLAN 7 zu starten.
 
 Laden Sie jetzt Ihre MyMAGELLAN-Datei, die Sie von Ihrem Administrator erhalten haben. Gehen Sie dazu wie folgt vor:
 

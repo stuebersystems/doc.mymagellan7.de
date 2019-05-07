@@ -29,7 +29,7 @@ Um die Noten aus Klassensicht einzugeben, müssen Sie wie folgt vorgehen.
 Auf der Registerkarte Schüler-Matrix sind alle Schüler der Klasse aufgelistet. 
 
 <figure class="center">
-    <img src="/assets/images/screenshot2.png" alt="Registerkarte Schüler-Matrix mit der Liste der Schüler in der Klasse">
+    <img src="assets/images/screenshot2.png" alt="Registerkarte Schüler-Matrix mit der Liste der Schüler in der Klasse">
     <figcaption>Registerkarte <em>Schüler-Matrix</em> mit der Liste der Schüler in der Klasse</figcaption>
 </figure>
 
@@ -74,6 +74,7 @@ So fügen Sie eine Zeugnisbemerkung ein:
 
 4. Klicken Sie auf OK.
  
+
 <figure class="center">
     <img src="/assets/images/screenshot5.png" alt="Dialogfenster Zeugnisbemerkungen">
     <figcaption>Dialogfenster <em>Zeugnisbemerkungen</em></figcaption>
