@@ -1,7 +1,28 @@
 # Noteneingabe
 
-Nachdem Sie Ihre MyMAGELLAN-Datei in MyMAGELLAN geladen haben, können Sie unter verschiedenen Sichtweisen die Noten Ihrer Schüler eingeben:
+Öffnen Sie MyMAGELLAN per Doppelklick auf Ihre Datei (*.mym) oder starten Sie das Programm MyMAGELLAN  und laden über `Datei > Öffnen`.
+Es gibt zwei Ansichten für die Eingabe, einmal für die Datenerfassung je Schüler (Leistungen, weitere Zeugnisdaten, Zeugnisbemerkugne, Fehlzeitern) oder aus Sicht eines Faches (Leistungen).
 
+ 
+ ![Aufrufe für die Eingabe nach Schülern oder nach Fächern](assets/images/09.png)
+
+## Eingabe nach Schülern
+
+![Eingabe nach Schülern](assets/images/10.png)
+
+In dieser Ansicht ist das Fenster zweigeteilt: links ist die Liste der Schüler, auf der rechten Seite werden je nach Unterkarte die Daten erfasst. 
+Die Schüler, die auf der linken Seite gezeigt werden, können gefiltert, gruppiert oder sortiert werden.
+
+Aktion| Wie geht es?
+--|--
+Sortieren|Klicken Sie mit der linken Maustaste auf einen der Spaltenköpfe, die Inhalte der Spalte werden auf- oder absteigend sortiert. <br/> Beispiel: Sie klicken auf den Spaltenkopf der Spalte Klasse, die Klassen werden beim ersten Klick aufsteigend sortiert, beim erneuten Klick wird die Reihenfolge umgekehrt.
+Mehrfachsortierung | Möchten Sie, dass die Schüler nach den Klassen sortiert werden und aber auch innerhalb der Klasse in alphabethischer Reihenfolge gezeigt werden, klicken Sie als erstes auf den Spaltenkopf der Spalte Klasse, halten anschließend die SHIFT-Taste fest und klicken dann auf den Spaltenkopf der Spalte Nachname. 
+Gruppieren|Zum Gruppieren ziehen Sie den Spaltenkopf der Spalte mit gedrückter Maustaste hoch wie in der Abbildung. <br/>![Gruppieren](assets/images/12.png)<br/>Die einzelnen Zeilen werden je nach Inhalt gruppiert, über die kleinen Dreiecke vor der Bezeichnung kann man eine Gruppierung öffnen oder schließen.<br/> ![Gruppieren öffnen](assets/images/11.png)<br/> Um eine Gruppierung wieder aufzuheben, ziehen Sie den Spaltenkopf der gruppierten Spalte soweit nach unten, dass ein Kreuz gezeigt wird und lassen los. <br/>![Gruppieren aufheben](assets/images/13.png)
+Filtern|
+Filtern|
+inkrementelle Suche|
+
+![](../assets/images/.png)
 * Klassensichtweise: Bei der Klassensichtweise finden Sie eine Auflistung aller Klassen, zu denen Sie Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben müssen. Nach Auswahl einer Klasse können Sie schülerweise und/oder fachweise vorgehen.
 
 * Schülersichtweise: Bei der Schülersichtweise werden alle Schüler insgesamt aufgelistet und Sie können nach Auswahl eines Schüler nur dessen Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben.

@@ -15,9 +15,10 @@ Sie füllen Ihre Datei mit den Zeugnisnoten und Zeugnisdaten, übermitteln die D
 
 Für die Arbeit mit MyMAGELLAN benötigen Sie zwei Dinge:
 
-1.	MyMAGELLAN: MyMAGELLAN ist das Programm das zum Bearbeiten Ihrer MyMAGELLAN-Datei benötigt wird. Sie erhalten es entweder von Ihrem Administrator auf einem Datenträger oder können es kostenlos über die Internetseiten von STÜBER SYSTEMS laden. Über die genaue Vorgehensweise informiert Sie Ihr Administrator.
-
-2.	MyMAGELLAN-Datei: Ihre MyMAGELLAN-Datei (Datei mit der Endung .mym) beinhaltet alle Daten, die Sie für die Noteneingabe Ihrer Schüler benötigen. Sie müssen diese mit MyMAGELLAN öffnen, um Daten eingeben und abspeichern zu können. Über die genaue Vorgehensweise informiert Sie ebenfalls Ihr Administrator.
+Nr.|Sie brauchen|Weitere Informationen
+--|--|--
+1.|MyMAGELLAN| MyMAGELLAN ist das Programm das zum Bearbeiten Ihrer MyMAGELLAN-Datei benötigt wird. Sie erhalten es entweder von Ihrem Administrator auf einem Datenträger oder können es kostenlos über die Internetseiten von STÜBER SYSTEMS laden. Über die genaue Vorgehensweise informiert Sie Ihr Administrator.
+2.|MyMAGELLAN-Datei|Ihre MyMAGELLAN-Datei (Datei mit der Endung .mym) beinhaltet alle Daten, die Sie für die Noteneingabe Ihrer Schüler benötigen. Sie müssen diese mit MyMAGELLAN öffnen, um Daten eingeben und abspeichern zu können. Über die genaue Vorgehensweise informiert Sie ebenfalls Ihr Administrator.
 
 Die dezentrale Noteneingabe mit MyMAGELLAN stellt eine alternative Noteneingabe im lokalen Netz der Schule dar. Sie finden in MyMAGELLAN die gleichen Eingabemöglichkeiten wie auf der Registerkarte Zeugnisse eines Schülers in MAGELLAN.
 

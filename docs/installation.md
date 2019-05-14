@@ -1,17 +1,18 @@
 # Installation
 
 
+ 
 ## Systemvoraussetzungen
 
 MyMAGELLAN ist kompatibel mit folgenden Betriebssystemen:
 
-|MAGELLAN| Kompatibilität|
---|--|
-|**Betriebssystem 32-Bit**|Windows  Vista / Windows  2008 / Windows  7 / Windows  8 / Windows  10 |
-|**Betriebssystem 64-Bit**|Windows 7 /  Windows 8 /  Windows 10 /  Windows2008 /  Windows 2012 /  Windows 2016 |
-|**Office-Versionen**|Office  2007<br/>Office 2010<br/>Office 2013<br/>Office 2016|
-|**Hardware**|MAGELLAN benötigt keine besonderen Hardware-Anforderungen|
-|**Bildschirmauflösung**|Die Bildschirmauflösung sollte 1280x800 Bildpunkte nicht unterschreiten|
+| MAGELLAN                  | Kompatibilität                                                                      |
+| ------------------------- | ----------------------------------------------------------------------------------- |
+| **Betriebssystem 32-Bit** | Windows  Vista / Windows  2008 / Windows  7 / Windows  8 / Windows  10              |
+| **Betriebssystem 64-Bit** | Windows 7 /  Windows 8 /  Windows 10 /  Windows2008 /  Windows 2012 /  Windows 2016 |
+| **Office-Versionen**      | Office  2007<br/>Office 2010<br/>Office 2013<br/>Office 2016                        |
+| **Hardware**              | MAGELLAN benötigt keine besonderen Hardware-Anforderungen                           |
+| **Bildschirmauflösung**   | Die Bildschirmauflösung sollte 1280x800 Bildpunkte nicht unterschreiten             |
 
 
 ## So installieren Sie MyMAGELLAN
@@ -39,22 +40,23 @@ MyMAGELLAN 7 wird nun gestartet.
 
 Laden Sie jetzt Ihre MyMAGELLAN-Datei, die Sie von Ihrem Administrator erhalten haben. Gehen Sie dazu wie folgt vor:
 
-1. Klicken Sie auf Datei und dann auf Öffnen.
+| Nr         | Möglichkeit                                                                                                                                                         |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Variante 1 | Klicken Sie auf Datei und dann auf Öffnen. Wählen Sie die MyMAGELLAN-Datei aus und klicken Sie auf Öffnen.                                                          |
+| Variante 2 | Alternativ können Sie das Programm auch öffnen, indem Sie doppelt auf die Datei (*.mym7) klicken, dann wird automatisch MyMAGELLAN gestartet und Ihre Datei geladen |
 
-2. Wählen Sie die MyMAGELLAN-Datei aus und klicken Sie auf Öffnen.
 
 Nach dem Laden der Datei werden Sie ggf. nach dem Kennwort Ihrer MyMAGELLAN-Datei gefragt. Tippen Sie dazu das von Ihrem Administrator erhaltene Kennwort Ihrer Datei ein.
 
-<figure class="center">
-    <img src="/assets/images/screenshot1.png" alt="Die Willkommensseite in MyMAGELLAN">
-    <figcaption>Die Willkommensseite in MyMAGELLAN</figcaption>
-</figure>
+
+
+![Die Willkommensseite in MyMAGELLAN](assets/images/screenshot1.png)
 
 ## Datensicherung
 
 Das regelmäßige Erstellen von Sicherungskopien sollte für Sie zur Routine werden. Beugen Sie damit dem möglichen Verlust Ihrer Daten vor (Stromausfall, versehentliches Löschen usw.). Beachten Sie daher bitte folgende Ratschläge:
 
-* Speichern Sie regelmäßig, mindestens täglich, Ihre MyMAGELLAN-Datei mit der Endung .mym.
+* Speichern Sie regelmäßig Ihre MyMAGELLAN-Datei mit der Endung .mym.
 
 * Verwenden Sie mehr als ein Sicherungsmedium für Sicherungskopien und benutzen Sie diese der Reihe nach. So bleiben ältere Stadien der Daten erhalten.
 
@@ -68,9 +70,9 @@ Das regelmäßige Erstellen von Sicherungskopien sollte für Sie zur Routine wer
 
 MyMAGELLAN 7 installiert sich in einen Ordner und die Registry, dafür müssten Zugriffsrechte gewährt werden:
 
-Was|Pfad am Beispiel Windows 10
---|--
-Programmdateien (EXE etc.))| C:\Program Files (x86)\Stueber Systems\Magellan 7
+| Was                         | Pfad am Beispiel Windows 10                       |
+| --------------------------- | ------------------------------------------------- |
+| Programmdateien (EXE etc.)) | C:\Program Files (x86)\Stueber Systems\Magellan 7 |
 
 !!! info "Hinweis"
 
@@ -96,10 +98,10 @@ Folgenden Parameter sind möglich:
 
 Silent-Setup für MyMAGELLAN 7:
 
-Installationstyp|Parameter
---|--
-Installation|msiexec /i "C:\MySetup\MyMAGELLAN7.msi" /q APPDIR="C:\MyFolder\Magellan"
-Deinstallation|msiexec /x "C:\MySetup\myagellan7.msi" /q
+| Installationstyp | Parameter                                                                |
+| ---------------- | ------------------------------------------------------------------------ |
+| Installation     | msiexec /i "C:\MySetup\MyMAGELLAN7.msi" /q APPDIR="C:\MyFolder\Magellan" |
+| Deinstallation   | msiexec /x "C:\MySetup\myagellan7.msi" /q                                |
 
 !!! info "Hinweis"
 
