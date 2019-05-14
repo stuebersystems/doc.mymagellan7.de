@@ -8,11 +8,19 @@ Es gibt zwei Ansichten für die Eingabe, einmal für die Datenerfassung je Schü
 
 ## Eingabe nach Schülern
 
+
+
 ![Eingabe nach Schülern](assets/images/10.png)
 
 In dieser Ansicht ist das Fenster zweigeteilt: links ist die Liste der Schüler, auf der rechten Seite werden je nach Unterkarte die Daten erfasst. 
 Die Schüler, die auf der linken Seite gezeigt werden, können gefiltert, gruppiert oder sortiert werden.
 
+
+### Die Schülerauswahlspalte
+
+Die Leiste auf der linken Seite des Fensters zeigt Ihnen die Schüler, für die Sie Daten erfassen können. Es gibt einige Möglichkeiten diese Liste und auch andere Ansichten zu filtern, zu sortieren, zu gruppieren usw. Wir beschreiben die Funktionalitäten stellvertretend für alle Ansichten anhand dieser Schülerliste.
+
+#### Sortieren, Gruppieren, Filtern usw.
 Aktion| Wie geht es?
 --|--
 Sortieren|Klicken Sie mit der linken Maustaste auf einen der Spaltenköpfe, die Inhalte der Spalte werden auf- oder absteigend sortiert. <br/> Beispiel: Sie klicken auf den Spaltenkopf der Spalte Klasse, die Klassen werden beim ersten Klick aufsteigend sortiert, beim erneuten Klick wird die Reihenfolge umgekehrt.
