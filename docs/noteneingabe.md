@@ -6,182 +6,116 @@ Es gibt zwei Ansichten für die Eingabe, einmal für die Datenerfassung je Schü
  
  ![Aufrufe für die Eingabe nach Schülern oder nach Fächern](assets/images/09.png)
 
+
+
+!!! warning "Wichtig"
+
+    Alle Eingaben beruhen auf zuvor in MAGELLAN festgelegten Schlüsselverzeichnissen für Noten und Zeugnisbemerkungen.
+    Die Eingabe von selbst definierten Noten oder Veränderung von Schülerstammdaten ist nicht möglich! Wenden Sie sich in diesem Fall an Ihren Administrator.
+
+
+## Sortieren, Gruppieren, Filtern usw.
+
+Bevor die Ansichten erklärt werden, beschreiben wir die generellen Funktionalitäten, die bei der Eingabe zur Verfügung stehen. Es gibt einige Möglichkeiten die Liste zu filtern, zu sortieren, zu gruppieren usw. 
+
+### Sortieren
+
+Klicken Sie mit der linken Maustaste auf einen der Spaltenköpfe, die Inhalte der Spalte werden auf- oder absteigend sortiert. <br/><br/> Beispiel:<br/> Sie klicken auf den Spaltenkopf der Spalte Klasse, die Klassen werden beim ersten Klick aufsteigend sortiert, beim erneuten Klick wird die Reihenfolge umgekehrt.
+
+### Mehrfachsortierung 
+
+Möchten Sie, dass die Schüler nach den Klassen sortiert werden und aber auch innerhalb der Klasse in alphabethischer Reihenfolge gezeigt werden, klicken Sie als erstes auf den Spaltenkopf der Spalte `Klasse`, halten anschließend die SHIFT-Taste fest und klicken dann auf den Spaltenkopf der Spalte `Nachname`.
+
+### Gruppieren
+
+Um zu Gruppieren ziehen Sie den Spaltenkopf der Spalte mit gedrückter Maustaste hoch wie in der Abbildung. 
+
+![Gruppieren](assets/images/12.png)
+
+Die einzelnen Zeilen werden je nach Inhalt gruppiert, über die kleinen Dreiecke vor der Bezeichnung kann man eine Gruppierung öffnen oder schließen.
+
+![Gruppieren öffnen](assets/images/11.png)
+
+Um eine Gruppierung wieder aufzuheben, ziehen Sie den Spaltenkopf der gruppierten Spalte soweit nach unten, dass ein Kreuz gezeigt wird und lassen los. 
+
+![Gruppieren aufheben](assets/images/13.png)
+
+### Filtern
+
+Beim Filtern kann man Inhalte ausblenden. Im nachstehenden Beispiel werden nach der Filterung nur die Fachzeilen mit der Unterrichtsart `GK` gezeigt. Dazu fahren Sie mit dem Mauszeiger über den Spaltenkopf der Spalte `Unterrichtsart` und klicken auf das erscheinde Filtersymbol.
+
+![Filtersymbol](assets/images/17.png)
+
+In der Klappliste werden je nach gewähltem Spaltenkopf die Inhalte der Spalte gezeigt, in diesem Fall GK und LK. Setzen Sie das Häkchen vor dem Wert oder vor den Werten die gezeigt werden sollen, alle anderen Zeilen werden ausgeblendet.
+
+![Die Liste nach der Unterrichtsart GK filtern](assets/images/14.png)
+
+Nach was die Liste gefiltert wurde, wird am unteren Rand in der Filterzeile gezeigt. 
+
+![gefilterte Liste mit der Filterzeile am unteren Ende](assets/images/15.png)
+
+Um alle Einträge der Liste wieder angezeigt zu bekommen, schließen Sie den Filter über das Kreuzchen unten links in der Filterleiste.
+
+![Filter über das Kreuzchen in der Filterleiste schließen](assets/images/16.png)
+
+
+### Inkrementelle Suche
+
+Der schnellste Weg einen Datensatz innerhalb einer Liste zu finden ist die inkrementelle Suche. Diese Suchmöglichkeit funktioniert in sämtlichen Spalten:
+
+* Klicken Sie auf einen beliebigen Wert einer Spalte, als Zeichen, dass Sie in dieser Spalte suchen möchten. Beispiel: Klicken Sie auf einen beliebigen Nachnamen um innerhalb der Nachnamen suchen zu können.
+
+* Tippen Sie einen Wert ein. Beispiel: Sie suchen Schüler Müller, Sie tippen ein m, MAGELLAN bringt Sie zur ersten gefundenen Schüler dessen Nachname mit M beginnt. Tippen Sie mü, der Cursor springt in die nächste gefunden Zeile, dass könnte aber auch Schüler Mühlhausen sein. Tippen Sie Müller, springt der Cursor zum ersten Schüler mit dem Nachnamen Müller.
+
+* Innerhalb der zutreffenden Schülerzeilen, also innerhalb der Schüler mit dem Nachnamen Müller, können Sie jetzt mit STRG+Pfeil aufwärts oder STRG+Pfeil abwärts sich bewegen.
+
+
 ## Eingabe nach Schülern
 
+Um die Daten für Ihre Schüler einzugeben klicken Sie bitte auf die Schaltfläche `Schüler anzeigen` oben links in der Menüleiste.
 
+![Schüler anzeigen](assets/images/18.png)
+
+In der sich öffnenden Ansicht ist das Fenster zweigeteilt: links ist die Liste der Schüler, auf der rechten Seite werden je nach Unterkarte die Daten erfasst. 
+Die Schüler, die auf der linken Seite gezeigt werden, können gefiltert, gruppiert oder sortiert werden. 
 
 ![Eingabe nach Schülern](assets/images/10.png)
 
-In dieser Ansicht ist das Fenster zweigeteilt: links ist die Liste der Schüler, auf der rechten Seite werden je nach Unterkarte die Daten erfasst. 
-Die Schüler, die auf der linken Seite gezeigt werden, können gefiltert, gruppiert oder sortiert werden.
-
-
-### Die Schülerauswahlspalte
-
-Die Leiste auf der linken Seite des Fensters zeigt Ihnen die Schüler, für die Sie Daten erfassen können. Es gibt einige Möglichkeiten diese Liste und auch andere Ansichten zu filtern, zu sortieren, zu gruppieren usw. Wir beschreiben die Funktionalitäten stellvertretend für alle Ansichten anhand dieser Schülerliste.
-
-#### Sortieren, Gruppieren, Filtern usw.
-Aktion| Wie geht es?
---|--
-Sortieren|Klicken Sie mit der linken Maustaste auf einen der Spaltenköpfe, die Inhalte der Spalte werden auf- oder absteigend sortiert. <br/> Beispiel: Sie klicken auf den Spaltenkopf der Spalte Klasse, die Klassen werden beim ersten Klick aufsteigend sortiert, beim erneuten Klick wird die Reihenfolge umgekehrt.
-Mehrfachsortierung | Möchten Sie, dass die Schüler nach den Klassen sortiert werden und aber auch innerhalb der Klasse in alphabethischer Reihenfolge gezeigt werden, klicken Sie als erstes auf den Spaltenkopf der Spalte Klasse, halten anschließend die SHIFT-Taste fest und klicken dann auf den Spaltenkopf der Spalte Nachname. 
-Gruppieren|Zum Gruppieren ziehen Sie den Spaltenkopf der Spalte mit gedrückter Maustaste hoch wie in der Abbildung. <br/>![Gruppieren](assets/images/12.png)<br/>Die einzelnen Zeilen werden je nach Inhalt gruppiert, über die kleinen Dreiecke vor der Bezeichnung kann man eine Gruppierung öffnen oder schließen.<br/> ![Gruppieren öffnen](assets/images/11.png)<br/> Um eine Gruppierung wieder aufzuheben, ziehen Sie den Spaltenkopf der gruppierten Spalte soweit nach unten, dass ein Kreuz gezeigt wird und lassen los. <br/>![Gruppieren aufheben](assets/images/13.png)
-Filtern|
-Filtern|
-inkrementelle Suche|
-
-![](../assets/images/.png)
-* Klassensichtweise: Bei der Klassensichtweise finden Sie eine Auflistung aller Klassen, zu denen Sie Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben müssen. Nach Auswahl einer Klasse können Sie schülerweise und/oder fachweise vorgehen.
-
-* Schülersichtweise: Bei der Schülersichtweise werden alle Schüler insgesamt aufgelistet und Sie können nach Auswahl eines Schüler nur dessen Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben.
-
-* Fächersichtweise: Bei der Fächersichtweise finden Sie eine Auflistung aller Fächer bzw. Kurse, zu denen Sie Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben müssen. Nach Auswahl eines Fachs/Kurses können Sie für die einzelnen Schüler des Kurses Ihre Eingaben vornehmen.
-
-Welche Sichtweise Sie für Ihre Eingaben verwenden bleibt Ihnen überlassen. Selbstverständlich können Sie auch zwischen den Sichtweisen wechseln.
-
-Alle Eingaben beruhen auf zuvor in MAGELLAN festgelegten Schlüsselverzeichnissen für Noten und Zeugnisbemerkungen.
-
-Die Eingabe von selbst definierten Noten oder Veränderung von Schülerstammdaten ist nicht möglich! Wenden Sie sich in diesem Fall an Ihren Administrator.
-
-## Eingabe der Noten aus Klassensicht
-
-Um die Noten aus Klassensicht einzugeben, müssen Sie wie folgt vorgehen.
-
-1. Klicken Sie auf Ansicht und dann auf Klassen anzeigen.
-
-2. Doppelklicken Sie auf eine Zeile der Liste der Klassen auf der Registerkarte  Auswahl.
-
-3. Sie befinden Sie jetzt auf der Registerkarte Schüler-Matrix.
-
-### Registerkarte Schüler-Matrix
-
-Auf der Registerkarte Schüler-Matrix sind alle Schüler der Klasse aufgelistet. 
-
-<figure class="center">
-    <img src="assets/images/screenshot2.png" alt="Registerkarte Schüler-Matrix mit der Liste der Schüler in der Klasse">
-    <figcaption>Registerkarte <em>Schüler-Matrix</em> mit der Liste der Schüler in der Klasse</figcaption>
-</figure>
-
-Markieren Sie einen Schüler, so werden die untergeordneten Registerkarten Leistungen und Weitere Daten mit den Daten des Schülers gefüllt.
-
-Auf der Registerkarte Leistungen werden alle Fächer des Schülers aufgelistet. Geben Sie hier in den eingeblendeten Spalten die notwendigen Werte ein.
-
-Hier kann der Lehrer beim Schüler auch optional den Tutor bzw. Fachlehrer sehen.
-Über die Pfeiltasten können Sie zum nächsten oder vorherigen Schüler wechseln.
- 
-<figure class="center">
-    <img src="/assets/images/screenshot2.png" alt="Registerkarte Leistungen auf der Registerkarte Schüler-Matrix">
-    <figcaption>Registerkarte <em>Leistungen</em> auf der Registerkarte <em>Schüler-Matrix</em></figcaption>
-</figure>
- 
-!!! info "Hinweis"
-
-	Die Schüler-Matrix Leistungen kann nach Excel exportiert werden.
-
-Auf der Registerkarte Weitere Daten können zusätzliche Informationen für das Zeugnis festgehalten werden Neben den Fehltagen und Fehlstunden können Sie auch die Zeugnisbemerkungen des Schülers bestimmen. [Bei Standard nicht enthalten]
- 
-<figure class="center">
-    <img src="/assets/images/screenshot2.png" alt="Registerkarte Weitere Daten auf der Registerkarte Schüler-Matrix">
-    <figcaption>Registerkarte <em>Weitere Daten</em> auf der Registerkarte <em>Schüler-Matrix</em></figcaption>
-</figure>
- 
-Es gibt hier ein zusätzliches Optionsfeld „Keine Unterrichtstage, Versäumnisse, Fehltage usw...“
-
-Markieren Sie diesen Feld, so werden die Werte für Unterrichtstage, Ver¬säumnisse, Fehltage, Fehltage unentschuldigt, Fehlstunden und Fehlstunden unentschuldigt als leere Felder in der MyMAGELLAN-Datei gespeichert. Beim Einlesen der Daten nach MAGELLAN werden diese Felder nicht berücksichtigt und führen somit auch zu keinen Veränderungen bestehender Eingaben.
 
 !!! info "Hinweis"
 
-	In MyMAGELLAN eingetragene Zeugnisbemerkungen werden nur nach MAGELLAN importiert, wenn der Lehrer auch Klassenleiter1 der Klasse ist.
+    Die angezeigten Spalten und Felder, die Bearbeitbarkeit und auch teilweise die Benennung der Spalten hängen davon ab, was Ihr Administrator beim Erstellen Ihrer Datei angegeben hat.
+    Nicht editierbare Spalten werden für eine bessere Sortierbarkeit der Listen in der Datei gezeigt.     
 
-So fügen Sie eine Zeugnisbemerkung ein:
 
-1. Klicken Sie auf Hinzufügen.
+### Leistungen
 
-2. Legen Sie im Dialogfenster Zeugnisbemerkung unter Text den Inhalt der Bemerkung fest. Sie können dazu auf Textbausteine über die Schaltfläche Aus Verzeichnis wählen zurückgreifen, sofern diese zuvor in MAGELLAN definiert worden sind.
+In dieser Ansicht entsprechen die angezeigten Felder der in MAGELLAN gewählten Beurteilungsart der Klasse. Möglich sind Noten, Punkte oder Beurteilungstexte.
 
-3. Legen Sie optional ein Merkmal bzw. eine Position der Bemerkung fest.
 
-4. Klicken Sie auf OK.
- 
+![Eingabe nach Schülern](assets/images/19.png)
 
-<figure class="center">
-    <img src="/assets/images/screenshot5.png" alt="Dialogfenster Zeugnisbemerkungen">
-    <figcaption>Dialogfenster <em>Zeugnisbemerkungen</em></figcaption>
-</figure>
+### Zeugnisdaten
 
-### Registerkarte Fächer-Matrix
-
-Auf der Registerkarte Fächer-Matrix sind alle Schüler der Klasse aus Sichtweise der vergebenen Fächer in der aktuellen Klasse aufgelistet. Durch Doppelklicken auf eine Zeile in der Liste der Fächer findet man auf der rechten Seite die Liste aller Schüler, die in diesem Fach unterrichtet werden. Sie können so fachweise die Leistungen eintragen.
-
-<figure class="center">
-    <img src="/assets/images/screenshot6.png" alt="Registerkarte Fächer-Matrix">
-    <figcaption>Registerkarte <em>Fächer-Matrix</em></figcaption>
-</figure>
+Markieren Sie einen Schüler und wechseln auf die Unterkarte `Zeugnisdaten`. 
 
 !!! info "Hinweis"
 
-	Die Fächer-Matrix kann nach Excel exportiert werden.
+    In der nachstehenden Ansicht sehen Sie sämtliche Felder, die in dieser Ansicht möglich wären. Wenn weniger Felder gezeigt werden, bedeutet dass, das Ihr Administrator einen Teil der Felder nicht mit in die Datei übergeben hat. Das ist sinnvoll, wenn diese Daten beispielsweise per Sammelzuweisung direkt in MAGELLAN gepflegt werden.
 
-## Eingabe der Noten aus Schülersicht
+![Unterkarte Zeugnisdaten](assets/images/22.png)
 
-Um die Noten aus Schülersicht einzugeben, müssen Sie wie folgt vorgehen.
+Verhalten und Mitarbeit: 
+<br/>Sind in MAGELLAN Eintragungen vorhanden auf der Registerkarte `Schüler > Zeugnis > Details` in den Feldern `Verhalten` und `Mitarbeit`, so werden diese nicht gelöscht, wenn eine mym-Datei nach MAGELLAN übertragen wird, die in den genannten Feldern keinen Eintrag enthält. 
 
-1. Klicken Sie auf Ansicht und dann auf Schüler anzeigen.
-
-2. Doppelklicken Sie auf eine Zeile der Liste der Schüler auf der Registerkarte Auswahl.
-
-3. Sie befinden Sie jetzt auf der Registerkarte Zeugnisdaten.
-
-<figure class="center">
-    <img src="/assets/images/screenshot7.png" alt="Registerkarte Leistungen auf der Registerkarte Zeugnisdaten">
-    <figcaption>Registerkarte <em>Leistungen</em> auf der Registerkarte <em>Zeugnisdaten</em></figcaption>
-</figure>
- 
-Die Eingabe auf der Registerkarte Zeugnisdaten erfolgt analog zur Eingabe auf der Registerkarte Schüler-Matrix bei der Eingabe aus Klassensicht.
-
-## Eingabe der Noten aus Fächer-/Kurssicht
-
-Um die Noten aus Fach- bzw. Kurssicht einzugeben, müssen Sie wie folgt vorgehen.
-
-1. Klicken Sie auf Ansicht und dann auf Fächer anzeigen.
-
-2. Markieren Sie eine Zeile der Liste der Fächer bzw. Kurse .
-
-3. Sie können nun im rechten Bereich die Noten aus Fächer- bzw. Kurssicht erfassen.
-
-<figure class="center">
-    <img src="/assets/images/screenshot8.png" alt="Registerkarte Fächer-Matrix zur fach- bzw. kursweisen Erfassung der Noten">
-    <figcaption>Registerkarte <em>Fächer-Matrix</em> zur fach- bzw. kursweisen Erfassung der Noten</figcaption>
-</figure>
-
-Die Eingabe auf der Registerkarte Fächer-Matrix erfolgt analog zur Eingabe auf der Registerkarte Fächer-Matrix bei der Eingabe aus Klassensicht.
-
-## Zusatzinformationen
-
-#### Willkommen-Fenster
-
-Über das Willkommen-Fenster können Sie jederzeit wichtige Informationen abfragen. Sie können dieses Fenster wie folgt aufrufen:
-
-* Klicken Sie auf Ansicht und dann auf Willkommen.
-
-Im obersten Teil finden Sie das Ausgabedatum Ihrer MyMAGELLAN-Version. Aktuelle Informationen zur geladen MyMAGELLAN-Datei finden Sie im mittleren Teil. Besonders hilfreich ist hierbei die Anzeige, wie viele Notenfelder noch nicht gefüllt sind. Sie können so auf einen Blick feststellen, ob Sie die Leistungen bei allen Schülern eingegeben haben
-
-Unter Bemerkung finden Sie evtl. Hinweise des Administrators an Sie, die Sie unbedingt beachten sollten.
-
-### Startdatei
-
-Nachdem Sie einmal Ihre MyMAGELLAN-Datei mit MyMAGELLAN geladen haben, merkt sich MyMagelan diese Einstellung. Beim Verlassen und erneuten Aufruf von MyMAGELLAN wird automatisch die zuletzt geladene MyMAGELLAN-Datei geöffnet und Sie werden ggf. direkt nach dem Kennwort gefragt.
-
-### Besonderheiten
-
-Verhalten und Mitarbeit: Sind in MAGELLAN Eintragungen vorhanden auf den Registerkarten `Schüler > Zeugnis > Zeugnis` und `Schüler > Zeugnis > Details` in den Feldern Verhalten und Mitarbeit, so werden diese nicht gelöscht, wenn eine mym-Datei nach MAGELLAN übertragen wird, die in den genannten Feldern keinen Eintrag enthält. 
-
-Unterrichtstage und Versäumnisse: Sind die folgenden Felder in MAGELLAN auf Registerkarte `Schüler > Zeugnis > Details` mit einem Wert gefüllt, wird dieser überschrieben, wenn eine mym-Datei eingesammelt wird, die in diesen Feldern einen Wert hat, d.h. entweder einen Noten-, Punkt- bzw. Füllwert oder 0 beinhaltet:
+Unterrichtstage und Versäumnisse: 
+<br/>Sind die folgenden Felder in MAGELLAN auf Registerkarte `Schüler > Zeugnis > Details` mit einem Wert gefüllt, wird dieser überschrieben, wenn eine mym-Datei eingesammelt wird, die in diesen Feldern einen Wert hat oder eine 0 beinhaltet:
 
 * Unterrichtstage
 * Versäumnisse
 
-Fehltage, davon unentschuldigt, Fehlstunden und davon unentschuldigt: Wie die nachfolgenden Felder beim Einlesen in MAGELLAN verarbeitet werden (Überschreiben, Addieren oder keine Änderung), hängt von der Einstellungen des Administrator ab, der Ihre MyMAGELLAN-Datei erstellt hat:
+Fehltage, davon unentschuldigt, Fehlstunden und davon unentschuldigt: 
+<br/>Wie die nachfolgenden Felder beim Einlesen in MAGELLAN verarbeitet werden (Überschreiben, Addieren oder keine Änderung), hängt von der Einstellungen des Administrator ab, der Ihre MyMAGELLAN-Datei erstellt hat:
 
 * Fehltage 
 * davon unentschuldigt
@@ -203,4 +137,20 @@ Es ist sowohl in MAGELLAN als auch in MyMAGELLAN nicht möglich, diese Felder zu
 
 !!! info "Fazit"
 
-	Die mym-Datei desjenigen Lehrers, der die Zeugnisdetails der Schüler erfassen soll (in den meisten Fällen der Klassenlehrer), sollte erst ein¬gesammelt werden, wenn die Dateien der Fachlehrer schon nach MAGELLAN übernommen wurden.
+	Die mym-Datei desjenigen Lehrers, der die Zeugnisdetails der Schüler erfassen soll (in den meisten Fällen der Klassenlehrer), sollte erst eingesammelt werden, wenn die Dateien der Fachlehrer schon nach MAGELLAN übernommen wurden.
+
+### Zeugnisbemerkungen
+
+
+
+## Eingabe nach Fächern
+
+Um die Daten für Ihre Schüler aus Sicht der Fächer einzugeben klicken Sie bitte auf die Schaltfläche `Fächer anzeigen` oben links in der Menüleiste.
+
+
+![Aufruf der Fächeransicht](assets/images/21.png)
+
+Es öffnet sich ein zweigeteiltes Fenster, auf der linken Seite wählen Sie das Fach aus, für das Sie Leistungen erfassen möchten, auf der rechten Seite werden die dazugefundenen Daten in Listenform gezeigt. 
+
+![Eingabe nach Fächern](assets/images/20.png)
+
