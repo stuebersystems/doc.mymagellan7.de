@@ -105,11 +105,9 @@ Die Schüler, die auf der linken Seite gezeigt werden, können gefiltert, gruppi
     Die angezeigten Spalten und Felder, die Bearbeitbarkeit und auch teilweise die Benennung der Spalten hängen davon ab, was Ihr Administrator beim Erstellen Ihrer Datei angegeben hat.
     Nicht editierbare Spalten werden für eine bessere Sortierbarkeit der Listen in der Datei gezeigt.     
 
-
 ### Leistungen
 
 In dieser Ansicht entsprechen die angezeigten Felder der in MAGELLAN gewählten Beurteilungsart der Klasse. Möglich sind Noten, Punkte oder Beurteilungstexte.
-
 
 ![Eingabe nach Schülern](assets/images/19.png)
 
@@ -124,7 +122,7 @@ Markieren Sie einen Schüler und wechseln auf die Unterkarte `Zeugnisdaten`.
 ![Unterkarte Zeugnisdaten](assets/images/22.png)
 
 Verhalten und Mitarbeit: 
-<br/>Sind in MAGELLAN Eintragungen vorhanden auf der Registerkarte `Schüler > Zeugnis > Details` in den Feldern `Verhalten` und `Mitarbeit`, so werden diese nicht gelöscht, wenn eine mym-Datei nach MAGELLAN übertragen wird, die in den genannten Feldern keinen Eintrag enthält. 
+<br/> Sind in MAGELLAN Eintragungen vorhanden auf der Registerkarte `Schüler > Zeugnis > Details` in den Feldern `Verhalten` und `Mitarbeit`, so werden diese nicht gelöscht, wenn eine mym-Datei nach MAGELLAN übertragen wird, die in den genannten Feldern keinen Eintrag enthält. 
 
 Unterrichtstage und Versäumnisse: 
 <br/>Sind die folgenden Felder in MAGELLAN auf Registerkarte `Schüler > Zeugnis > Details` mit einem Wert gefüllt, wird dieser überschrieben, wenn eine mym-Datei eingesammelt wird, die in diesen Feldern einen Wert hat oder eine 0 beinhaltet:
