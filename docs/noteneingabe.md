@@ -67,7 +67,25 @@ Der schnellste Weg einen Datensatz innerhalb einer Liste zu finden ist die inkre
 
 * Tippen Sie einen Wert ein. Beispiel: Sie suchen Schüler Müller, Sie tippen ein m, MAGELLAN bringt Sie zur ersten gefundenen Schüler dessen Nachname mit M beginnt. Tippen Sie mü, der Cursor springt in die nächste gefunden Zeile, dass könnte aber auch Schüler Mühlhausen sein. Tippen Sie Müller, springt der Cursor zum ersten Schüler mit dem Nachnamen Müller.
 
-* Innerhalb der zutreffenden Schülerzeilen, also innerhalb der Schüler mit dem Nachnamen Müller, können Sie jetzt mit STRG+Pfeil aufwärts oder STRG+Pfeil abwärts sich bewegen.
+* Innerhalb der zutreffenden Schülerzeilen, also innerhalb der Schüler mit dem Nachnamen Müller, können Sie jetzt mit `STRG + Pfeil` aufwärts oder `STRG + Pfeil abwärts` sich bewegen.
+
+### Spaltenreihenfolge
+
+Die Listen haben links neben dem ersten Spaltenkopf ein kleines Symbol in Form eines Zahnrades.
+
+![Dialog zum Reihenfolge ändern](assets/images/23.png)
+
+Öffnen Sie den Dialog per Mausklick, es werden alle verfügbaren Spalten gezeigt. Wollen Sie beispielsweise die Spalte Endnote weiter vorn in der Liste positionieren, schieben Sie die `Endnote` mit gedrückter linker Maustaste auf die gewünschte Position weiter oben in der Liste. Es werden grüne Pfeile als Sprungmarken angezeigt, lassen Sie die Spalte wie in der nachfolgenden Abbildung an dieser Position los, positioniert sich die `Endnote` zwischen `Schwerpunkt` und `Niveau`.
+
+![Spaltenposition ändern](assets/images/24.png)
+
+### Spaltensichtbarkeit
+
+Welche Spalten und Felder in der Datei sichtbar sind, grenzt Ihr Administrator beim Erstellen der Dateien ein. Dabei sollten in der Datei immer nur die Spalten/Felder enthalten sein, die von Ihnen gepflegt werden sollen plus Spalten, die für das Erstellen einer bestimmten Reihenfolge wichtig sind. Beispiel: Sie können die Unterrichtsart der Schüler nicht über MyMAGELLAN nicht editieren, benötigen diese Spalte aber um die Schüler des Deutsch Grundkurse korrekt zu sortieren.
+
+Spalten, die gezeigt werden, die Sie aber nicht benötigen, könenn Sie aus den Listen ausblenden. Dafür entfernen Sie bitte das Häkchen wie in der nachstehenden Abbildung für die Beispiele `Position` und `Schwerpunkt`.
+
+![Spaltensichtbarkeit ändern](assets/images/25.png)
 
 
 ## Eingabe nach Schülern
