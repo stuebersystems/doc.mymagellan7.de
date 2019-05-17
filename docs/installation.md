@@ -19,11 +19,19 @@ MyMAGELLAN ist kompatibel mit folgenden Betriebssystemen:
 
 Nachdem Sie die Installationsdateien für MyMAGELLAN in Absprache mit Ihrem Administrator erhalten haben, gehen Sie wie folgt vor:
 
-1. Starten Sie über Ihren Windows-Explorer die Datei „MyMAGELLAN.msi“ auf Ihrem Datenträger.
+1. Starten Sie Installation per Doppelklick auf die Datei „MyMAGELLAN.msi“ auf Ihrem Datenträger. Bestätigen Sie anschließend alle Fenster mit `Weiter` und `Fertigstellen`, das Programm wird auf Ihrem Rechner installiert.
 
-2. Folgen Sie den Anweisungen des Installationsprogramms. 
-	
-Wenn Sie alle Angaben bestätigt haben, beginnt das Installationsprogramm damit, alle benötigten Dateien auf Ihren Rechner zu kopieren. Dies dauert eine gewisse Zeit. Nach Abschluss der Installation müssen Sie noch einmal bestätigen.
+
+![Bestätigen Sie mit Weiter!](assets/images/installation/01.png)
+
+![Klicken Sie auf Installieren!](assets/images/installation/02.png)
+
+![MyMagellan wird auf Ihrem Rechner installiert.](assets/images/installation/03.png)
+
+![Klicken Sie auf Fertigstellen!](assets/images/installation/04.png)
+
+
+MyMagellan ist auf Ihren Rechner installiert!
 
 ## So starten Sie MyMAGELLAN
 
