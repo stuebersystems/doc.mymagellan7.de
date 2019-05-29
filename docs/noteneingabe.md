@@ -4,7 +4,7 @@
 Es gibt zwei Ansichten für die Eingabe, einmal für die Datenerfassung je Schüler (Leistungen, weitere Zeugnisdaten, Zeugnisbemerkugne, Fehlzeitern) oder aus Sicht eines Faches (Leistungen).
 
  
- ![Aufrufe für die Eingabe nach Schülern oder nach Fächern](assets/images/09.png)
+ ![Aufrufe für die Eingabe nach Schülern oder nach Fächern](/assets/images/09.png)
 
 
 
@@ -30,33 +30,33 @@ Möchten Sie, dass die Schüler nach den Klassen sortiert werden und aber auch i
 
 Um zu Gruppieren ziehen Sie den Spaltenkopf der Spalte mit gedrückter Maustaste hoch wie in der Abbildung. 
 
-![Gruppieren](assets/images/12.png)
+![Gruppieren](/assets/images/12.png)
 
 Die einzelnen Zeilen werden je nach Inhalt gruppiert, über die kleinen Dreiecke vor der Bezeichnung kann man eine Gruppierung öffnen oder schließen.
 
-![Gruppieren öffnen](assets/images/11.png)
+![Gruppieren öffnen](/assets/images/11.png)
 
 Um eine Gruppierung wieder aufzuheben, ziehen Sie den Spaltenkopf der gruppierten Spalte soweit nach unten, dass ein Kreuz gezeigt wird und lassen los. 
 
-![Gruppieren aufheben](assets/images/13.png)
+![Gruppieren aufheben](/assets/images/13.png)
 
 ### Filtern
 
 Beim Filtern kann man Inhalte ausblenden. Im nachstehenden Beispiel werden nach der Filterung nur die Fachzeilen mit der Unterrichtsart `GK` gezeigt. Dazu fahren Sie mit dem Mauszeiger über den Spaltenkopf der Spalte `Unterrichtsart` und klicken auf das erscheinde Filtersymbol.
 
-![Filtersymbol](assets/images/17.png)
+![Filtersymbol](/assets/images/17.png)
 
 In der Klappliste werden je nach gewähltem Spaltenkopf die Inhalte der Spalte gezeigt, in diesem Fall GK und LK. Setzen Sie das Häkchen vor dem Wert oder vor den Werten die gezeigt werden sollen, alle anderen Zeilen werden ausgeblendet.
 
-![Die Liste nach der Unterrichtsart GK filtern](assets/images/14.png)
+![Die Liste nach der Unterrichtsart GK filtern](/assets/images/14.png)
 
 Nach was die Liste gefiltert wurde, wird am unteren Rand in der Filterzeile gezeigt. 
 
-![gefilterte Liste mit der Filterzeile am unteren Ende](assets/images/15.png)
+![gefilterte Liste mit der Filterzeile am unteren Ende](/assets/images/15.png)
 
 Um alle Einträge der Liste wieder angezeigt zu bekommen, schließen Sie den Filter über das Kreuzchen unten links in der Filterleiste.
 
-![Filter über das Kreuzchen in der Filterleiste schließen](assets/images/16.png)
+![Filter über das Kreuzchen in der Filterleiste schließen](/assets/images/16.png)
 
 
 ### Inkrementelle Suche
@@ -73,11 +73,11 @@ Der schnellste Weg einen Datensatz innerhalb einer Liste zu finden ist die inkre
 
 Die Listen haben links neben dem ersten Spaltenkopf ein kleines Symbol in Form eines Zahnrades.
 
-![Dialog zum Reihenfolge ändern](assets/images/23.png)
+![Dialog zum Reihenfolge ändern](/assets/images/23.png)
 
 Öffnen Sie den Dialog per Mausklick, es werden alle verfügbaren Spalten gezeigt. Wollen Sie beispielsweise die Spalte Endnote weiter vorn in der Liste positionieren, schieben Sie die `Endnote` mit gedrückter linker Maustaste auf die gewünschte Position weiter oben in der Liste. Es werden grüne Pfeile als Sprungmarken angezeigt, lassen Sie die Spalte wie in der nachfolgenden Abbildung an dieser Position los, positioniert sich die `Endnote` zwischen `Schwerpunkt` und `Niveau`.
 
-![Spaltenposition ändern](assets/images/24.png)
+![Spaltenposition ändern](/assets/images/24.png)
 
 ### Spaltensichtbarkeit
 
@@ -85,19 +85,19 @@ Welche Spalten und Felder in der Datei sichtbar sind, grenzt Ihr Administrator b
 
 Spalten, die gezeigt werden, die Sie aber nicht benötigen, könenn Sie aus den Listen ausblenden. Dafür entfernen Sie bitte das Häkchen wie in der nachstehenden Abbildung für die Beispiele `Position` und `Schwerpunkt`.
 
-![Spaltensichtbarkeit ändern](assets/images/25.png)
+![Spaltensichtbarkeit ändern](/assets/images/25.png)
 
 
 ## Eingabe nach Schülern
 
 Um die Daten für Ihre Schüler einzugeben klicken Sie bitte auf die Schaltfläche `Schüler anzeigen` oben links in der Menüleiste.
 
-![Schüler anzeigen](assets/images/18.png)
+![Schüler anzeigen](/assets/images/18.png)
 
 In der sich öffnenden Ansicht ist das Fenster zweigeteilt: links ist die Liste der Schüler, auf der rechten Seite werden je nach Unterkarte die Daten erfasst. 
 Die Schüler, die auf der linken Seite gezeigt werden, können gefiltert, gruppiert oder sortiert werden. 
 
-![Eingabe nach Schülern](assets/images/10.png)
+![Eingabe nach Schülern](/assets/images/10.png)
 
 
 !!! info "Hinweis"
@@ -109,7 +109,7 @@ Die Schüler, die auf der linken Seite gezeigt werden, können gefiltert, gruppi
 
 In dieser Ansicht entsprechen die angezeigten Felder der in MAGELLAN gewählten Beurteilungsart der Klasse. Möglich sind Noten, Punkte oder Beurteilungstexte.
 
-![Eingabe nach Schülern](assets/images/19.png)
+![Eingabe nach Schülern](/assets/images/19.png)
 
 ### Zeugnisdaten
 
@@ -119,7 +119,7 @@ Markieren Sie einen Schüler und wechseln auf die Unterkarte `Zeugnisdaten`.
 
     In der nachstehenden Ansicht sehen Sie sämtliche Felder, die in dieser Ansicht möglich wären. Wenn weniger Felder gezeigt werden, bedeutet dass, das Ihr Administrator einen Teil der Felder nicht mit in die Datei übergeben hat. Das ist sinnvoll, wenn diese Daten beispielsweise per Sammelzuweisung direkt in MAGELLAN gepflegt werden.
 
-![Unterkarte Zeugnisdaten](assets/images/22.png)
+![Unterkarte Zeugnisdaten](/assets/images/22.png)
 
 Verhalten und Mitarbeit: 
 <br/> Sind in MAGELLAN Eintragungen vorhanden auf der Registerkarte `Schüler > Zeugnis > Details` in den Feldern `Verhalten` und `Mitarbeit`, so werden diese nicht gelöscht, wenn eine mym-Datei nach MAGELLAN übertragen wird, die in den genannten Feldern keinen Eintrag enthält. 
@@ -158,15 +158,46 @@ Es ist sowohl in MAGELLAN als auch in MyMAGELLAN nicht möglich, diese Felder zu
 ### Zeugnisbemerkungen
 
 
+!!! info "Hinweis"
+
+    Bitte beachten Sie, dass Sie nur Zeugnisbemerkungen für Schüler erfassen können, für die Sie in MAGELLAN, also im Schulverwaltungsprogramm als Klassenleiter oder als Tutor zugewiesen wurden. Als Fachlehrer können keine Zeugnisbemerkungen für Schüler erfasst werden.
+
+#### neue Zeugnisbemerkungen anlegen
+
+So geht's:
+
+1. Markieren Sie in der linken Spalte den Schüler, für den Sie die Zeugnisbemerkung anlegen möchten und wechseln bitte auf die Unterkarte `Zeugnisbemerkungen`.
+2. Klicken Sie auf die Plusschaltfläche, es öffnet sich das Fenster `Zeugnisbemerkungen`. Sie haben mehrere Möglichkeiten eine Zeugnisbemerkung anzulegen.
+   
+   Nr. | Variante
+   --|--
+   1. | Tippen Sie auf der rechten Seite den Text ein, vergeben eine Positionsnummer und bestätigen mit `Speichern und Schließen`.
+   2. | Wählen Sie auf der linken Seite eine Bemerkung aus, übernehmen sie per Doppelklick auf die rechte Seite, passen sie ggfs. an und bestätigen mit `Speichern und Schließen`.
+   3. |Markieren Sie auf der linken Seite mehrere Zeugnisbemerkungen (anklicken, STRG-Taste halten, nächste anklicken usw.), übernehmen die Auswahl über `Hinzufügen` auf die rechte Seite, passen sie ggfs. den Text an und bestätigen mit `Speichern und Schließen`.
+   
+![eine neue Zeugnisbemerkung anlegen](/assets/images/26.png)
+
+#### Zeugnisbemerkungen ändern
+
+Möchten Sie später eine bestehende Zeugnisbemerkung anpassen, klicken Sie einfach doppelt auf die zu ändernde Zeugnisbemerkung auf der Karte `Zeugnisbemerkungen`. Alternativ können Sie auch die Bemerkung markieren und auf die Schaltfläche mit dem Stiftsymbol gehen. Es öffnet sich in beiden Fällen das Unterfenster `Zeugnisbemerkungen`, passen Sie dort die Eintragungen an und bestätigen mit `Speichern und Schließen`.
+
+#### Zeugnisbemerkungen löschen
+
+Auf der Unterkarte `Zeugnisbemerkungen` gibt es zwei Optionen zum Löschen:
+
+Aufruf|Funktion
+--|--
+![](/assets/images/27.png)| Klicken Sie eine oder mehrere Bemerkungen an und wählen diese Schaltfläche um ihre Auswahl zu löschen. 
+![](/assets/images/28.png)|Wählen Sie diese Schaltfläche um ALLE Zeugnisbemerkungen zu löschen.
 
 ## Eingabe nach Fächern
 
 Um die Daten für Ihre Schüler aus Sicht der Fächer einzugeben klicken Sie bitte auf die Schaltfläche `Fächer anzeigen` oben links in der Menüleiste.
 
 
-![Aufruf der Fächeransicht](assets/images/21.png)
+![Aufruf der Fächeransicht](/assets/images/21.png)
 
 Es öffnet sich ein zweigeteiltes Fenster, auf der linken Seite wählen Sie das Fach aus, für das Sie Leistungen erfassen möchten, auf der rechten Seite werden die dazugefundenen Daten in Listenform gezeigt. 
 
-![Eingabe nach Fächern](assets/images/20.png)
+![Eingabe nach Fächern](/assets/images/20.png)
 

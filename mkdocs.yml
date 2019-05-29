@@ -36,6 +36,10 @@ theme:
 extra_css:
     - assets/css/custom.css
     
+# Plugins    
+plugins:
+    - img2fig
+
 # Extensions    
 markdown_extensions:
     - admonition

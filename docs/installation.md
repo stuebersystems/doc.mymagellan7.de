@@ -22,13 +22,13 @@ Nachdem Sie die Installationsdateien für MyMAGELLAN in Absprache mit Ihrem Admi
 1. Starten Sie Installation per Doppelklick auf die Datei „MyMAGELLAN.msi“ auf Ihrem Datenträger. Bestätigen Sie anschließend alle Fenster mit `Weiter` und `Fertigstellen`, das Programm wird auf Ihrem Rechner installiert.
 
 
-![Bestätigen Sie mit Weiter!](assets/images/installation/01.png)
+![Bestätigen Sie mit Weiter!](/assets/images/installation/01.png)
 
-![Klicken Sie auf Installieren!](assets/images/installation/02.png)
+![Klicken Sie auf Installieren!](/assets/images/installation/02.png)
 
-![MyMagellan wird auf Ihrem Rechner installiert.](assets/images/installation/03.png)
+![MyMagellan wird auf Ihrem Rechner installiert.](/assets/images/installation/03.png)
 
-![Klicken Sie auf Fertigstellen!](assets/images/installation/04.png)
+![Klicken Sie auf Fertigstellen!](/assets/images/installation/04.png)
 
 
 MyMagellan ist auf Ihren Rechner installiert!
@@ -58,7 +58,7 @@ Nach dem Laden der Datei werden Sie ggf. nach dem Kennwort Ihrer MyMAGELLAN-Date
 
 
 
-![Die Willkommensseite in MyMAGELLAN](assets/images/screenshot1.png)
+![Die Willkommensseite in MyMAGELLAN](/assets/images/screenshot1.png)
 
 ## Datensicherung
 
