@@ -200,3 +200,17 @@ Um die Daten für Ihre Schüler aus Sicht der Fächer einzugeben klicken Sie bit
 Es öffnet sich ein zweigeteiltes Fenster, auf der linken Seite wählen Sie das Fach aus, für das Sie Leistungen erfassen möchten, auf der rechten Seite werden die dazugefundenen Daten in Listenform gezeigt. 
 
 ![Eingabe nach Fächern](/assets/images/20.png)
+
+## Speichern
+
+
+!!! warning "Wichtig"
+
+    Es kann nichts gespeichert werden, wenn Ihr Cursor noch im gerade geänderten Feld blinkt! Bitte klicken Sie vor dem Beenden des Programms in eine anderes Feld.
+
+
+
+Speichertyp | Möglichkeiten im Programm
+-- | --
+Speichern | `Datei > Speichern` <br/> `STRG + S` <br/> Speicherabfrage beim Beenden des Programms
+Speichern unter | `Datei > Speichern unter` <br/> `STRG + Shift + S`
