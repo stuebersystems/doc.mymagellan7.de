@@ -121,39 +121,39 @@ Markieren Sie einen Schüler und wechseln auf die Unterkarte `Zeugnisdaten`.
 
 ![Unterkarte Zeugnisdaten](/assets/images/22.png)
 
-Verhalten und Mitarbeit: 
-<br/> Sind in MAGELLAN Eintragungen vorhanden auf der Registerkarte `Schüler > Zeugnis > Details` in den Feldern `Verhalten` und `Mitarbeit`, so werden diese nicht gelöscht, wenn eine mym-Datei nach MAGELLAN übertragen wird, die in den genannten Feldern keinen Eintrag enthält. 
+Diese Karte ist dreigeteilt in die Abschnitte:
 
-Unterrichtstage und Versäumnisse: 
-<br/>Sind die folgenden Felder in MAGELLAN auf Registerkarte `Schüler > Zeugnis > Details` mit einem Wert gefüllt, wird dieser überschrieben, wenn eine mym-Datei eingesammelt wird, die in diesen Feldern einen Wert hat oder eine 0 beinhaltet:
+* Abschlussdaten
+* Versetzungs- und Zeugnisdaten
+* Weitere Daten
 
-* Unterrichtstage
-* Versäumnisse
+Je nach den Einstellungen beim Erzeugen Ihrer mym-Datei können hier auch Daten, die an Ihrer Schule direkt in Magellan oder von anderen Kollegen erfasst werden, nicht sichtbar sein. Sind alle Felder eines Bereichs ausgeblendet, wird die ganze Spalte ausgeblendet.
 
-Fehltage, davon unentschuldigt, Fehlstunden und davon unentschuldigt: 
-<br/>Wie die nachfolgenden Felder beim Einlesen in MAGELLAN verarbeitet werden (Überschreiben, Addieren oder keine Änderung), hängt von der Einstellungen des Administrator ab, der Ihre MyMAGELLAN-Datei erstellt hat:
+In den jeweiligen Feldern werden die Daten (Beispiel Abschluss 1) gezeigt, die in den Verzeichnissen im Schulverwaltungsprogramm gepflegt wurden und mit in die Datei gespielt wurden.
 
-* Fehltage 
-* davon unentschuldigt
-* Fehlstunden
-* davon unentschuldigt
 
-Felder unter `Zeugnis > Zeugnis und Leistungen`: Für alle Eintragungen auf Registerkarte `Schüler > Zeugnis > Zeugnis` und alle Felder auf Registerkarte `Schüler > Zeugnis > Leistungen` gilt ebenfalls, dass dies beim Einlesen in MAGELLAN zu einem Überschreiben der bisherigen Werte in MAGELLAN führt.
+#### Sammelzuweisung
 
-Mit Null vorbesetzte Felder: Nach dem Einschulen eines Schülers in MAGELLAN sind auf der Registerkarte `Schüler > Zeugnis > Details` folgende Felder automatisch mit dem Wert 0 vorbelegt (es werden hier nur die Felder genannt, die als Eingabefeld in MyMAGELLAN existieren):
+  Die Felder in den Blöcken `Abschlussdaten` und `Versetzungs- und Zeugnisdaten` können manuell oder per Sammelzuweisung gefüllt werden.
 
-* Unterrichtstage
-* Versäumnisse
-* Fehltage 
-* davon unentschuldigt
-* Fehlstunden
-* davon unentschuldigt
+![Unterkarte Zeugnisdaten](/assets/images/30.png)
 
-Es ist sowohl in MAGELLAN als auch in MyMAGELLAN nicht möglich, diese Felder zu leeren. Das bedeutet, dass bei dem Verteilen von MyMAGELLAN-Dateien in den o.g. Feldern immer ein 0-Wert ausgegeben wird, was zur Folge hat, dass beim Einsammeln dieser Dateien grundsätzlich der Wert 0 zurück nach MAGELLAN übertragen wird, wenn in MyMAGELLAN dort keine Eintragung vorgenommen wurde. Das wiederum bewirkt ein Überschreiben eines eventuell in MAGELLAN bereits vorhandenen Wertes mit dem Wert 0, wie unter Punkt 2 beschrieben.
+So geht`s:
 
-!!! info "Fazit"
+1. Rufen Sie die `Sammelzuweisung` über die gleichnamige Schaltfläche auf!
+2. Markieren Sie die Schüler, für die Sie Daten gesammelt zuweisen möchten und klicken bitte auf `Weiter`!
+![Sammelzuweisung: Schüler markieren](/assets/images/31.png)
+3. Setzen Sie das Häkchen vor dem Feld, das Sie füllen möchten und wählen einen Wert für das Feld aus.
+![Sammelzuweisung: Wert auswählen](/assets/images/32.png)
+4. Klicken Sie auf `Fertigstellen`, der Assistent füllt für alle gewählten Schüler dieses Feld.
 
-	Die mym-Datei desjenigen Lehrers, der die Zeugnisdetails der Schüler erfassen soll (in den meisten Fällen der Klassenlehrer), sollte erst eingesammelt werden, wenn die Dateien der Fachlehrer schon nach MAGELLAN übernommen wurden.
+
+!!! info "Hinweis"
+
+    Wenn Sie nur das Häkchen vor einem Feld setzen, aber keine Auswahl treffen, können Sie auch gesammelt Einträge für mehrere Schüler zurücksetzen. 
+    Aber: Das Leeren der Felder betrifft nur Ihre MyMAGELLAN-Datei, es werden keine Feldinhalte in MAGELLAN durch den Import dieser Felder zurückgesetzt.
+    Sollen aus den Blöcken `Abschlussdaten` und `Versetzungs- und Zeugnisdaten` verkehrte Eintragungen entfernt werden, ist das in letzter Konsequenz nur direkt in MAGELLAN möglich.
+
 
 ### Zeugnisbemerkungen
 
@@ -168,6 +168,9 @@ So geht's:
 
 1. Markieren Sie in der linken Spalte den Schüler, für den Sie die Zeugnisbemerkung anlegen möchten und wechseln bitte auf die Unterkarte `Zeugnisbemerkungen`.
 2. Klicken Sie auf die Plusschaltfläche, es öffnet sich das Fenster `Zeugnisbemerkungen`. Sie haben mehrere Möglichkeiten eine Zeugnisbemerkung anzulegen.
+
+![eine neue Zeugnisbemerkung anlegen](/assets/images/26.png)
+
    
    Nr. | Variante
    --|--
@@ -175,7 +178,7 @@ So geht's:
    2. | Wählen Sie auf der linken Seite eine Bemerkung aus, übernehmen sie per Doppelklick auf die rechte Seite, passen sie ggfs. an und bestätigen mit `Speichern und Schließen`.
    3. |Markieren Sie auf der linken Seite mehrere Zeugnisbemerkungen (anklicken, STRG-Taste halten, nächste anklicken usw.), übernehmen die Auswahl über `Hinzufügen` auf die rechte Seite, passen sie ggfs. den Text an und bestätigen mit `Speichern und Schließen`.
    
-![eine neue Zeugnisbemerkung anlegen](/assets/images/26.png)
+![zweigeteiltes Fenster "Zeugnisbemerkungen"](/assets/images/29.png)
 
 #### Zeugnisbemerkungen ändern
 
