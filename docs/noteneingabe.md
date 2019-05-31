@@ -210,7 +210,7 @@ Es öffnet sich ein zweigeteiltes Fenster, auf der linken Seite wählen Sie das 
 
 !!! warning "Wichtig"
 
-    Ein geänderter Wert in dessen Feld noch Ihr Cursor blinkt, kann nie gespeichert werden! Bitte klicken Sie vor dem Beenden des Programms in ein anderes Feld.
+    Ein geänderter Wert in dessen Feld noch Ihr Cursor blinkt, kann nicht gespeichert werden! Bitte klicken Sie vor dem Beenden des Programms in ein anderes Feld.
 
 
 
