@@ -158,9 +158,10 @@ So geht`s:
 ### Zeugnisbemerkungen
 
 
-!!! info "Hinweis"
 
-    Bitte beachten Sie, dass Sie nur Zeugnisbemerkungen für Schüler erfassen können, für die Sie in MAGELLAN, also im Schulverwaltungsprogramm als Klassenleiter oder als Tutor zugewiesen wurden. Als Fachlehrer können keine Zeugnisbemerkungen für Schüler erfasst werden.
+!!! warning "Wichtig"
+
+    Bitte beachten Sie, dass Sie nur Zeugnisbemerkungen für Schüler erfassen können, für die Sie in MAGELLAN, also im Schulverwaltungsprogramm als Klassenleiter oder als Tutor zugewiesen wurden. Als Fachlehrer können keine Zeugnisbemerkungen für Schüler erfasst werden. In diesem Fall sind die Schaltfläche auf der Karte `Zeugnisbemerkungen` deaktiviert.
 
 #### neue Zeugnisbemerkungen anlegen
 
@@ -209,7 +210,7 @@ Es öffnet sich ein zweigeteiltes Fenster, auf der linken Seite wählen Sie das 
 
 !!! warning "Wichtig"
 
-    Es kann nichts gespeichert werden, wenn Ihr Cursor noch im gerade geänderten Feld blinkt! Bitte klicken Sie vor dem Beenden des Programms in eine anderes Feld.
+    Ein geänderter Wert in dessen Feld noch Ihr Cursor blinkt, kann nie gespeichert werden! Bitte klicken Sie vor dem Beenden des Programms in ein anderes Feld.
 
 
 
