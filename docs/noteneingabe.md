@@ -201,7 +201,15 @@ Um die Daten für Ihre Schüler aus Sicht der Fächer einzugeben klicken Sie bit
 
 ![Aufruf der Fächeransicht](/assets/images/21.png)
 
-Es öffnet sich ein zweigeteiltes Fenster, auf der linken Seite wählen Sie das Fach aus, für das Sie Leistungen erfassen möchten, auf der rechten Seite werden die dazugefundenen Daten in Listenform gezeigt. 
+Nach dem Klick auf `Fächer anzeigen` öffnet sich ein zweigeteiltes Fenster, auf der linken Seite wählen Sie das Fach aus, für das Sie Leistungen erfassen möchten, auf der rechten Seite werden die dazugefundenen Daten in Listenform gezeigt. Diese Ansicht zeigt beim ersten Aufruf erst nur die Schüler, die mit Noten beurteilt werden und blendet Schüler, die mit Texten oder Punkten beurteilt werden aus.
+
+!!! warning "Wichtig"
+
+     Schüler können je nach Einstellung in MAGELLAN unterschiedlich beurteilt werden: nach Punkten, nach Noten oder auch mit Texten. Daher kann in den Notenspalten Folgendes gezeigt werden:
+     * nichts (für Schüler, die nach Testen zu beurteilen sind) 
+     * Noten (Beispiel 1 für sehr gut)
+     * Punkte (1 für mangelhaft)
+  Um Verwechslungen vorzubeugen wird diese Ansicht stets gefiltert dargestellt, im Standard werden nur Schüler gezeigt, die mit Noten beurteilt werden. Sie können die Filterung in der oberen Menüleiste anpassen.
 
 ![Eingabe nach Fächern](/assets/images/20.png)
 
