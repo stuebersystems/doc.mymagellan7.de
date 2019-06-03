@@ -38,7 +38,9 @@ extra_css:
     
 # Plugins    
 plugins:
+    - search
     - img2fig
+
 
 # Extensions    
 markdown_extensions:
