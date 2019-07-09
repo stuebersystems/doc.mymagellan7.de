@@ -1,11 +1,11 @@
-# Was ist neu?
+# Was ist neu
 
 ## LEGENDE
 
-Abkürzung | Bedeutung     
+Abkürzung | Bedeutung
 ----------|----------
-FIX       | Korrektur bestehender Funktionalität              
-NEW       | Neue Funktionalität                              
+FIX       | Korrektur bestehender Funktionalität
+NEW       | Neue Funktionalität
 CHANGE    | Änderung des Ablaufs, Verarbeitung oder Bedienung
 
 ## Version 7
