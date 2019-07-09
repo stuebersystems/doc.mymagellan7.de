@@ -3,32 +3,28 @@
 Öffnen Sie MyMAGELLAN per Doppelklick auf Ihre Datei (*.mym) oder starten Sie das Programm MyMAGELLAN  und laden über `Datei > Öffnen`.
 Es gibt zwei Ansichten für die Eingabe, einmal für die Datenerfassung je Schüler (Leistungen, weitere Zeugnisdaten, Zeugnisbemerkugne, Fehlzeitern) oder aus Sicht eines Faches (Leistungen).
 
- 
  ![Aufrufe für die Eingabe nach Schülern oder nach Fächern](/assets/images/09.png)
-
-
 
 !!! warning "Wichtig"
 
     Alle Eingaben beruhen auf zuvor in MAGELLAN festgelegten Schlüsselverzeichnissen für Noten und Zeugnisbemerkungen.
     Die Eingabe von selbst definierten Noten oder Veränderung von Schülerstammdaten ist nicht möglich! Wenden Sie sich in diesem Fall an Ihren Administrator.
 
+## Sortieren, Gruppieren, Filtern usw
 
-## Sortieren, Gruppieren, Filtern usw.
-
-Bevor die Ansichten erklärt werden, beschreiben wir die generellen Funktionalitäten, die bei der Eingabe zur Verfügung stehen. Es gibt einige Möglichkeiten die Liste zu filtern, zu sortieren, zu gruppieren usw. 
+Bevor die Ansichten erklärt werden, beschreiben wir die generellen Funktionalitäten, die bei der Eingabe zur Verfügung stehen. Es gibt einige Möglichkeiten die Liste zu filtern, zu sortieren, zu gruppieren usw.
 
 ### Sortieren
 
-Klicken Sie mit der linken Maustaste auf einen der Spaltenköpfe, die Inhalte der Spalte werden auf- oder absteigend sortiert. <br/><br/> Beispiel:<br/> Sie klicken auf den Spaltenkopf der Spalte Klasse, die Klassen werden beim ersten Klick aufsteigend sortiert, beim erneuten Klick wird die Reihenfolge umgekehrt.
+Klicken Sie mit der linken Maustaste auf einen der Spaltenköpfe, die Inhalte der Spalte werden auf- oder absteigend sortiert. <br/> <br/> Beispiel:<br/> Sie klicken auf den Spaltenkopf der Spalte Klasse, die Klassen werden beim ersten Klick aufsteigend sortiert, beim erneuten Klick wird die Reihenfolge umgekehrt.
 
-### Mehrfachsortierung 
+### Mehrfachsortierung
 
 Möchten Sie, dass die Schüler nach den Klassen sortiert werden und aber auch innerhalb der Klasse in alphabethischer Reihenfolge gezeigt werden, klicken Sie als erstes auf den Spaltenkopf der Spalte `Klasse`, halten anschließend die SHIFT-Taste fest und klicken dann auf den Spaltenkopf der Spalte `Nachname`.
 
 ### Gruppieren
 
-Um zu Gruppieren ziehen Sie den Spaltenkopf der Spalte mit gedrückter Maustaste hoch wie in der Abbildung. 
+Um zu Gruppieren ziehen Sie den Spaltenkopf der Spalte mit gedrückter Maustaste hoch wie in der Abbildung.
 
 ![Gruppieren](/assets/images/12.png)
 
@@ -36,7 +32,7 @@ Die einzelnen Zeilen werden je nach Inhalt gruppiert, über die kleinen Dreiecke
 
 ![Gruppieren öffnen](/assets/images/11.png)
 
-Um eine Gruppierung wieder aufzuheben, ziehen Sie den Spaltenkopf der gruppierten Spalte soweit nach unten, dass ein Kreuz gezeigt wird und lassen los. 
+Um eine Gruppierung wieder aufzuheben, ziehen Sie den Spaltenkopf der gruppierten Spalte soweit nach unten, dass ein Kreuz gezeigt wird und lassen los.
 
 ![Gruppieren aufheben](/assets/images/13.png)
 
@@ -50,14 +46,13 @@ In der Klappliste werden je nach gewähltem Spaltenkopf die Inhalte der Spalte g
 
 ![Die Liste nach der Unterrichtsart GK filtern](/assets/images/14.png)
 
-Nach was die Liste gefiltert wurde, wird am unteren Rand in der Filterzeile gezeigt. 
+Nach was die Liste gefiltert wurde, wird am unteren Rand in der Filterzeile gezeigt.
 
 ![gefilterte Liste mit der Filterzeile am unteren Ende](/assets/images/15.png)
 
 Um alle Einträge der Liste wieder angezeigt zu bekommen, schließen Sie den Filter über das Kreuzchen unten links in der Filterleiste.
 
 ![Filter über das Kreuzchen in der Filterleiste schließen](/assets/images/16.png)
-
 
 ### Inkrementelle Suche
 
@@ -87,7 +82,6 @@ Spalten, die gezeigt werden, die Sie aber nicht benötigen, könenn Sie aus den 
 
 ![Spaltensichtbarkeit ändern](/assets/images/25.png)
 
-
 ## Eingabe nach Schülern
 
 Um die Daten für Ihre Schüler einzugeben klicken Sie bitte auf die Schaltfläche `Schüler anzeigen` oben links in der Menüleiste.
@@ -95,10 +89,9 @@ Um die Daten für Ihre Schüler einzugeben klicken Sie bitte auf die Schaltfläc
 ![Schüler anzeigen](/assets/images/18.png)
 
 In der sich öffnenden Ansicht ist das Fenster zweigeteilt: links ist die Liste der Schüler, auf der rechten Seite werden je nach Unterkarte die Daten erfasst. 
-Die Schüler, die auf der linken Seite gezeigt werden, können gefiltert, gruppiert oder sortiert werden. 
+Die Schüler, die auf der linken Seite gezeigt werden, können gefiltert, gruppiert oder sortiert werden.
 
 ![Eingabe nach Schülern](/assets/images/10.png)
-
 
 !!! info "Hinweis"
 
@@ -113,7 +106,7 @@ In dieser Ansicht entsprechen die angezeigten Felder der in MAGELLAN gewählten 
 
 ### Zeugnisdaten
 
-Markieren Sie einen Schüler und wechseln auf die Unterkarte `Zeugnisdaten`. 
+Markieren Sie einen Schüler und wechseln auf die Unterkarte `Zeugnisdaten`.
 
 !!! info "Hinweis"
 
@@ -131,7 +124,6 @@ Je nach den Einstellungen beim Erzeugen Ihrer mym-Datei können hier auch Daten,
 
 In den jeweiligen Feldern werden die Daten (Beispiel Abschluss 1) gezeigt, die in den Verzeichnissen im Schulverwaltungsprogramm gepflegt wurden und mit in die Datei gespielt wurden.
 
-
 #### Sammelzuweisung
 
   Die Felder in den Blöcken `Abschlussdaten` und `Versetzungs- und Zeugnisdaten` können manuell oder per Sammelzuweisung gefüllt werden.
@@ -147,17 +139,13 @@ So geht`s:
 ![Sammelzuweisung: Wert auswählen](/assets/images/32.png)
 4. Klicken Sie auf `Fertigstellen`, der Assistent füllt für alle gewählten Schüler dieses Feld.
 
-
 !!! info "Hinweis"
 
     Wenn Sie nur das Häkchen vor einem Feld setzen, aber keine Auswahl treffen, können Sie auch gesammelt Einträge für mehrere Schüler zurücksetzen. 
     Aber: Das Leeren der Felder betrifft nur Ihre MyMAGELLAN-Datei, es werden keine Feldinhalte in MAGELLAN durch den Import dieser Felder zurückgesetzt.
     Sollen aus den Blöcken `Abschlussdaten` und `Versetzungs- und Zeugnisdaten` verkehrte Eintragungen entfernt werden, ist das in letzter Konsequenz nur direkt in MAGELLAN möglich.
 
-
 ### Zeugnisbemerkungen
-
-
 
 !!! warning "Wichtig"
 
@@ -172,7 +160,6 @@ So geht's:
 
 ![eine neue Zeugnisbemerkung anlegen](/assets/images/26.png)
 
-   
    Nr. | Variante
    --|--
    1. | Tippen Sie auf der rechten Seite den Text ein, vergeben eine Positionsnummer und bestätigen mit `Speichern und Schließen`.
@@ -191,13 +178,12 @@ Auf der Unterkarte `Zeugnisbemerkungen` gibt es zwei Optionen zum Löschen:
 
 Aufruf|Funktion
 --|--
-![](/assets/images/27.png)| Klicken Sie eine oder mehrere Bemerkungen an und wählen diese Schaltfläche um ihre Auswahl zu löschen. 
-![](/assets/images/28.png)|Wählen Sie diese Schaltfläche um ALLE Zeugnisbemerkungen zu löschen.
+<img src="/assets/images/27.png"> | Klicken Sie eine oder mehrere Bemerkungen an und wählen diese Schaltfläche um ihre Auswahl zu löschen.
+<img src="/assets/images/28.png"> |Wählen Sie diese Schaltfläche um ALLE Zeugnisbemerkungen zu löschen.
 
 ## Eingabe nach Fächern
 
 Um die Daten für Ihre Schüler aus Sicht der Fächer einzugeben klicken Sie bitte auf die Schaltfläche `Fächer anzeigen` oben links in der Menüleiste.
-
 
 ![Aufruf der Fächeransicht](/assets/images/21.png)
 
@@ -215,14 +201,11 @@ Nach dem Klick auf `Fächer anzeigen` öffnet sich ein zweigeteiltes Fenster, au
 
 ## Speichern
 
-
 !!! warning "Wichtig"
 
     Ein geänderter Wert in dessen Feld noch Ihr Cursor blinkt, kann nicht gespeichert werden! Bitte klicken Sie vor dem Beenden des Programms in ein anderes Feld.
 
-
-
 Speichertyp | Möglichkeiten im Programm
 -- | --
-Speichern | `Datei > Speichern` <br/> `STRG + S` <br/> Speicherabfrage beim Beenden des Programms
-Speichern unter | `Datei > Speichern unter` <br/> `STRG + Shift + S`
+Speichern | `Datei > Speichern` <br> `STRG + S` <br/> Speicherabfrage beim Beenden des Programms
+Speichern unter | `Datei > Speichern unter` <br> `STRG + Shift + S`

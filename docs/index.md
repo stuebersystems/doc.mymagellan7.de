@@ -7,9 +7,9 @@ Ihr Administrator erzeugt eine Datei, die die Schülerfachdaten Ihrer unterricht
 
 Rolle|Rechte
 --|--
-Klassenleiter|- Erhält alle Fachzeilen der Schüler der Klasse oder Klassen in seine Datei.<br/>- Darf Zeugnisbemerkungen editieren. <br/>- Eingrenzungen der übergebenen Daten sind durch den Administrator möglich.
-Tutor|- Erhält alle Fachzeilen, denen er als Tutor in MAGELLAN zugeordnet wurde, in seine Datei.<br/>- Darf Zeugnisbemerkungen editieren. <br/>- Eingrenzungen der übergebenen Daten sind durch den Administrator möglich.
-Fachlehrer|- Erhält nur die unterrichteten Fachzeilen der Schüler seine Datei.<br/>- Darf keine Zeugnisbemerkungen editieren. <br/>- Eingrenzungen der übergebenen Daten sind durch den Administrator möglich.
+Klassenleiter|- Erhält alle Fachzeilen der Schüler der Klasse oder Klassen in seine Datei. <br/>- Darf Zeugnisbemerkungen editieren. <br/>- Eingrenzungen der übergebenen Daten sind durch den Administrator möglich.
+Tutor|- Erhält alle Fachzeilen, denen er als Tutor in MAGELLAN zugeordnet wurde, in seine Datei. <br/>- Darf Zeugnisbemerkungen editieren. <br/>- Eingrenzungen der übergebenen Daten sind durch den Administrator möglich.
+Fachlehrer|- Erhält nur die unterrichteten Fachzeilen der Schüler seine Datei. <br/>- Darf keine Zeugnisbemerkungen editieren. <br/>- Eingrenzungen der übergebenen Daten sind durch den Administrator möglich.
 
 Sie füllen Ihre Datei mit den Zeugnisnoten und Zeugnisdaten, übermitteln die Datei wieder an Ihren Administrator, der die Datei zurück in die MAGELLAN-Datenbank einspielt.
 
@@ -33,4 +33,3 @@ Die zeitliche Vorgehensweise beim Einsatz von MyMAGELLAN kann allgemein wie folg
 3. Tragen Sie für alle Schüler deren Noten, Zeugnisdetails und evtl. Zeugnisbemerkungen ein und speichern Sie diese wieder unter der gleichnamigen MyMAGELLAN-Datei ab.
 
 4. Geben Sie Ihre MyMAGELLAN-Datei bis zum spätestens vereinbarten Termin an den Administrator zurück.
-
