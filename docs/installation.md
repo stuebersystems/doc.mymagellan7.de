@@ -26,8 +26,11 @@ Nachdem Sie die Installationsdateien für MyMAGELLAN in Absprache mit Ihrem Admi
 
 ![Klicken Sie auf Fertigstellen!](/assets/images/installation/04.png)
 
-
 MyMagellan ist auf Ihren Rechner installiert!
+
+## Lizenz?
+
+Für MyMAGELLAN wird keine Lizenzdatei benötigt, die Lizenzierung wurde bereits beim Erstellen der MyMAGELLAN-Dateien abgefragt.
 
 ## So starten Sie MyMAGELLAN
 
@@ -107,4 +110,4 @@ Silent-Setup für MyMAGELLAN 7:
 
 	`/i` bedeutet immer Installation und `/x` immer Deinstallation.	Bitte starten Sie die Kommandozeilenaufrufe mit Administratorenrechten!
 
-![Eingabeaufforderung per Rechtsklick mit administrativen Rechten starten!](assets/images/eingabeaufforderung.als.admin.png)
+![Eingabeaufforderung per Rechtsklick mit administrativen Rechten starten!](/assets/images/eingabeaufforderung.als.admin.png)
