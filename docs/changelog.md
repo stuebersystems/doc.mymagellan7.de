@@ -14,7 +14,7 @@ CHANGE    | Änderung des Ablaufs, Verarbeitung oder Bedienung
 * FIX: Speichern der Fenstergröße und Fensterposition angepasst
 * CHANGE: Layout angepasst
 
-## Version 7.1.3 (noch nicht veröffentlicht)
+## Version 7.1.3 (08.01.2020)
 
 * NEW: Eingabe der Leistungen per Ziffernblock und Pfeiltasten möglich
 * FIX: Sortierung von Umlauten korrigiert
