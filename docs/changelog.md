@@ -8,7 +8,12 @@ FIX       | Korrektur bestehender Funktionalität
 NEW       | Neue Funktionalität
 CHANGE    | Änderung des Ablaufs, Verarbeitung oder Bedienung
 
-## Version 7.1.4 (03.021.2020)
+## Version 7.1.5 (05.02.2020)
+
+* FIX: Listenfelder unter `Schüler > Zeugnisdaten` sind auswählbar
+* Change: Mym7-Datei kann nicht mehrfach geöffnet werden
+
+## Version 7.1.4 (03.02.2020)
 
 * FIX: versehentlich eingetragene Mahnung kann wieder gelöscht werden
 * FIX: zuletzt eingetragene Note wird vor dem Datensatzwechsel gespeichert
