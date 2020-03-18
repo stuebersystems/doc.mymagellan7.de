@@ -8,6 +8,14 @@ FIX       | Korrektur bestehender Funktionalität
 NEW       | Neue Funktionalität
 CHANGE    | Änderung des Ablaufs, Verarbeitung oder Bedienung
 
+## Version 7.1.7 (noch unveröffentlicht)
+
+* FIX: unter Fächer eingeblendete Personalnummer bleibt auch beim Fachwechsel erhalten
+* CHANGE: beim ersten Aufruf der Fächeransicht ist standardmäßig die Filter für die Beurteilungsart auf `alle Beurteilungsarten` gestellt
+* NEW: In der Ansicht `Schüler` ist in der rechte Fensterhälfte links vor der ersten Spaltenbezeichnung das Symbol zum Aufruf des Untermenüs zum Ein- und Ausblenden von Spalten.
+
+![Symbol zum Ein- und Ausblenden von Spalten verfügbar](/assets/images/changelog/7.1.7.00.png)
+
 ## Version 7.1.5 (05.02.2020)
 
 * FIX: Listenfelder unter `Schüler > Zeugnisdaten` sind auswählbar
