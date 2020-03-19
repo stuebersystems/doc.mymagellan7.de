@@ -66,13 +66,7 @@ Der schnellste Weg einen Datensatz innerhalb einer Liste zu finden ist die inkre
 
 ### Spaltenreihenfolge
 
-Die Listen haben links neben dem ersten Spaltenkopf ein kleines Symbol in Form eines Zahnrades.
-
-![Dialog zum Reihenfolge ändern](/assets/images/23.png)
-
-Öffnen Sie den Dialog per Mausklick, es werden alle verfügbaren Spalten gezeigt. Wollen Sie beispielsweise die Spalte Endnote weiter vorn in der Liste positionieren, schieben Sie die `Endnote` mit gedrückter linker Maustaste auf die gewünschte Position weiter oben in der Liste. Es werden grüne Pfeile als Sprungmarken angezeigt, lassen Sie die Spalte wie in der nachfolgenden Abbildung an dieser Position los, positioniert sich die `Endnote` zwischen `Schwerpunkt` und `Niveau`.
-
-![Spaltenposition ändern](/assets/images/24.png)
+Die Reihenfolge der Spalten ist in MyMAGELLAN fest vorgegeben.
 
 ### Spaltensichtbarkeit
 
