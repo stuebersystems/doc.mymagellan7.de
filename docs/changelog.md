@@ -8,12 +8,12 @@ FIX       | Korrektur bestehender Funktionalität
 NEW       | Neue Funktionalität
 CHANGE    | Änderung des Ablaufs, Verarbeitung oder Bedienung
 
-## Version 7.1.7 (noch unveröffentlicht)
+## Version 7.1.7 (20.03.2020)
 
 * FIX: unter Fächer eingeblendete Personalnummer bleibt auch beim Fachwechsel erhalten
 * FIX: Filterung der Klassen in der linken Spalte der Schüleransicht korrigiert
 * FIX: Ausgeblendete Spalten werden auch beim Datensatzwechsel beibehalten
-* NEW: veränderter Umgang mit Fehlzeiten
+* NEW: veränderter Umgang mit Fehlzeiten und der Option "beim Importieren überschreiben"
 
 !!! danger "Achtung"
 
