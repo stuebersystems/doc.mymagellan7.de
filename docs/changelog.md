@@ -11,6 +11,7 @@ CHANGE    | Änderung des Ablaufs, Verarbeitung oder Bedienung
 ## Version 7.1.7 (noch unveröffentlicht)
 
 * FIX: unter Fächer eingeblendete Personalnummer bleibt auch beim Fachwechsel erhalten
+* FIX: Filterung der Klassen in der linken Spalte der Schüleransicht korrigiert
 * CHANGE: beim ersten Aufruf der Fächeransicht ist standardmäßig die Filter für die Beurteilungsart auf `alle Beurteilungsarten` gestellt
 * NEW: In der Ansicht `Schüler` ist in der rechte Fensterhälfte links vor der ersten Spaltenbezeichnung das Symbol zum Aufruf des Untermenüs zum Ein- und Ausblenden von Spalten.
 
