@@ -8,6 +8,10 @@ FIX       | Korrektur bestehender Funktionalität
 NEW       | Neue Funktionalität
 CHANGE    | Änderung des Ablaufs, Verarbeitung oder Bedienung
 
+## Version 7.1.9 (unveröffentlicht)
+
+* FIX: In der Ansicht  `Fächer` und  `Schüler` sind die Felder `schriftl.Note1` - `Endnote (gesamt)` beschreibbar.
+
 ## Version 7.1.7 (20.03.2020)
 
 * FIX: unter Fächer eingeblendete Personalnummer bleibt auch beim Fachwechsel erhalten
