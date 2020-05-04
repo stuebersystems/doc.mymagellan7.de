@@ -183,10 +183,11 @@ Um die Daten für Ihre Schüler aus Sicht der Fächer einzugeben klicken Sie bit
 
 Nach dem Klick auf `Fächer anzeigen` öffnet sich ein zweigeteiltes Fenster, auf der linken Seite wählen Sie das Fach aus, für das Sie Leistungen erfassen möchten, auf der rechten Seite werden die dazugefundenen Daten in Listenform gezeigt. 
 
-
 !!! danger "Achtung"
 
     Diese Ansicht zeigt beim ersten Aufruf eine geschützte Übersicht aller Schüler, vor dem Bearbeiten **müssen Sie eine Auswahl treffen**.
+
+![Treffen Sie eine Auswahl!](/assets/images/33.png)    
 
 Auswahl|Anmerkung
 --|--
@@ -194,7 +195,6 @@ Startansicht <br/>"Alle (nicht editierbar)"|Übersicht aller Schüler, keine Bea
 Noten/Füllwerte| zeigt die zu beurteilenden Schüler, deren Klassenbeurteilungsart in MAGELLAN auf `Noten` gesetzt wurde
 Punkte/Füllwerte|zeigt die zu beurteilenden Schüler, deren Klassenbeurteilungsart in MAGELLAN auf `Punkte` gesetzt wurde
 Beurteilungstexte|zeigt die zu beurteilenden Schüler, deren Klassenbeurteilungsart in MAGELLAN auf `Beurteilungstexte` gesetzt wurde
-
 
 
 ![Eingabe nach Fächern](/assets/images/20.png)
