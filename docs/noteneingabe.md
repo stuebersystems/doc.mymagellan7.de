@@ -191,7 +191,7 @@ Nach dem Klick auf `Fächer anzeigen` öffnet sich ein zweigeteiltes Fenster, au
 
 Auswahl|Anmerkung
 --|--
-Startansicht <br/>"Alle (nicht editierbar)"|Übersicht aller Schüler, keine Bearbeitung möglich
+Alle (nicht editierbar)|Diese Auswahl ist die Statztansicht und zeigt eine Übersicht aller Schüler, es ist in dieser Auswahl keine Bearbeitung möglich.
 Noten/Füllwerte| zeigt die zu beurteilenden Schüler, deren Klassenbeurteilungsart in MAGELLAN auf `Noten` gesetzt wurde
 Punkte/Füllwerte|zeigt die zu beurteilenden Schüler, deren Klassenbeurteilungsart in MAGELLAN auf `Punkte` gesetzt wurde
 Beurteilungstexte|zeigt die zu beurteilenden Schüler, deren Klassenbeurteilungsart in MAGELLAN auf `Beurteilungstexte` gesetzt wurde
