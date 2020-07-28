@@ -1,0 +1,446 @@
+<!DOCTYPE html><html><head>
+      <title>noteneingabe</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      
+      <link rel="stylesheet" href="file:///C:\Users\sabine.dahlenburg\.vscode\extensions\shd101wyy.markdown-preview-enhanced-0.3.13\node_modules\@shd101wyy\mume\dependencies\katex\katex.min.css">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+      <style> 
+      /**
+ * prism.js Github theme based on GitHub's theme.
+ * @author Sam Clarke
+ */
+code[class*="language-"],
+pre[class*="language-"] {
+  color: #333;
+  background: none;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
+  text-align: left;
+  white-space: pre;
+  word-spacing: normal;
+  word-break: normal;
+  word-wrap: normal;
+  line-height: 1.4;
+
+  -moz-tab-size: 8;
+  -o-tab-size: 8;
+  tab-size: 8;
+
+  -webkit-hyphens: none;
+  -moz-hyphens: none;
+  -ms-hyphens: none;
+  hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+  padding: .8em;
+  overflow: auto;
+  /* border: 1px solid #ddd; */
+  border-radius: 3px;
+  /* background: #fff; */
+  background: #f5f5f5;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+  padding: .1em;
+  border-radius: .3em;
+  white-space: normal;
+  background: #f5f5f5;
+}
+
+.token.comment,
+.token.blockquote {
+  color: #969896;
+}
+
+.token.cdata {
+  color: #183691;
+}
+
+.token.doctype,
+.token.punctuation,
+.token.variable,
+.token.macro.property {
+  color: #333;
+}
+
+.token.operator,
+.token.important,
+.token.keyword,
+.token.rule,
+.token.builtin {
+  color: #a71d5d;
+}
+
+.token.string,
+.token.url,
+.token.regex,
+.token.attr-value {
+  color: #183691;
+}
+
+.token.property,
+.token.number,
+.token.boolean,
+.token.entity,
+.token.atrule,
+.token.constant,
+.token.symbol,
+.token.command,
+.token.code {
+  color: #0086b3;
+}
+
+.token.tag,
+.token.selector,
+.token.prolog {
+  color: #63a35c;
+}
+
+.token.function,
+.token.namespace,
+.token.pseudo-element,
+.token.class,
+.token.class-name,
+.token.pseudo-class,
+.token.id,
+.token.url-reference .token.variable,
+.token.attr-name {
+  color: #795da3;
+}
+
+.token.entity {
+  cursor: help;
+}
+
+.token.title,
+.token.title .token.punctuation {
+  font-weight: bold;
+  color: #1d3e81;
+}
+
+.token.list {
+  color: #ed6a43;
+}
+
+.token.inserted {
+  background-color: #eaffea;
+  color: #55a532;
+}
+
+.token.deleted {
+  background-color: #ffecec;
+  color: #bd2c00;
+}
+
+.token.bold {
+  font-weight: bold;
+}
+
+.token.italic {
+  font-style: italic;
+}
+
+
+/* JSON */
+.language-json .token.property {
+  color: #183691;
+}
+
+.language-markup .token.tag .token.punctuation {
+  color: #333;
+}
+
+/* CSS */
+code.language-css,
+.language-css .token.function {
+  color: #0086b3;
+}
+
+/* YAML */
+.language-yaml .token.atrule {
+  color: #63a35c;
+}
+
+code.language-yaml {
+  color: #183691;
+}
+
+/* Ruby */
+.language-ruby .token.function {
+  color: #333;
+}
+
+/* Markdown */
+.language-markdown .token.url {
+  color: #795da3;
+}
+
+/* Makefile */
+.language-makefile .token.symbol {
+  color: #795da3;
+}
+
+.language-makefile .token.variable {
+  color: #183691;
+}
+
+.language-makefile .token.builtin {
+  color: #0086b3;
+}
+
+/* Bash */
+.language-bash .token.keyword {
+  color: #0086b3;
+}
+
+/* highlight */
+pre[data-line] {
+  position: relative;
+  padding: 1em 0 1em 3em;
+}
+pre[data-line] .line-highlight-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  display: block;
+  width: 100%;
+}
+
+pre[data-line] .line-highlight {
+  position: absolute;
+  left: 0;
+  right: 0;
+  padding: inherit 0;
+  margin-top: 1em;
+  background: hsla(24, 20%, 50%,.08);
+  background: linear-gradient(to right, hsla(24, 20%, 50%,.1) 70%, hsla(24, 20%, 50%,0));
+  pointer-events: none;
+  line-height: inherit;
+  white-space: pre;
+}
+
+pre[data-line] .line-highlight:before, 
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-start);
+  position: absolute;
+  top: .4em;
+  left: .6em;
+  min-width: 1em;
+  padding: 0 .5em;
+  background-color: hsla(24, 20%, 50%,.4);
+  color: hsl(24, 20%, 95%);
+  font: bold 65%/1.5 sans-serif;
+  text-align: center;
+  vertical-align: .3em;
+  border-radius: 999px;
+  text-shadow: none;
+  box-shadow: 0 1px white;
+}
+
+pre[data-line] .line-highlight[data-end]:after {
+  content: attr(data-end);
+  top: auto;
+  bottom: .4em;
+}html body{font-family:"Helvetica Neue",Helvetica,"Segoe UI",Arial,freesans,sans-serif;font-size:16px;line-height:1.6;color:#333;background-color:#fff;overflow:initial;box-sizing:border-box;word-wrap:break-word}html body>:first-child{margin-top:0}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{line-height:1.2;margin-top:1em;margin-bottom:16px;color:#000}html body h1{font-size:2.25em;font-weight:300;padding-bottom:.3em}html body h2{font-size:1.75em;font-weight:400;padding-bottom:.3em}html body h3{font-size:1.5em;font-weight:500}html body h4{font-size:1.25em;font-weight:600}html body h5{font-size:1.1em;font-weight:600}html body h6{font-size:1em;font-weight:600}html body h1,html body h2,html body h3,html body h4,html body h5{font-weight:600}html body h5{font-size:1em}html body h6{color:#5c5c5c}html body strong{color:#000}html body del{color:#5c5c5c}html body a:not([href]){color:inherit;text-decoration:none}html body a{color:#08c;text-decoration:none}html body a:hover{color:#00a3f5;text-decoration:none}html body img{max-width:100%}html body>p{margin-top:0;margin-bottom:16px;word-wrap:break-word}html body>ul,html body>ol{margin-bottom:16px}html body ul,html body ol{padding-left:2em}html body ul.no-list,html body ol.no-list{padding:0;list-style-type:none}html body ul ul,html body ul ol,html body ol ol,html body ol ul{margin-top:0;margin-bottom:0}html body li{margin-bottom:0}html body li.task-list-item{list-style:none}html body li>p{margin-top:0;margin-bottom:0}html body .task-list-item-checkbox{margin:0 .2em .25em -1.8em;vertical-align:middle}html body .task-list-item-checkbox:hover{cursor:pointer}html body blockquote{margin:16px 0;font-size:inherit;padding:0 15px;color:#5c5c5c;border-left:4px solid #d6d6d6}html body blockquote>:first-child{margin-top:0}html body blockquote>:last-child{margin-bottom:0}html body hr{height:4px;margin:32px 0;background-color:#d6d6d6;border:0 none}html body table{margin:10px 0 15px 0;border-collapse:collapse;border-spacing:0;display:block;width:100%;overflow:auto;word-break:normal;word-break:keep-all}html body table th{font-weight:bold;color:#000}html body table td,html body table th{border:1px solid #d6d6d6;padding:6px 13px}html body dl{padding:0}html body dl dt{padding:0;margin-top:16px;font-size:1em;font-style:italic;font-weight:bold}html body dl dd{padding:0 16px;margin-bottom:16px}html body code{font-family:Menlo,Monaco,Consolas,'Courier New',monospace;font-size:.85em !important;color:#000;background-color:#f0f0f0;border-radius:3px;padding:.2em 0}html body code::before,html body code::after{letter-spacing:-0.2em;content:"\00a0"}html body pre>code{padding:0;margin:0;font-size:.85em !important;word-break:normal;white-space:pre;background:transparent;border:0}html body .highlight{margin-bottom:16px}html body .highlight pre,html body pre{padding:1em;overflow:auto;font-size:.85em !important;line-height:1.45;border:#d6d6d6;border-radius:3px}html body .highlight pre{margin-bottom:0;word-break:normal}html body pre code,html body pre tt{display:inline;max-width:initial;padding:0;margin:0;overflow:initial;line-height:inherit;word-wrap:normal;background-color:transparent;border:0}html body pre code:before,html body pre tt:before,html body pre code:after,html body pre tt:after{content:normal}html body p,html body blockquote,html body ul,html body ol,html body dl,html body pre{margin-top:0;margin-bottom:16px}html body kbd{color:#000;border:1px solid #d6d6d6;border-bottom:2px solid #c7c7c7;padding:2px 4px;background-color:#f0f0f0;border-radius:3px}@media print{html body{background-color:#fff}html body h1,html body h2,html body h3,html body h4,html body h5,html body h6{color:#000;page-break-after:avoid}html body blockquote{color:#5c5c5c}html body pre{page-break-inside:avoid}html body table{display:table}html body img{display:block;max-width:100%;max-height:100%}html body pre,html body code{word-wrap:break-word;white-space:pre}}.markdown-preview{width:100%;height:100%;box-sizing:border-box}.markdown-preview .pagebreak,.markdown-preview .newpage{page-break-before:always}.markdown-preview pre.line-numbers{position:relative;padding-left:3.8em;counter-reset:linenumber}.markdown-preview pre.line-numbers>code{position:relative}.markdown-preview pre.line-numbers .line-numbers-rows{position:absolute;pointer-events:none;top:1em;font-size:100%;left:0;width:3em;letter-spacing:-1px;border-right:1px solid #999;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.markdown-preview pre.line-numbers .line-numbers-rows>span{pointer-events:none;display:block;counter-increment:linenumber}.markdown-preview pre.line-numbers .line-numbers-rows>span:before{content:counter(linenumber);color:#999;display:block;padding-right:.8em;text-align:right}.markdown-preview .mathjax-exps .MathJax_Display{text-align:center !important}.markdown-preview:not([for="preview"]) .code-chunk .btn-group{display:none}.markdown-preview:not([for="preview"]) .code-chunk .status{display:none}.markdown-preview:not([for="preview"]) .code-chunk .output-div{margin-bottom:16px}.scrollbar-style::-webkit-scrollbar{width:8px}.scrollbar-style::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}.scrollbar-style::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode]){position:relative;width:100%;height:100%;top:0;left:0;margin:0;padding:0;overflow:auto}html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{position:relative;top:0}@media screen and (min-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em calc(50% - 457px)}}@media screen and (max-width:914px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode]) .markdown-preview{font-size:14px !important;padding:1em}}@media print{html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{display:none}}html body[for="html-export"]:not([data-presentation-mode]) #sidebar-toc-btn{position:fixed;bottom:8px;left:8px;font-size:28px;cursor:pointer;color:inherit;z-index:99;width:32px;text-align:center;opacity:.4}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] #sidebar-toc-btn{opacity:1}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc{position:fixed;top:0;left:0;width:300px;height:100%;padding:32px 0 48px 0;font-size:14px;box-shadow:0 0 4px rgba(150,150,150,0.33);box-sizing:border-box;overflow:auto;background-color:inherit}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar{width:8px}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-track{border-radius:10px;background-color:transparent}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc::-webkit-scrollbar-thumb{border-radius:5px;background-color:rgba(150,150,150,0.66);border:4px solid rgba(150,150,150,0.66);background-clip:content-box}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc a{text-decoration:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc ul{padding:0 1.6em;margin-top:.8em}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc li{margin-bottom:.8em}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .md-sidebar-toc ul{list-style-type:none}html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{left:300px;width:calc(100% -  300px);padding:2em calc(50% - 457px -  150px);margin:0;box-sizing:border-box}@media screen and (max-width:1274px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{padding:2em}}@media screen and (max-width:450px){html body[for="html-export"]:not([data-presentation-mode])[html-show-sidebar-toc] .markdown-preview{width:100%}}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .markdown-preview{left:50%;transform:translateX(-50%)}html body[for="html-export"]:not([data-presentation-mode]):not([html-show-sidebar-toc]) .md-sidebar-toc{display:none}
+/* Please visit the URL below for more information: */
+/*   https://shd101wyy.github.io/markdown-preview-enhanced/#/customize-css */
+ 
+      </style>
+    </head>
+    <body for="html-export">
+      <div class="mume markdown-preview   ">
+      <h1 class="mume-header" id="noteneingabe">Noteneingabe</h1>
+
+<p>Nachdem Sie Ihre MyMAGELLAN-Datei in MyMAGELLAN geladen haben, k&#xF6;nnen Sie unter verschiedenen Sichtweisen die Noten Ihrer Sch&#xFC;ler eingeben:</p>
+<ul>
+<li>
+<p>Klassensichtweise: Bei der Klassensichtweise finden Sie eine Auflistung aller Klassen, zu denen Sie Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben m&#xFC;ssen. Nach Auswahl einer Klasse k&#xF6;nnen Sie sch&#xFC;lerweise und/oder fachweise vorgehen.</p>
+</li>
+<li>
+<p>Sch&#xFC;lersichtweise: Bei der Sch&#xFC;lersichtweise werden alle Sch&#xFC;ler insgesamt aufgelistet und Sie k&#xF6;nnen nach Auswahl eines Sch&#xFC;ler nur dessen Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben.</p>
+</li>
+<li>
+<p>F&#xE4;chersichtweise: Bei der F&#xE4;chersichtweise finden Sie eine Auflistung aller F&#xE4;cher bzw. Kurse, zu denen Sie Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben m&#xFC;ssen. Nach Auswahl eines Fachs/Kurses k&#xF6;nnen Sie f&#xFC;r die einzelnen Sch&#xFC;ler des Kurses Ihre Eingaben vornehmen.</p>
+</li>
+</ul>
+<p>Welche Sichtweise Sie f&#xFC;r Ihre Eingaben verwenden bleibt Ihnen &#xFC;berlassen. Selbstverst&#xE4;ndlich k&#xF6;nnen Sie auch zwischen den Sichtweisen wechseln.</p>
+<p>Alle Eingaben beruhen auf zuvor in MAGELLAN festgelegten Schl&#xFC;sselverzeichnissen f&#xFC;r Noten und Zeugnisbemerkungen.</p>
+<p>Die Eingabe von selbst definierten Noten oder Ver&#xE4;nderung von Sch&#xFC;lerstammdaten ist nicht m&#xF6;glich! Wenden Sie sich in diesem Fall an Ihren Administrator.</p>
+<h2 class="mume-header" id="eingabe-der-noten-aus-klassensicht">Eingabe der Noten aus Klassensicht</h2>
+
+<p>Um die Noten aus Klassensicht einzugeben, m&#xFC;ssen Sie wie folgt vorgehen.</p>
+<ol>
+<li>
+<p>Klicken Sie auf Ansicht und dann auf Klassen anzeigen.</p>
+</li>
+<li>
+<p>Doppelklicken Sie auf eine Zeile der Liste der Klassen auf der Registerkarte  Auswahl.</p>
+</li>
+<li>
+<p>Sie befinden Sie jetzt auf der Registerkarte Sch&#xFC;ler-Matrix.</p>
+</li>
+</ol>
+<h3 class="mume-header" id="registerkarte-sch%C3%BCler-matrix">Registerkarte Sch&#xFC;ler-Matrix</h3>
+
+<p>Auf der Registerkarte Sch&#xFC;ler-Matrix sind alle Sch&#xFC;ler der Klasse aufgelistet.</p>
+<figure class="center">
+    <img src="..\assets\images\screenshot2.png" alt="Registerkarte Sch&#xFC;ler-Matrix mit der Liste der Sch&#xFC;ler in der Klasse">
+    <figcaption>Registerkarte <em>Sch&#xFC;ler-Matrix</em> mit der Liste der Sch&#xFC;ler in der Klasse</figcaption>
+</figure>
+<p>Markieren Sie einen Sch&#xFC;ler, so werden die untergeordneten Registerkarten Leistungen und Weitere Daten mit den Daten des Sch&#xFC;lers gef&#xFC;llt.</p>
+<p>Auf der Registerkarte Leistungen werden alle F&#xE4;cher des Sch&#xFC;lers aufgelistet. Geben Sie hier in den eingeblendeten Spalten die notwendigen Werte ein.</p>
+<p>Hier kann der Lehrer beim Sch&#xFC;ler auch optional den Tutor bzw. Fachlehrer sehen.<br>
+&#xDC;ber die Pfeiltasten k&#xF6;nnen Sie zum n&#xE4;chsten oder vorherigen Sch&#xFC;ler wechseln.</p>
+<figure class="center">
+    <img src="..\assets\images\screenshot2.png" alt="Registerkarte Leistungen auf der Registerkarte Sch&#xFC;ler-Matrix">
+    <figcaption>Registerkarte <em>Leistungen</em> auf der Registerkarte <em>Sch&#xFC;ler-Matrix</em></figcaption>
+</figure>
+<p>!!! info &quot;Hinweis&quot;</p>
+<pre class="language-text">Die Sch&#xFC;ler-Matrix Leistungen kann nach Excel exportiert werden.
+</pre>
+<p>Auf der Registerkarte Weitere Daten k&#xF6;nnen zus&#xE4;tzliche Informationen f&#xFC;r das Zeugnis festgehalten werden Neben den Fehltagen und Fehlstunden k&#xF6;nnen Sie auch die Zeugnisbemerkungen des Sch&#xFC;lers bestimmen. [Bei Standard nicht enthalten]</p>
+<figure class="center">
+    <img src="..\assets\images\screenshot2.png" alt="Registerkarte Weitere Daten auf der Registerkarte Sch&#xFC;ler-Matrix">
+    <figcaption>Registerkarte <em>Weitere Daten</em> auf der Registerkarte <em>Sch&#xFC;ler-Matrix</em></figcaption>
+</figure>
+<p>Es gibt hier ein zus&#xE4;tzliches Optionsfeld &#x201E;Keine Unterrichtstage, Vers&#xE4;umnisse, Fehltage usw...&#x201C;</p>
+<p>Markieren Sie diesen Feld, so werden die Werte f&#xFC;r Unterrichtstage, Ver&#xAC;s&#xE4;umnisse, Fehltage, Fehltage unentschuldigt, Fehlstunden und Fehlstunden unentschuldigt als leere Felder in der MyMAGELLAN-Datei gespeichert. Beim Einlesen der Daten nach MAGELLAN werden diese Felder nicht ber&#xFC;cksichtigt und f&#xFC;hren somit auch zu keinen Ver&#xE4;nderungen bestehender Eingaben.</p>
+<p>!!! info &quot;Hinweis&quot;</p>
+<pre class="language-text">In MyMAGELLAN eingetragene Zeugnisbemerkungen werden nur nach MAGELLAN importiert, wenn der Lehrer auch Klassenleiter1 der Klasse ist.
+</pre>
+<p>So f&#xFC;gen Sie eine Zeugnisbemerkung ein:</p>
+<ol>
+<li>
+<p>Klicken Sie auf Hinzuf&#xFC;gen.</p>
+</li>
+<li>
+<p>Legen Sie im Dialogfenster Zeugnisbemerkung unter Text den Inhalt der Bemerkung fest. Sie k&#xF6;nnen dazu auf Textbausteine &#xFC;ber die Schaltfl&#xE4;che Aus Verzeichnis w&#xE4;hlen zur&#xFC;ckgreifen, sofern diese zuvor in MAGELLAN definiert worden sind.</p>
+</li>
+<li>
+<p>Legen Sie optional ein Merkmal bzw. eine Position der Bemerkung fest.</p>
+</li>
+<li>
+<p>Klicken Sie auf OK.</p>
+</li>
+</ol>
+<figure class="center">
+    <img src="..\assets\images\screenshot5.png" alt="Dialogfenster Zeugnisbemerkungen">
+    <figcaption>Dialogfenster <em>Zeugnisbemerkungen</em></figcaption>
+</figure>
+<h3 class="mume-header" id="registerkarte-f%C3%A4cher-matrix">Registerkarte F&#xE4;cher-Matrix</h3>
+
+<p>Auf der Registerkarte F&#xE4;cher-Matrix sind alle Sch&#xFC;ler der Klasse aus Sichtweise der vergebenen F&#xE4;cher in der aktuellen Klasse aufgelistet. Durch Doppelklicken auf eine Zeile in der Liste der F&#xE4;cher findet man auf der rechten Seite die Liste aller Sch&#xFC;ler, die in diesem Fach unterrichtet werden. Sie k&#xF6;nnen so fachweise die Leistungen eintragen.</p>
+<figure class="center">
+    <img src="..\assets\images\screenshot6.png" alt="Registerkarte F&#xE4;cher-Matrix">
+    <figcaption>Registerkarte <em>F&#xE4;cher-Matrix</em></figcaption>
+</figure>
+<p>!!! info &quot;Hinweis&quot;</p>
+<pre class="language-text">Die F&#xE4;cher-Matrix kann nach Excel exportiert werden.
+</pre>
+<h2 class="mume-header" id="eingabe-der-noten-aus-sch%C3%BClersicht">Eingabe der Noten aus Sch&#xFC;lersicht</h2>
+
+<p>Um die Noten aus Sch&#xFC;lersicht einzugeben, m&#xFC;ssen Sie wie folgt vorgehen.</p>
+<ol>
+<li>
+<p>Klicken Sie auf Ansicht und dann auf Sch&#xFC;ler anzeigen.</p>
+</li>
+<li>
+<p>Doppelklicken Sie auf eine Zeile der Liste der Sch&#xFC;ler auf der Registerkarte Auswahl.</p>
+</li>
+<li>
+<p>Sie befinden Sie jetzt auf der Registerkarte Zeugnisdaten.</p>
+</li>
+</ol>
+<figure class="center">
+    <img src="..\assets\images\screenshot7.png" alt="Registerkarte Leistungen auf der Registerkarte Zeugnisdaten">
+    <figcaption>Registerkarte <em>Leistungen</em> auf der Registerkarte <em>Zeugnisdaten</em></figcaption>
+</figure>
+<p>Die Eingabe auf der Registerkarte Zeugnisdaten erfolgt analog zur Eingabe auf der Registerkarte Sch&#xFC;ler-Matrix bei der Eingabe aus Klassensicht.</p>
+<h2 class="mume-header" id="eingabe-der-noten-aus-f%C3%A4cher-kurssicht">Eingabe der Noten aus F&#xE4;cher-/Kurssicht</h2>
+
+<p>Um die Noten aus Fach- bzw. Kurssicht einzugeben, m&#xFC;ssen Sie wie folgt vorgehen.</p>
+<ol>
+<li>
+<p>Klicken Sie auf Ansicht und dann auf F&#xE4;cher anzeigen.</p>
+</li>
+<li>
+<p>Markieren Sie eine Zeile der Liste der F&#xE4;cher bzw. Kurse .</p>
+</li>
+<li>
+<p>Sie k&#xF6;nnen nun im rechten Bereich die Noten aus F&#xE4;cher- bzw. Kurssicht erfassen.</p>
+</li>
+</ol>
+<figure class="center">
+    <img src="..\assets\images\screenshot8.png" alt="Registerkarte F&#xE4;cher-Matrix zur fach- bzw. kursweisen Erfassung der Noten">
+    <figcaption>Registerkarte <em>F&#xE4;cher-Matrix</em> zur fach- bzw. kursweisen Erfassung der Noten</figcaption>
+</figure>
+<p>Die Eingabe auf der Registerkarte F&#xE4;cher-Matrix erfolgt analog zur Eingabe auf der Registerkarte F&#xE4;cher-Matrix bei der Eingabe aus Klassensicht.</p>
+<h2 class="mume-header" id="zusatzinformationen">Zusatzinformationen</h2>
+
+<h4 class="mume-header" id="willkommen-fenster">Willkommen-Fenster</h4>
+
+<p>&#xDC;ber das Willkommen-Fenster k&#xF6;nnen Sie jederzeit wichtige Informationen abfragen. Sie k&#xF6;nnen dieses Fenster wie folgt aufrufen:</p>
+<ul>
+<li>Klicken Sie auf Ansicht und dann auf Willkommen.</li>
+</ul>
+<p>Im obersten Teil finden Sie das Ausgabedatum Ihrer MyMAGELLAN-Version. Aktuelle Informationen zur geladen MyMAGELLAN-Datei finden Sie im mittleren Teil. Besonders hilfreich ist hierbei die Anzeige, wie viele Notenfelder noch nicht gef&#xFC;llt sind. Sie k&#xF6;nnen so auf einen Blick feststellen, ob Sie die Leistungen bei allen Sch&#xFC;lern eingegeben haben</p>
+<p>Unter Bemerkung finden Sie evtl. Hinweise des Administrators an Sie, die Sie unbedingt beachten sollten.</p>
+<h3 class="mume-header" id="startdatei">Startdatei</h3>
+
+<p>Nachdem Sie einmal Ihre MyMAGELLAN-Datei mit MyMAGELLAN geladen haben, merkt sich MyMagelan diese Einstellung. Beim Verlassen und erneuten Aufruf von MyMAGELLAN wird automatisch die zuletzt geladene MyMAGELLAN-Datei ge&#xF6;ffnet und Sie werden ggf. direkt nach dem Kennwort gefragt.</p>
+<h3 class="mume-header" id="besonderheiten">Besonderheiten</h3>
+
+<p>Verhalten und Mitarbeit: Sind in MAGELLAN Eintragungen vorhanden auf den Registerkarten <code>Sch&#xFC;ler &gt; Zeugnis &gt; Zeugnis</code> und <code>Sch&#xFC;ler &gt; Zeugnis &gt; Details</code> in den Feldern Verhalten und Mitarbeit, so werden diese nicht gel&#xF6;scht, wenn eine mym-Datei nach MAGELLAN &#xFC;bertragen wird, die in den genannten Feldern keinen Eintrag enth&#xE4;lt.</p>
+<p>Unterrichtstage und Vers&#xE4;umnisse: Sind die folgenden Felder in MAGELLAN auf Registerkarte <code>Sch&#xFC;ler &gt; Zeugnis &gt; Details</code> mit einem Wert gef&#xFC;llt, wird dieser &#xFC;berschrieben, wenn eine mym-Datei eingesammelt wird, die in diesen Feldern einen Wert hat, d.h. entweder einen Noten-, Punkt- bzw. F&#xFC;llwert oder 0 beinhaltet:</p>
+<ul>
+<li>Unterrichtstage</li>
+<li>Vers&#xE4;umnisse</li>
+</ul>
+<p>Fehltage, davon unentschuldigt, Fehlstunden und davon unentschuldigt: Wie die nachfolgenden Felder beim Einlesen in MAGELLAN verarbeitet werden (&#xDC;berschreiben, Addieren oder keine &#xC4;nderung), h&#xE4;ngt von der Einstellungen des Administrator ab, der Ihre MyMAGELLAN-Datei erstellt hat:</p>
+<ul>
+<li>Fehltage</li>
+<li>davon unentschuldigt</li>
+<li>Fehlstunden</li>
+<li>davon unentschuldigt</li>
+</ul>
+<p>Felder unter <code>Zeugnis &gt; Zeugnis und Leistungen</code>: F&#xFC;r alle Eintragungen auf Registerkarte <code>Sch&#xFC;ler &gt; Zeugnis &gt; Zeugnis</code> und alle Felder auf Registerkarte <code>Sch&#xFC;ler &gt; Zeugnis &gt; Leistungen</code> gilt ebenfalls, dass dies beim Einlesen in MAGELLAN zu einem &#xDC;berschreiben der bisherigen Werte in MAGELLAN f&#xFC;hrt.</p>
+<p>Mit Null vorbesetzte Felder: Nach dem Einschulen eines Sch&#xFC;lers in MAGELLAN sind auf der Registerkarte <code>Sch&#xFC;ler &gt; Zeugnis &gt; Details</code> folgende Felder automatisch mit dem Wert 0 vorbelegt (es werden hier nur die Felder genannt, die als Eingabefeld in MyMAGELLAN existieren):</p>
+<ul>
+<li>Unterrichtstage</li>
+<li>Vers&#xE4;umnisse</li>
+<li>Fehltage</li>
+<li>davon unentschuldigt</li>
+<li>Fehlstunden</li>
+<li>davon unentschuldigt</li>
+</ul>
+<p>Es ist sowohl in MAGELLAN als auch in MyMAGELLAN nicht m&#xF6;glich, diese Felder zu leeren. Das bedeutet, dass bei dem Verteilen von MyMAGELLAN-Dateien in den o.g. Feldern immer ein 0-Wert ausgegeben wird, was zur Folge hat, dass beim Einsammeln dieser Dateien grunds&#xE4;tzlich der Wert 0 zur&#xFC;ck nach MAGELLAN &#xFC;bertragen wird, wenn in MyMAGELLAN dort keine Eintragung vorgenommen wurde. Das wiederum bewirkt ein &#xDC;berschreiben eines eventuell in MAGELLAN bereits vorhandenen Wertes mit dem Wert 0, wie unter Punkt 2 beschrieben.</p>
+<p>!!! info &quot;Fazit&quot;</p>
+<pre class="language-text">Die mym-Datei desjenigen Lehrers, der die Zeugnisdetails der Sch&#xFC;ler erfassen soll (in den meisten F&#xE4;llen der Klassenlehrer), sollte erst ein&#xAC;gesammelt werden, wenn die Dateien der Fachlehrer schon nach MAGELLAN &#xFC;bernommen wurden.
+</pre>
+
+      </div>
+      
+      
+    
+    
+    
+    
+    
+    
+    
+    
+  
+    </body></html>

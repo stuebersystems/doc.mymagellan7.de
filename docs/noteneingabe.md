@@ -1,176 +1,211 @@
 # Noteneingabe
 
-Nachdem Sie Ihre MyMAGELLAN-Datei in MyMAGELLAN geladen haben, können Sie unter verschiedenen Sichtweisen die Noten Ihrer Schüler eingeben:
+Öffnen Sie MyMAGELLAN per Doppelklick auf Ihre Datei (*.mym) oder starten Sie das Programm MyMAGELLAN  und laden über `Datei > Öffnen`.
+Es gibt zwei Ansichten für die Eingabe, einmal für die Datenerfassung je Schüler (Leistungen, weitere Zeugnisdaten, Zeugnisbemerkugne, Fehlzeitern) oder aus Sicht eines Faches (Leistungen).
 
-* Klassensichtweise: Bei der Klassensichtweise finden Sie eine Auflistung aller Klassen, zu denen Sie Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben müssen. Nach Auswahl einer Klasse können Sie schülerweise und/oder fachweise vorgehen.
+ ![Aufrufe für die Eingabe nach Schülern oder nach Fächern](/assets/images/09.png)
 
-* Schülersichtweise: Bei der Schülersichtweise werden alle Schüler insgesamt aufgelistet und Sie können nach Auswahl eines Schüler nur dessen Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben.
+!!! warning "Wichtig"
 
-* Fächersichtweise: Bei der Fächersichtweise finden Sie eine Auflistung aller Fächer bzw. Kurse, zu denen Sie Noten, [bei Standard nicht enthalten] Notendetails bzw. [bei Standard nicht enthalten] Zeugnisbemerkungen eingeben müssen. Nach Auswahl eines Fachs/Kurses können Sie für die einzelnen Schüler des Kurses Ihre Eingaben vornehmen.
+    Alle Eingaben beruhen auf zuvor in MAGELLAN festgelegten Schlüsselverzeichnissen für Noten und Zeugnisbemerkungen.
+    Die Eingabe von selbst definierten Noten oder Veränderung von Schülerstammdaten ist nicht möglich! Wenden Sie sich in diesem Fall an Ihren Administrator.
 
-Welche Sichtweise Sie für Ihre Eingaben verwenden bleibt Ihnen überlassen. Selbstverständlich können Sie auch zwischen den Sichtweisen wechseln.
+## Sortieren, Gruppieren, Filtern usw
 
-Alle Eingaben beruhen auf zuvor in MAGELLAN festgelegten Schlüsselverzeichnissen für Noten und Zeugnisbemerkungen.
+Bevor die Ansichten erklärt werden, beschreiben wir die generellen Funktionalitäten, die bei der Eingabe zur Verfügung stehen. Es gibt einige Möglichkeiten die Liste zu filtern, zu sortieren, zu gruppieren usw.
 
-Die Eingabe von selbst definierten Noten oder Veränderung von Schülerstammdaten ist nicht möglich! Wenden Sie sich in diesem Fall an Ihren Administrator.
+### Sortieren
 
-## Eingabe der Noten aus Klassensicht
+Klicken Sie mit der linken Maustaste auf einen der Spaltenköpfe, die Inhalte der Spalte werden auf- oder absteigend sortiert. <br/> <br/> Beispiel:<br/> Sie klicken auf den Spaltenkopf der Spalte Klasse, die Klassen werden beim ersten Klick aufsteigend sortiert, beim erneuten Klick wird die Reihenfolge umgekehrt.
 
-Um die Noten aus Klassensicht einzugeben, müssen Sie wie folgt vorgehen.
+### Mehrfachsortierung
 
-1. Klicken Sie auf Ansicht und dann auf Klassen anzeigen.
+Möchten Sie, dass die Schüler nach den Klassen sortiert werden und aber auch innerhalb der Klasse in alphabethischer Reihenfolge gezeigt werden, klicken Sie als erstes auf den Spaltenkopf der Spalte `Klasse`, halten anschließend die SHIFT-Taste fest und klicken dann auf den Spaltenkopf der Spalte `Nachname`.
 
-2. Doppelklicken Sie auf eine Zeile der Liste der Klassen auf der Registerkarte  Auswahl.
+### Gruppieren
 
-3. Sie befinden Sie jetzt auf der Registerkarte Schüler-Matrix.
+Um zu Gruppieren ziehen Sie den Spaltenkopf der Spalte mit gedrückter Maustaste hoch wie in der Abbildung.
 
-### Registerkarte Schüler-Matrix
+![Gruppieren](/assets/images/12.png)
 
-Auf der Registerkarte Schüler-Matrix sind alle Schüler der Klasse aufgelistet. 
+Die einzelnen Zeilen werden je nach Inhalt gruppiert, über die kleinen Dreiecke vor der Bezeichnung kann man eine Gruppierung öffnen oder schließen.
 
-<figure class="center">
-    <img src="/assets/images/screenshot2.png" alt="Registerkarte Schüler-Matrix mit der Liste der Schüler in der Klasse">
-    <figcaption>Registerkarte <em>Schüler-Matrix</em> mit der Liste der Schüler in der Klasse</figcaption>
-</figure>
+![Gruppieren öffnen](/assets/images/11.png)
 
-Markieren Sie einen Schüler, so werden die untergeordneten Registerkarten Leistungen und Weitere Daten mit den Daten des Schülers gefüllt.
+Um eine Gruppierung wieder aufzuheben, ziehen Sie den Spaltenkopf der gruppierten Spalte soweit nach unten, dass ein Kreuz gezeigt wird und lassen los.
 
-Auf der Registerkarte Leistungen werden alle Fächer des Schülers aufgelistet. Geben Sie hier in den eingeblendeten Spalten die notwendigen Werte ein.
+![Gruppieren aufheben](/assets/images/13.png)
 
-Hier kann der Lehrer beim Schüler auch optional den Tutor bzw. Fachlehrer sehen.
-Über die Pfeiltasten können Sie zum nächsten oder vorherigen Schüler wechseln.
- 
-<figure class="center">
-    <img src="/assets/images/screenshot2.png" alt="Registerkarte Leistungen auf der Registerkarte Schüler-Matrix">
-    <figcaption>Registerkarte <em>Leistungen</em> auf der Registerkarte <em>Schüler-Matrix</em></figcaption>
-</figure>
- 
+### Filtern
+
+Beim Filtern kann man Inhalte ausblenden. Im nachstehenden Beispiel werden nach der Filterung nur die Fachzeilen mit der Unterrichtsart `GK` gezeigt. Dazu fahren Sie mit dem Mauszeiger über den Spaltenkopf der Spalte `Unterrichtsart` und klicken auf das erscheinde Filtersymbol.
+
+![Filtersymbol](/assets/images/17.png)
+
+In der Klappliste werden je nach gewähltem Spaltenkopf die Inhalte der Spalte gezeigt, in diesem Fall GK und LK. Setzen Sie das Häkchen vor dem Wert oder vor den Werten die gezeigt werden sollen, alle anderen Zeilen werden ausgeblendet.
+
+![Die Liste nach der Unterrichtsart GK filtern](/assets/images/14.png)
+
+Nach was die Liste gefiltert wurde, wird am unteren Rand in der Filterzeile gezeigt.
+
+![gefilterte Liste mit der Filterzeile am unteren Ende](/assets/images/15.png)
+
+Um alle Einträge der Liste wieder angezeigt zu bekommen, schließen Sie den Filter über das Kreuzchen unten links in der Filterleiste.
+
+![Filter über das Kreuzchen in der Filterleiste schließen](/assets/images/16.png)
+
+### Inkrementelle Suche
+
+Der schnellste Weg einen Datensatz innerhalb einer Liste zu finden ist die inkrementelle Suche. Diese Suchmöglichkeit funktioniert in sämtlichen Spalten:
+
+* Klicken Sie auf einen beliebigen Wert einer Spalte, als Zeichen, dass Sie in dieser Spalte suchen möchten. Beispiel: Klicken Sie auf einen beliebigen Nachnamen um innerhalb der Nachnamen suchen zu können.
+
+* Tippen Sie einen Wert ein. Beispiel: Sie suchen Schüler Müller, Sie tippen ein m, MAGELLAN bringt Sie zur ersten gefundenen Schüler dessen Nachname mit M beginnt. Tippen Sie mü, der Cursor springt in die nächste gefunden Zeile, dass könnte aber auch Schüler Mühlhausen sein. Tippen Sie Müller, springt der Cursor zum ersten Schüler mit dem Nachnamen Müller.
+
+* Innerhalb der zutreffenden Schülerzeilen, also innerhalb der Schüler mit dem Nachnamen Müller, können Sie jetzt mit `STRG + Pfeil` aufwärts oder `STRG + Pfeil abwärts` sich bewegen.
+
+### Spaltenreihenfolge
+
+Die Reihenfolge der Spalten ist in MyMAGELLAN fest vorgegeben.
+
+### Spaltensichtbarkeit
+
+Welche Spalten und Felder in der Datei sichtbar sind, grenzt Ihr Administrator beim Erstellen der Dateien ein. Dabei sollten in der Datei immer nur die Spalten/Felder enthalten sein, die von Ihnen gepflegt werden sollen plus Spalten, die für das Erstellen einer bestimmten Reihenfolge wichtig sind. Beispiel: Sie können die Unterrichtsart der Schüler nicht über MyMAGELLAN nicht editieren, benötigen diese Spalte aber um die Schüler des Deutsch Grundkurse korrekt zu sortieren.
+
+Spalten, die gezeigt werden, die Sie aber nicht benötigen, könenn Sie aus den Listen ausblenden. Dafür entfernen Sie bitte das Häkchen wie in der nachstehenden Abbildung für die Beispiele `Position` und `Schwerpunkt`.
+
+![Spaltensichtbarkeit ändern](/assets/images/25.png)
+
+## Eingabe nach Schülern
+
+Um die Daten für Ihre Schüler einzugeben klicken Sie bitte auf die Schaltfläche `Schüler anzeigen` oben links in der Menüleiste.
+
+![Schüler anzeigen](/assets/images/18.png)
+
+In der sich öffnenden Ansicht ist das Fenster zweigeteilt: links ist die Liste der Schüler, auf der rechten Seite werden je nach Unterkarte die Daten erfasst. 
+Die Schüler, die auf der linken Seite gezeigt werden, können gefiltert, gruppiert oder sortiert werden.
+
+![Eingabe nach Schülern](/assets/images/10.png)
+
 !!! info "Hinweis"
 
-	Die Schüler-Matrix Leistungen kann nach Excel exportiert werden.
+    Die angezeigten Spalten und Felder, die Bearbeitbarkeit und auch teilweise die Benennung der Spalten hängen davon ab, was Ihr Administrator beim Erstellen Ihrer Datei angegeben hat.
+    Nicht editierbare Spalten werden für eine bessere Sortierbarkeit der Listen in der Datei gezeigt.     
 
-Auf der Registerkarte Weitere Daten können zusätzliche Informationen für das Zeugnis festgehalten werden Neben den Fehltagen und Fehlstunden können Sie auch die Zeugnisbemerkungen des Schülers bestimmen. [Bei Standard nicht enthalten]
- 
-<figure class="center">
-    <img src="/assets/images/screenshot2.png" alt="Registerkarte Weitere Daten auf der Registerkarte Schüler-Matrix">
-    <figcaption>Registerkarte <em>Weitere Daten</em> auf der Registerkarte <em>Schüler-Matrix</em></figcaption>
-</figure>
- 
-Es gibt hier ein zusätzliches Optionsfeld „Keine Unterrichtstage, Versäumnisse, Fehltage usw...“
+### Leistungen
 
-Markieren Sie diesen Feld, so werden die Werte für Unterrichtstage, Ver¬säumnisse, Fehltage, Fehltage unentschuldigt, Fehlstunden und Fehlstunden unentschuldigt als leere Felder in der MyMAGELLAN-Datei gespeichert. Beim Einlesen der Daten nach MAGELLAN werden diese Felder nicht berücksichtigt und führen somit auch zu keinen Veränderungen bestehender Eingaben.
+In dieser Ansicht entsprechen die angezeigten Felder der in MAGELLAN gewählten Beurteilungsart der Klasse. Möglich sind Noten, Punkte oder Beurteilungstexte.
 
-!!! info "Hinweis"
+![Eingabe nach Schülern](/assets/images/19.png)
 
-	In MyMAGELLAN eingetragene Zeugnisbemerkungen werden nur nach MAGELLAN importiert, wenn der Lehrer auch Klassenleiter1 der Klasse ist.
+### Zeugnisdaten
 
-So fügen Sie eine Zeugnisbemerkung ein:
-
-1. Klicken Sie auf Hinzufügen.
-
-2. Legen Sie im Dialogfenster Zeugnisbemerkung unter Text den Inhalt der Bemerkung fest. Sie können dazu auf Textbausteine über die Schaltfläche Aus Verzeichnis wählen zurückgreifen, sofern diese zuvor in MAGELLAN definiert worden sind.
-
-3. Legen Sie optional ein Merkmal bzw. eine Position der Bemerkung fest.
-
-4. Klicken Sie auf OK.
- 
-<figure class="center">
-    <img src="/assets/images/screenshot5.png" alt="Dialogfenster Zeugnisbemerkungen">
-    <figcaption>Dialogfenster <em>Zeugnisbemerkungen</em></figcaption>
-</figure>
-
-### Registerkarte Fächer-Matrix
-
-Auf der Registerkarte Fächer-Matrix sind alle Schüler der Klasse aus Sichtweise der vergebenen Fächer in der aktuellen Klasse aufgelistet. Durch Doppelklicken auf eine Zeile in der Liste der Fächer findet man auf der rechten Seite die Liste aller Schüler, die in diesem Fach unterrichtet werden. Sie können so fachweise die Leistungen eintragen.
-
-<figure class="center">
-    <img src="/assets/images/screenshot6.png" alt="Registerkarte Fächer-Matrix">
-    <figcaption>Registerkarte <em>Fächer-Matrix</em></figcaption>
-</figure>
+Markieren Sie einen Schüler und wechseln auf die Unterkarte `Zeugnisdaten`.
 
 !!! info "Hinweis"
 
-	Die Fächer-Matrix kann nach Excel exportiert werden.
+    In der nachstehenden Ansicht sehen Sie sämtliche Felder, die in dieser Ansicht möglich wären. Wenn weniger Felder gezeigt werden, bedeutet dass, das Ihr Administrator einen Teil der Felder nicht mit in die Datei übergeben hat. Das ist sinnvoll, wenn diese Daten beispielsweise per Sammelzuweisung direkt in MAGELLAN gepflegt werden.
 
-## Eingabe der Noten aus Schülersicht
+![Unterkarte Zeugnisdaten](/assets/images/22.png)
 
-Um die Noten aus Schülersicht einzugeben, müssen Sie wie folgt vorgehen.
+Diese Karte ist dreigeteilt in die Abschnitte:
 
-1. Klicken Sie auf Ansicht und dann auf Schüler anzeigen.
+* Abschlussdaten
+* Versetzungs- und Zeugnisdaten
+* Weitere Daten
 
-2. Doppelklicken Sie auf eine Zeile der Liste der Schüler auf der Registerkarte Auswahl.
+Je nach den Einstellungen beim Erzeugen Ihrer mym-Datei können hier auch Daten, die an Ihrer Schule direkt in Magellan oder von anderen Kollegen erfasst werden, nicht sichtbar sein. Sind alle Felder eines Bereichs ausgeblendet, wird die ganze Spalte ausgeblendet.
 
-3. Sie befinden Sie jetzt auf der Registerkarte Zeugnisdaten.
+In den jeweiligen Feldern werden die Daten (Beispiel Abschluss 1) gezeigt, die in den Verzeichnissen im Schulverwaltungsprogramm gepflegt wurden und mit in die Datei gespielt wurden.
 
-<figure class="center">
-    <img src="/assets/images/screenshot7.png" alt="Registerkarte Leistungen auf der Registerkarte Zeugnisdaten">
-    <figcaption>Registerkarte <em>Leistungen</em> auf der Registerkarte <em>Zeugnisdaten</em></figcaption>
-</figure>
- 
-Die Eingabe auf der Registerkarte Zeugnisdaten erfolgt analog zur Eingabe auf der Registerkarte Schüler-Matrix bei der Eingabe aus Klassensicht.
+#### Sammelzuweisung
 
-## Eingabe der Noten aus Fächer-/Kurssicht
+  Die Felder in den Blöcken `Abschlussdaten` und `Versetzungs- und Zeugnisdaten` können manuell oder per Sammelzuweisung gefüllt werden.
 
-Um die Noten aus Fach- bzw. Kurssicht einzugeben, müssen Sie wie folgt vorgehen.
+![Unterkarte Zeugnisdaten](/assets/images/30.png)
 
-1. Klicken Sie auf Ansicht und dann auf Fächer anzeigen.
+So geht`s:
 
-2. Markieren Sie eine Zeile der Liste der Fächer bzw. Kurse .
+1. Rufen Sie die `Sammelzuweisung` über die gleichnamige Schaltfläche auf!
+2. Markieren Sie die Schüler, für die Sie Daten gesammelt zuweisen möchten und klicken bitte auf `Weiter`!
+![Sammelzuweisung: Schüler markieren](/assets/images/31.png)
+3. Setzen Sie das Häkchen vor dem Feld, das Sie füllen möchten und wählen einen Wert für das Feld aus.
+![Sammelzuweisung: Wert auswählen](/assets/images/32.png)
+4. Klicken Sie auf `Fertigstellen`, der Assistent füllt für alle gewählten Schüler dieses Feld.
 
-3. Sie können nun im rechten Bereich die Noten aus Fächer- bzw. Kurssicht erfassen.
+!!! info "Hinweis"
 
-<figure class="center">
-    <img src="/assets/images/screenshot8.png" alt="Registerkarte Fächer-Matrix zur fach- bzw. kursweisen Erfassung der Noten">
-    <figcaption>Registerkarte <em>Fächer-Matrix</em> zur fach- bzw. kursweisen Erfassung der Noten</figcaption>
-</figure>
+    Wenn Sie nur das Häkchen vor einem Feld setzen, aber keine Auswahl treffen, können Sie auch gesammelt Einträge für mehrere Schüler zurücksetzen. 
+    Aber: Das Leeren der Felder betrifft nur Ihre MyMAGELLAN-Datei, es werden keine Feldinhalte in MAGELLAN durch den Import dieser Felder zurückgesetzt.
+    Sollen aus den Blöcken `Abschlussdaten` und `Versetzungs- und Zeugnisdaten` verkehrte Eintragungen entfernt werden, ist das in letzter Konsequenz nur direkt in MAGELLAN möglich.
 
-Die Eingabe auf der Registerkarte Fächer-Matrix erfolgt analog zur Eingabe auf der Registerkarte Fächer-Matrix bei der Eingabe aus Klassensicht.
+### Zeugnisbemerkungen
 
-## Zusatzinformationen
+!!! warning "Wichtig"
 
-#### Willkommen-Fenster
+    Bitte beachten Sie, dass Sie nur Zeugnisbemerkungen für Schüler erfassen können, für die Sie in MAGELLAN, also im Schulverwaltungsprogramm als Klassenleiter oder als Tutor zugewiesen wurden. Als Fachlehrer können keine Zeugnisbemerkungen für Schüler erfasst werden. In diesem Fall sind die Schaltfläche auf der Karte `Zeugnisbemerkungen` deaktiviert.
 
-Über das Willkommen-Fenster können Sie jederzeit wichtige Informationen abfragen. Sie können dieses Fenster wie folgt aufrufen:
+#### neue Zeugnisbemerkungen anlegen
 
-* Klicken Sie auf Ansicht und dann auf Willkommen.
+So geht's:
 
-Im obersten Teil finden Sie das Ausgabedatum Ihrer MyMAGELLAN-Version. Aktuelle Informationen zur geladen MyMAGELLAN-Datei finden Sie im mittleren Teil. Besonders hilfreich ist hierbei die Anzeige, wie viele Notenfelder noch nicht gefüllt sind. Sie können so auf einen Blick feststellen, ob Sie die Leistungen bei allen Schülern eingegeben haben
+1. Markieren Sie in der linken Spalte den Schüler, für den Sie die Zeugnisbemerkung anlegen möchten und wechseln bitte auf die Unterkarte `Zeugnisbemerkungen`.
+2. Klicken Sie auf die Plusschaltfläche, es öffnet sich das Fenster `Zeugnisbemerkungen`. Sie haben mehrere Möglichkeiten eine Zeugnisbemerkung anzulegen.
 
-Unter Bemerkung finden Sie evtl. Hinweise des Administrators an Sie, die Sie unbedingt beachten sollten.
+![eine neue Zeugnisbemerkung anlegen](/assets/images/26.png)
 
-### Startdatei
+   Nr. | Variante
+   --|--
+   1. | Tippen Sie auf der rechten Seite den Text ein, vergeben eine Positionsnummer und bestätigen mit `Speichern und Schließen`.
+   2. | Wählen Sie auf der linken Seite eine Bemerkung aus, übernehmen sie per Doppelklick auf die rechte Seite, passen sie ggfs. an und bestätigen mit `Speichern und Schließen`.
+   3. |Markieren Sie auf der linken Seite mehrere Zeugnisbemerkungen (anklicken, STRG-Taste halten, nächste anklicken usw.), übernehmen die Auswahl über `Hinzufügen` auf die rechte Seite, passen sie ggfs. den Text an und bestätigen mit `Speichern und Schließen`.
+   
+![zweigeteiltes Fenster "Zeugnisbemerkungen"](/assets/images/29.png)
 
-Nachdem Sie einmal Ihre MyMAGELLAN-Datei mit MyMAGELLAN geladen haben, merkt sich MyMagelan diese Einstellung. Beim Verlassen und erneuten Aufruf von MyMAGELLAN wird automatisch die zuletzt geladene MyMAGELLAN-Datei geöffnet und Sie werden ggf. direkt nach dem Kennwort gefragt.
+#### Zeugnisbemerkungen ändern
 
-### Besonderheiten
+Möchten Sie später eine bestehende Zeugnisbemerkung anpassen, klicken Sie einfach doppelt auf die zu ändernde Zeugnisbemerkung auf der Karte `Zeugnisbemerkungen`. Alternativ können Sie auch die Bemerkung markieren und auf die Schaltfläche mit dem Stiftsymbol gehen. Es öffnet sich in beiden Fällen das Unterfenster `Zeugnisbemerkungen`, passen Sie dort die Eintragungen an und bestätigen mit `Speichern und Schließen`.
 
-Verhalten und Mitarbeit: Sind in MAGELLAN Eintragungen vorhanden auf den Registerkarten `Schüler > Zeugnis > Zeugnis` und `Schüler > Zeugnis > Details` in den Feldern Verhalten und Mitarbeit, so werden diese nicht gelöscht, wenn eine mym-Datei nach MAGELLAN übertragen wird, die in den genannten Feldern keinen Eintrag enthält. 
+#### Zeugnisbemerkungen löschen
 
-Unterrichtstage und Versäumnisse: Sind die folgenden Felder in MAGELLAN auf Registerkarte `Schüler > Zeugnis > Details` mit einem Wert gefüllt, wird dieser überschrieben, wenn eine mym-Datei eingesammelt wird, die in diesen Feldern einen Wert hat, d.h. entweder einen Noten-, Punkt- bzw. Füllwert oder 0 beinhaltet:
+Auf der Unterkarte `Zeugnisbemerkungen` gibt es zwei Optionen zum Löschen:
 
-* Unterrichtstage
-* Versäumnisse
+Aufruf|Funktion
+--|--
+<img src="/assets/images/27.png"> | Klicken Sie eine oder mehrere Bemerkungen an und wählen diese Schaltfläche um ihre Auswahl zu löschen.
+<img src="/assets/images/28.png"> |Wählen Sie diese Schaltfläche um ALLE Zeugnisbemerkungen zu löschen.
 
-Fehltage, davon unentschuldigt, Fehlstunden und davon unentschuldigt: Wie die nachfolgenden Felder beim Einlesen in MAGELLAN verarbeitet werden (Überschreiben, Addieren oder keine Änderung), hängt von der Einstellungen des Administrator ab, der Ihre MyMAGELLAN-Datei erstellt hat:
+## Eingabe nach Fächern
 
-* Fehltage 
-* davon unentschuldigt
-* Fehlstunden
-* davon unentschuldigt
+Um die Daten für Ihre Schüler aus Sicht der Fächer einzugeben klicken Sie bitte auf die Schaltfläche `Fächer anzeigen` oben links in der Menüleiste.
 
-Felder unter `Zeugnis > Zeugnis und Leistungen`: Für alle Eintragungen auf Registerkarte `Schüler > Zeugnis > Zeugnis` und alle Felder auf Registerkarte `Schüler > Zeugnis > Leistungen` gilt ebenfalls, dass dies beim Einlesen in MAGELLAN zu einem Überschreiben der bisherigen Werte in MAGELLAN führt.
+![Aufruf der Fächeransicht](/assets/images/21.png)
 
-Mit Null vorbesetzte Felder: Nach dem Einschulen eines Schülers in MAGELLAN sind auf der Registerkarte `Schüler > Zeugnis > Details` folgende Felder automatisch mit dem Wert 0 vorbelegt (es werden hier nur die Felder genannt, die als Eingabefeld in MyMAGELLAN existieren):
+Nach dem Klick auf `Fächer anzeigen` öffnet sich ein zweigeteiltes Fenster, auf der linken Seite wählen Sie das Fach aus, für das Sie Leistungen erfassen möchten, auf der rechten Seite werden die dazugefundenen Daten in Listenform gezeigt. 
 
-* Unterrichtstage
-* Versäumnisse
-* Fehltage 
-* davon unentschuldigt
-* Fehlstunden
-* davon unentschuldigt
+!!! danger "Achtung"
 
-Es ist sowohl in MAGELLAN als auch in MyMAGELLAN nicht möglich, diese Felder zu leeren. Das bedeutet, dass bei dem Verteilen von MyMAGELLAN-Dateien in den o.g. Feldern immer ein 0-Wert ausgegeben wird, was zur Folge hat, dass beim Einsammeln dieser Dateien grundsätzlich der Wert 0 zurück nach MAGELLAN übertragen wird, wenn in MyMAGELLAN dort keine Eintragung vorgenommen wurde. Das wiederum bewirkt ein Überschreiben eines eventuell in MAGELLAN bereits vorhandenen Wertes mit dem Wert 0, wie unter Punkt 2 beschrieben.
+    Diese Ansicht zeigt beim ersten Aufruf eine geschützte Übersicht aller Schüler, vor dem Bearbeiten **müssen Sie eine Auswahl treffen**.
 
-!!! info "Fazit"
+![Treffen Sie eine Auswahl!](/assets/images/33.png)    
 
-	Die mym-Datei desjenigen Lehrers, der die Zeugnisdetails der Schüler erfassen soll (in den meisten Fällen der Klassenlehrer), sollte erst ein¬gesammelt werden, wenn die Dateien der Fachlehrer schon nach MAGELLAN übernommen wurden.
+Auswahl|Anmerkung
+--|--
+Alle (nicht editierbar)|Diese Auswahl ist die Statztansicht und zeigt eine Übersicht aller Schüler, es ist in dieser Auswahl keine Bearbeitung möglich.
+Noten/Füllwerte| zeigt die zu beurteilenden Schüler, deren Klassenbeurteilungsart in MAGELLAN auf `Noten` gesetzt wurde
+Punkte/Füllwerte|zeigt die zu beurteilenden Schüler, deren Klassenbeurteilungsart in MAGELLAN auf `Punkte` gesetzt wurde
+Beurteilungstexte|zeigt die zu beurteilenden Schüler, deren Klassenbeurteilungsart in MAGELLAN auf `Beurteilungstexte` gesetzt wurde
+
+
+![Eingabe nach Fächern](/assets/images/20.png)
+
+## Speichern
+
+!!! warning "Wichtig"
+
+    Ein geänderter Wert in dessen Feld noch Ihr Cursor blinkt, kann nicht gespeichert werden! Bitte klicken Sie vor dem Beenden des Programms in ein anderes Feld.
+
+Speichertyp | Möglichkeiten im Programm
+-- | --
+Speichern | `Datei > Speichern` <br> `STRG + S` <br/> Speicherabfrage beim Beenden des Programms
+Speichern unter | `Datei > Speichern unter` <br> `STRG + Shift + S`

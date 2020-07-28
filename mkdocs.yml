@@ -42,14 +42,19 @@ extra:
 extra_css:
     - assets/css/custom.css
     
+# Plugins    
+plugins:
+    - search
+    - img2fig
+
+
 # Extensions    
 markdown_extensions:
     - admonition
   
 # Navigation  
 nav:
-- Überblick: index.md
-- Einführung: introduction.md
+- Einführung: index.md
 - Was ist neu?: changelog.md
 - Installation: installation.md
 - Noteneingabe: noteneingabe.md
