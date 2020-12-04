@@ -6,7 +6,13 @@ Abkürzung | Bedeutung
 ----------|----------
 FIX       | Korrektur bestehender Funktionalität
 NEW       | Neue Funktionalität
-CHANGE    | Änderung des Ablaufs, Verarbeitung oder Bedienung
+
+## Version 7.1.21 (04.12.2020)
+
+### MYMAGELLAN
+
+* CHANGE: Filteransicht `Fächer`/`Schüler`: Spaltenposition und Gruppierungen bleiben bei Datensatzwechsel innerhalb der Ansicht erhalten (nicht bei Ansichtswechsel). Bei der Ansicht `Schüler` gibt es noch die Besonderheit, dass die Spalte `Kurs` immer die erste Spalte ist.
+* CHANGE    | Änderung des Ablaufs, Verarbeitung oder Bedienung
 
 ## Version 7.1.10 (05.05.2020)
 
