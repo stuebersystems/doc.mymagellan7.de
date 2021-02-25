@@ -38,18 +38,18 @@ Sie können jetzt MyMAGELLAN starten:
 
 1. Klicken Sie auf Start links unten auf Ihrem Bildschirm.
 
-2. Klicken Sie auf Programme, dann auf STÜBER SYSTEMS und dann auf MyMAGELLAN 7.
+2. Klicken Sie auf Programme, dann auf STÜBER SYSTEMS und dann auf MyMAGELLAN.
 
-MyMAGELLAN 7 wird nun gestartet.
+MyMAGELLAN wird nun gestartet.
 
-Öffnen Sie das Menü `Start > Programme > STÜBER SYSTEMS`, halten Sie die Taste Strg gedrückt, klicken Sie gleichzeitig mit der Maus auf MyMAGELLAN 7 und ziehen Sie das Programmsymbol mit gedrückter Maustaste auf Ihre Bildschirmarbeitsfläche. Sie können dann direkt auf das MyMAGELLAN-Symbol auf Ihrer Arbeitsfläche klicken, um MyMAGELLAN 7 zu starten.
+Öffnen Sie das Menü `Start > Programme > STÜBER SYSTEMS`, halten Sie die Taste Strg gedrückt, klicken Sie gleichzeitig mit der Maus auf MyMAGELLAN und ziehen Sie das Programmsymbol mit gedrückter Maustaste auf Ihre Bildschirmarbeitsfläche. Sie können dann direkt auf das MyMAGELLAN-Symbol auf Ihrer Arbeitsfläche klicken, um MyMAGELLAN zu starten.
 
 Laden Sie jetzt Ihre MyMAGELLAN-Datei, die Sie von Ihrem Administrator erhalten haben. Gehen Sie dazu wie folgt vor:
 
 | Nr         | Möglichkeit                                                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Variante 1 | Klicken Sie auf Datei und dann auf Öffnen. Wählen Sie die MyMAGELLAN-Datei aus und klicken Sie auf Öffnen.                                                          |
-| Variante 2 | Alternativ können Sie das Programm auch öffnen, indem Sie doppelt auf die Datei (*.mym7) klicken, dann wird automatisch MyMAGELLAN gestartet und Ihre Datei geladen |
+| Variante 2 | Alternativ können Sie das Programm auch öffnen, indem Sie doppelt auf die Datei (*.mymx) klicken, dann wird automatisch MyMAGELLAN gestartet und Ihre Datei geladen |
 
 Nach dem Laden der Datei werden Sie ggf. nach dem Kennwort Ihrer MyMAGELLAN-Datei gefragt. Tippen Sie dazu das von Ihrem Administrator erhaltene Kennwort Ihrer Datei ein.
 
@@ -59,7 +59,7 @@ Nach dem Laden der Datei werden Sie ggf. nach dem Kennwort Ihrer MyMAGELLAN-Date
 
 Das regelmäßige Erstellen von Sicherungskopien sollte für Sie zur Routine werden. Beugen Sie damit dem möglichen Verlust Ihrer Daten vor (Stromausfall, versehentliches Löschen usw.). Beachten Sie daher bitte folgende Ratschläge:
 
-* Speichern Sie regelmäßig Ihre MyMAGELLAN-Datei mit der Endung .mym.
+* Speichern Sie regelmäßig Ihre MyMAGELLAN-Datei mit der Endung .mymx.
 
 * Verwenden Sie mehr als ein Sicherungsmedium für Sicherungskopien und benutzen Sie diese der Reihe nach. So bleiben ältere Stadien der Daten erhalten.
 
@@ -71,11 +71,11 @@ Das regelmäßige Erstellen von Sicherungskopien sollte für Sie zur Routine wer
 
 ## Aktualisieren per Gruppenrichtlinien oder Softwareverteilung
 
-MyMAGELLAN 7 installiert sich in einen Ordner und die Registry, dafür müssten Zugriffsrechte gewährt werden:
+MyMAGELLAN installiert sich in einen Ordner und die Registry, dafür müssten Zugriffsrechte gewährt werden:
 
 | Was                         | Pfad am Beispiel Windows 10                       |
 | --------------------------- | ------------------------------------------------- |
-| Programmdateien (EXE etc.)) | C:\Program Files (x86)\Stueber Systems\Magellan 7 |
+| Programmdateien (EXE etc.)) | C:\Program Files (x86)\Stueber Systems\Magellan|
 
 !!! info "Hinweis"
 
@@ -83,7 +83,7 @@ MyMAGELLAN 7 installiert sich in einen Ordner und die Registry, dafür müssten 
 
 	Die Angaben variieren je nach Betriebssystem. Im oberen Beispiel beziehen sich die Angaben auf Windows 10!
 
-Für die Installation von MyMAGELLAN 7 wie auch für das Update von MyMAGELLAN 7 benötigt der Benutzer Administratorenrechte bzw. er benötigt das Recht in Systemverzeichnisse ("C:\Programme" und "C:\Windows") zu schreiben und in die Registry unter HKEY-LOCAL-MACHINE zur schreiben. Das bedeutet, es könnte auch eine andere Benutzergruppe installieren, sofern diese die oben genannten Zugriffsrechte haben. Technisch gesehen sind Erstinstallation und Update gleich.
+Für die Installation von MyMAGELLAN wie auch für das Update von MyMAGELLAN benötigt der Benutzer Administratorenrechte bzw. er benötigt das Recht in Systemverzeichnisse ("C:\Programme" und "C:\Windows") zu schreiben und in die Registry unter HKEY-LOCAL-MACHINE zur schreiben. Das bedeutet, es könnte auch eine andere Benutzergruppe installieren, sofern diese die oben genannten Zugriffsrechte haben. Technisch gesehen sind Erstinstallation und Update gleich.
 
 Um die Updates möglichst ohne viel Aufwand auf mehreren Rechnern zu verteilen, gibt es zwei Möglichkeiten:
 
@@ -99,12 +99,12 @@ Grundsätzlich basiert unsere Installation auf der MSI-Technologie. Mit dieser M
 
 Folgenden Parameter sind möglich:
 
-Silent-Setup für MyMAGELLAN 7:
+Ein Beispiel für Silent-Setup von MyMAGELLAN:
 
 | Installationstyp | Parameter                                                                |
 | ---------------- | ------------------------------------------------------------------------ |
-| Installation     | msiexec /i "C:\MySetup\MyMAGELLAN7.msi" /q APPDIR="C:\MyFolder\Magellan" |
-| Deinstallation   | msiexec /x "C:\MySetup\myagellan7.msi" /q                                |
+| Installation     | msiexec /i "C:\MySetup\MyMAGELLAN.msi" /q APPDIR="C:\MyFolder\Magellan" |
+| Deinstallation   | msiexec /x "C:\MySetup\myagellan.msi" /q                                |
 
 !!! info "Hinweis"
 

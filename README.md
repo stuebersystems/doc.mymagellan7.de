@@ -1,6 +1,6 @@
 [![Build Status](https://dev.azure.com/stuebersystems/Websites/_apis/build/status/docs/doc.mymagellan7.de?branchName=master)](https://dev.azure.com/stuebersystems/Websites/_build/latest?definitionId=60&branchName=master)
 
-# MyMAGELLAN 7 Dokumentation
+# MyMAGELLAN Dokumentation
 
 Dies ist die deutsche Dokumentation zu [MyMAGELLAN](https://magellan.stueber.de). Die Dokumentation ist Open Source und wir haben sie mit [MkDocs](https://www.mkdocs.org) und [Material for MkDocs](https://squidfunk.github.io/mkdocs-material) realisiert.
 

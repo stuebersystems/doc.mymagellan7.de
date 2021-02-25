@@ -1,6 +1,6 @@
 # Einführung
 
-Dies ist die elektronische Dokumentation zu [MyMAGELLAN 7](https://magellan.stueber.de).
+Dies ist die elektronische Dokumentation zu [MyMAGELLAN](https://magellan.stueber.de).
 
 MyMAGELLAN ist ein Zusatzmodul für MAGELLAN zur dezentralen Zeugnisnotenerfassung als Grundlage für den Zeugnisdruck.
 Ihr Administrator erzeugt eine Datei, die die Schülerfachdaten Ihrer unterrichteten Schüler enthält. Wir unterscheiden dabei nach drei Rollen:
