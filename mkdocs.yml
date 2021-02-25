@@ -55,8 +55,6 @@ markdown_extensions:
 # Navigation  
 nav:
 - Einführung: index.md
-- Was ist neu?: 
-  - Änderungen Version 8: changelog/changelog8.md
-  - Änderungen Version 7: changelog/changelog7.md
+- Was ist neu?: changelog.md
 - Installation: installation.md
 - Noteneingabe: noteneingabe.md

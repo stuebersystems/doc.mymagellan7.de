@@ -20,9 +20,11 @@ Nachdem Sie die Installationsdateien für MyMAGELLAN in Absprache mit Ihrem Admi
 
 ![Bestätigen Sie mit Weiter!](/assets/images/installation/01.png)
 
+![Übernehmen Sie den vorgeschlagenen Pfad oder passen ihn ggfs. an!](/assets/images/installation/01.01.png)
+
 ![Klicken Sie auf Installieren!](/assets/images/installation/02.png)
 
-![MyMagellan wird auf Ihrem Rechner installiert.](/assets/images/installation/03.png)
+MyMagellan wird auf Ihrem Rechner installiert.
 
 ![Klicken Sie auf Fertigstellen!](/assets/images/installation/04.png)
 
