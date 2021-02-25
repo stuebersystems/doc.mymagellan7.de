@@ -55,7 +55,11 @@ Laden Sie jetzt Ihre MyMAGELLAN-Datei, die Sie von Ihrem Administrator erhalten 
 
 Nach dem Laden der Datei werden Sie ggf. nach dem Kennwort Ihrer MyMAGELLAN-Datei gefragt. Tippen Sie dazu das von Ihrem Administrator erhaltene Kennwort Ihrer Datei ein.
 
-![Die Willkommensseite in MyMAGELLAN](/assets/images/screenshot1.png)
+![Tippen Sie Ihr Passwort ein!](/assets/images/35.png)
+
+Im Anschluss öffnet sich die Datei und die Willkommensseite wird gezeigt mit einer Übersicht der noch zu erfassenden Daten.
+
+![Die Willkommensseite in MyMAGELLAN](/assets/images/34.png)
 
 ## Datensicherung
 
