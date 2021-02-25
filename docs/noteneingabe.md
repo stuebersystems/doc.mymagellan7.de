@@ -1,7 +1,7 @@
 # Noteneingabe
 
 Öffnen Sie MyMAGELLAN per Doppelklick auf Ihre Datei (*.mymx) oder starten Sie das Programm MyMAGELLAN  und laden über `Datei > Öffnen`.
-Es gibt zwei Ansichten für die Eingabe, einmal für die Datenerfassung je Schüler (Leistungen, weitere Zeugnisdaten, Zeugnisbemerkugne, Fehlzeitern) oder aus Sicht eines Faches (Leistungen).
+Es gibt zwei Ansichten für die Eingabe, einmal für die Datenerfassung je Schüler (Leistungen, weitere Zeugnisdaten, Zeugnisbemerkungen, Fehlzeiten) oder aus Sicht eines Faches (Leistungen).
 
  ![Aufrufe für die Eingabe nach Schülern oder nach Fächern](/assets/images/09.png)
 
