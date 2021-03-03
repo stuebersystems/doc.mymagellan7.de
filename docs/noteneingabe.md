@@ -1,7 +1,7 @@
 # Noteneingabe
 
-Öffnen Sie MyMAGELLAN per Doppelklick auf Ihre Datei (*.mym) oder starten Sie das Programm MyMAGELLAN  und laden über `Datei > Öffnen`.
-Es gibt zwei Ansichten für die Eingabe, einmal für die Datenerfassung je Schüler (Leistungen, weitere Zeugnisdaten, Zeugnisbemerkugne, Fehlzeitern) oder aus Sicht eines Faches (Leistungen).
+Öffnen Sie MyMAGELLAN per Doppelklick auf Ihre Datei (*.mymx) oder starten Sie das Programm MyMAGELLAN  und laden über `Datei > Öffnen`.
+Es gibt zwei Ansichten für die Eingabe, einmal für die Datenerfassung je Schüler (Leistungen, weitere Zeugnisdaten, Zeugnisbemerkungen, Fehlzeiten) oder aus Sicht eines Faches (Leistungen).
 
  ![Aufrufe für die Eingabe nach Schülern oder nach Fächern](/assets/images/09.png)
 
@@ -114,7 +114,7 @@ Diese Karte ist dreigeteilt in die Abschnitte:
 * Versetzungs- und Zeugnisdaten
 * Weitere Daten
 
-Je nach den Einstellungen beim Erzeugen Ihrer mym-Datei können hier auch Daten, die an Ihrer Schule direkt in Magellan oder von anderen Kollegen erfasst werden, nicht sichtbar sein. Sind alle Felder eines Bereichs ausgeblendet, wird die ganze Spalte ausgeblendet.
+Je nach den Einstellungen beim Erzeugen Ihrer mymx-Datei können hier auch Daten, die an Ihrer Schule direkt in Magellan oder von anderen Kollegen erfasst werden, nicht sichtbar sein. Sind alle Felder eines Bereichs ausgeblendet, wird die ganze Spalte ausgeblendet.
 
 In den jeweiligen Feldern werden die Daten (Beispiel Abschluss 1) gezeigt, die in den Verzeichnissen im Schulverwaltungsprogramm gepflegt wurden und mit in die Datei gespielt wurden.
 
