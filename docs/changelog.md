@@ -9,6 +9,12 @@ NEW       | Neue Funktionalität
 
 ## Version 8
 
+### Version 8.0.13 (unveröffentlicht)
+
+* FIX: Schlüsselverzeichnis Zeugnisbemerkungen wird in voller Länge aus MAGELLAN übergeben
+* FIX: `Schüler > Ausbildung > Editieren` Tabulatorreihenfolge korrigiert
+* FIX: Speichern der Eingaben auf der Karte `Zeugnisdaten` (besonderer Fall: nur eine Eingabefeld auf der Karte))
+
 ## Version 7
 
 ### Version 7.1.21 (04.12.2020)
