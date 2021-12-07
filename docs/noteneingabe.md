@@ -209,3 +209,9 @@ Speichertyp | Möglichkeiten im Programm
 -- | --
 Speichern | `Datei > Speichern` <br> `STRG + S` <br/> Speicherabfrage beim Beenden des Programms
 Speichern unter | `Datei > Speichern unter` <br> `STRG + Shift + S`
+
+## Kontrolle nach Klassen
+
+Unter dem Aufruf `Kontrolle nach Klasse` können Sie eine schreibgeschütze Übersicht je Klasse aufrufen, in der Sie auf einen Blick die erfassten Noten erkennen können. Diese Ansicht kann auch nach Excel übertragen werden. 
+
+![Kontrollübersicht](/assets/images/36.png)
