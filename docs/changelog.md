@@ -9,7 +9,7 @@ NEW       | Neue Funktionalität
 
 ## Version 9.0.0 (04.01.2022)
 
-Version  wurde veröffentlicht!
+Version 9 wurde veröffentlicht!
 
 Eine Übersicht der Neuerungen finden Sie hier: [https://doc.magellan.stueber.de/changelog/neu.mag9/](https://doc.magellan.stueber.de/changelog/neu.mag9/)
 
