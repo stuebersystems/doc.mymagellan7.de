@@ -7,7 +7,12 @@ Abkürzung | Bedeutung
 FIX       | Korrektur bestehender Funktionalität
 NEW       | Neue Funktionalität
 
-## Version 9.0.1 (unveröffentlicht)
+
+## Version 9.0.3 (unveröffentlicht)
+
+* FIX: Problem beim `Speichern unter` behoben
+
+## Version 9.0.1 (04.03.2022)
 
 * FIX: Beim 'Speichern unter' wird die Datei mit `Dateiname.mymx` an der gewählten Stelle gespeichert.
 
