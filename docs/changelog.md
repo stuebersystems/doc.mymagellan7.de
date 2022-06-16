@@ -7,8 +7,7 @@ Abkürzung | Bedeutung
 FIX       | Korrektur bestehender Funktionalität
 NEW       | Neue Funktionalität
 
-
-## Version 9.0.3 (unveröffentlicht)
+## Version 9.0.3 (16.06.2022)
 
 * FIX: Problem beim `Speichern unter` behoben
 
