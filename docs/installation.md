@@ -6,9 +6,9 @@ MyMAGELLAN ist kompatibel mit folgenden Betriebssystemen:
 
 | MAGELLAN                  | Kompatibilität                                                                      |
 | ------------------------- | ----------------------------------------------------------------------------------- |
-| **Betriebssystem 32-Bit** | Windows  8/10              |
-| **Betriebssystem 64-Bit** | Windows 8/10
-| **Office-Versionen**      | Office  2007/2010/2013/2016                        |
+| **Betriebssystem 32-Bit** | Windows  8/10/11              |
+| **Betriebssystem 64-Bit** | Windows 8/10/11
+| **Office-Versionen**      | Office 2007/2010/2013/2016/2019/2021                       |
 | **Hardware**              | MAGELLAN benötigt keine besonderen Hardware-Anforderungen                           |
 | **Bildschirmauflösung**   | Die Bildschirmauflösung sollte 1280x800 Bildpunkte nicht unterschreiten             |
 

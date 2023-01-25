@@ -15,6 +15,10 @@ Abkürzung | Bedeutung
 FIX       | Korrektur bestehender Funktionalität
 NEW       | Neue Funktionalität
 
+## Version 10 (unveröffentlicht)
+
+* NEW: Die Felder `Bestanden` und `Leistungsart` aus `Schüler > Zeugnis > Leistungen` können mit in eine MyMAGELLAN-Datei übertragen, dort befüllt und wieder in die Schulverwaltung übertragen werden.
+
 ## Version 9.0.3 (16.06.2022)
 
 * FIX: Problem beim `Speichern unter` behoben
