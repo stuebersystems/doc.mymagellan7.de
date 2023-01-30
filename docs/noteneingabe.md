@@ -196,7 +196,6 @@ Noten/Füllwerte| zeigt die zu beurteilenden Schüler, deren Klassenbeurteilungs
 Punkte/Füllwerte|zeigt die zu beurteilenden Schüler, deren Klassenbeurteilungsart in MAGELLAN auf `Punkte` gesetzt wurde
 Beurteilungstexte|zeigt die zu beurteilenden Schüler, deren Klassenbeurteilungsart in MAGELLAN auf `Beurteilungstexte` gesetzt wurde
 
-
 ![Eingabe nach Fächern](/assets/images/20.png)
 
 ## Speichern
