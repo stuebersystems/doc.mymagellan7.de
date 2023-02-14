@@ -15,7 +15,7 @@ Abkürzung | Bedeutung
 FIX       | Korrektur bestehender Funktionalität
 NEW       | Neue Funktionalität
 
-## Version 10 (unveröffentlicht)
+## Version 10 (14.02.2023)
 
 * NEW: Die Felder `Bestanden` und `Leistungsart` aus `Schüler > Zeugnis > Leistungen` können mit in eine MyMAGELLAN-Datei übertragen, dort befüllt und wieder in die Schulverwaltung übertragen werden.
 * NEW: Die Auswahl der Filterung der Fachzeilen nach der `Beurteilungsart` unter `Fächer anzeigen` ist geändert worden. Die Optionen sind nebeneinander als Schaltflächen angeordnet. Beim Ansichtswechsel innerhalb des Programms bleibt Ihre Auswahl gespeichert, beim Neustart des Programms wird die Standardauswahl auf `Alle (nicht editierbar)` zurückgesetzt.
