@@ -17,6 +17,10 @@ NEW       | Neue Funktionalität
 
 ## Version 11
 
+### Version 11.0.3 1100 (unveröffentlicht)
+
+* FIX: Wenn noch keine Zeugnisbemerkung für einen Schüler angelegt wurde, ist das Editiersymbol (Stift) deaktiviert.
+
 ### Version 11.0.2 1100 (22.01.2024)
 
 Alle Neuerungen beschreiben wir [hier](https://doc.magellan.stueber.de/changelog/neu.mag11/).## Version 11
