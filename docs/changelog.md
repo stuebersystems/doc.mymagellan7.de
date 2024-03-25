@@ -17,7 +17,11 @@ NEW       | Neue Funktionalität
 
 ## Version 11
 
-### Version 11.0.3 1100 (unveröffentlicht)
+### Version 11.0.4 1100 (unveröffentlicht)
+
+* FIX: Die Sortierung in der Ansicht "Kontrolle nach Klassen" wurde korrigiert.
+
+### Version 11.0.3 1100 (05.03.2024)
 
 * FIX: Wenn noch keine Zeugnisbemerkung für einen Schüler angelegt wurde, ist das Editiersymbol (Stift) deaktiviert.
 
