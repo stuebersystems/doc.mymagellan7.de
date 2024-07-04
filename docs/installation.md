@@ -2,21 +2,21 @@
 
 ## Systemvoraussetzungen
 
-MyMAGELLAN ist kompatibel mit folgenden Betriebssystemen:
+MyMagellan ist kompatibel mit folgenden Betriebssystemen:
 
-| MAGELLAN                  | Kompatibilität                                                                      |
+| Magellan                  | Kompatibilität                                                                      |
 | ------------------------- | ----------------------------------------------------------------------------------- |
 | **Betriebssystem 32-Bit** | Windows  8/10/11              |
 | **Betriebssystem 64-Bit** | Windows 8/10/11
 | **Office-Versionen**      | Office 2007/2010/2013/2016/2019/2021                       |
-| **Hardware**              | MAGELLAN benötigt keine besonderen Hardware-Anforderungen                           |
+| **Hardware**              | Magellan benötigt keine besonderen Hardware-Anforderungen                           |
 | **Bildschirmauflösung**   | Die Bildschirmauflösung sollte 1280x800 Bildpunkte nicht unterschreiten             |
 
-## So installieren Sie MyMAGELLAN
+## So installieren Sie MyMagellan
 
-Nachdem Sie die Installationsdateien für MyMAGELLAN in Absprache mit Ihrem Administrator erhalten haben, gehen Sie wie folgt vor:
+Nachdem Sie die Installationsdateien für MyMagellan in Absprache mit Ihrem Administrator erhalten haben, gehen Sie wie folgt vor:
 
-1. Starten Sie Installation per Doppelklick auf die Datei „MyMAGELLAN.msi“ auf Ihrem Datenträger. Bestätigen Sie anschließend alle Fenster mit `Weiter` und `Fertigstellen`, das Programm wird auf Ihrem Rechner installiert.
+1. Starten Sie Installation per Doppelklick auf die Datei „MyMagellan.msi“ auf Ihrem Datenträger. Bestätigen Sie anschließend alle Fenster mit `Weiter` und `Fertigstellen`, das Programm wird auf Ihrem Rechner installiert.
 
 ![Bestätigen Sie mit Weiter!](/assets/images/installation/01.png)
 
@@ -32,40 +32,40 @@ MyMagellan ist auf Ihren Rechner installiert!
 
 ## Lizenz?
 
-Für MyMAGELLAN wird keine Lizenzdatei benötigt, die Lizenzierung wurde bereits beim Erstellen der MyMAGELLAN-Dateien abgefragt.
+Für MyMagellan wird keine Lizenzdatei benötigt, die Lizenzierung wurde bereits beim Erstellen der MyMagellan-Dateien abgefragt.
 
-## So starten Sie MyMAGELLAN
+## So starten Sie MyMagellan
 
-Sie können jetzt MyMAGELLAN starten:
+Sie können jetzt MyMagellan starten:
 
 1. Klicken Sie auf Start links unten auf Ihrem Bildschirm.
 
-2. Klicken Sie auf Programme, dann auf STÜBER SYSTEMS und dann auf MyMAGELLAN.
+2. Klicken Sie auf Programme, dann auf STÜBER SYSTEMS und dann auf MyMagellan.
 
-MyMAGELLAN wird nun gestartet.
+MyMagellan wird nun gestartet.
 
-Öffnen Sie das Menü `Start > Programme > STÜBER SYSTEMS`, halten Sie die Taste Strg gedrückt, klicken Sie gleichzeitig mit der Maus auf MyMAGELLAN und ziehen Sie das Programmsymbol mit gedrückter Maustaste auf Ihre Bildschirmarbeitsfläche. Sie können dann direkt auf das MyMAGELLAN-Symbol auf Ihrer Arbeitsfläche klicken, um MyMAGELLAN zu starten.
+Öffnen Sie das Menü `Start > Programme > STÜBER SYSTEMS`, halten Sie die Taste Strg gedrückt, klicken Sie gleichzeitig mit der Maus auf MyMagellan und ziehen Sie das Programmsymbol mit gedrückter Maustaste auf Ihre Bildschirmarbeitsfläche. Sie können dann direkt auf das MyMagellan-Symbol auf Ihrer Arbeitsfläche klicken, um MyMagellan zu starten.
 
-Laden Sie jetzt Ihre MyMAGELLAN-Datei, die Sie von Ihrem Administrator erhalten haben. Gehen Sie dazu wie folgt vor:
+Laden Sie jetzt Ihre MyMagellan-Datei, die Sie von Ihrem Administrator erhalten haben. Gehen Sie dazu wie folgt vor:
 
 | Nr         | Möglichkeit                                                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Variante 1 | Klicken Sie auf Datei und dann auf Öffnen. Wählen Sie die MyMAGELLAN-Datei aus und klicken Sie auf Öffnen.                                                          |
-| Variante 2 | Alternativ können Sie das Programm auch öffnen, indem Sie doppelt auf die Datei (*.mymx) klicken, dann wird automatisch MyMAGELLAN gestartet und Ihre Datei geladen |
+| Variante 1 | Klicken Sie auf Datei und dann auf Öffnen. Wählen Sie die MyMagellan-Datei aus und klicken Sie auf Öffnen.                                                          |
+| Variante 2 | Alternativ können Sie das Programm auch öffnen, indem Sie doppelt auf die Datei (*.mymx) klicken, dann wird automatisch MyMagellan gestartet und Ihre Datei geladen |
 
-Nach dem Laden der Datei werden Sie ggf. nach dem Kennwort Ihrer MyMAGELLAN-Datei gefragt. Tippen Sie dazu das von Ihrem Administrator erhaltene Kennwort Ihrer Datei ein.
+Nach dem Laden der Datei werden Sie ggf. nach dem Kennwort Ihrer MyMagellan-Datei gefragt. Tippen Sie dazu das von Ihrem Administrator erhaltene Kennwort Ihrer Datei ein.
 
 ![Tippen Sie Ihr Passwort ein!](/assets/images/35.png)
 
 Im Anschluss öffnet sich die Datei und die Willkommensseite wird gezeigt mit einer Übersicht der noch zu erfassenden Daten.
 
-![Die Willkommensseite in MyMAGELLAN](/assets/images/34.png)
+![Die Willkommensseite in MyMagellan](/assets/images/34.png)
 
 ## Datensicherung
 
 Das regelmäßige Erstellen von Sicherungskopien sollte für Sie zur Routine werden. Beugen Sie damit dem möglichen Verlust Ihrer Daten vor (Stromausfall, versehentliches Löschen usw.). Beachten Sie daher bitte folgende Ratschläge:
 
-* Speichern Sie regelmäßig Ihre MyMAGELLAN-Datei mit der Endung .mymx.
+* Speichern Sie regelmäßig Ihre MyMagellan-Datei mit der Endung .mymx.
 
 * Verwenden Sie mehr als ein Sicherungsmedium für Sicherungskopien und benutzen Sie diese der Reihe nach. So bleiben ältere Stadien der Daten erhalten.
 
@@ -77,7 +77,7 @@ Das regelmäßige Erstellen von Sicherungskopien sollte für Sie zur Routine wer
 
 ## Aktualisieren per Gruppenrichtlinien oder Softwareverteilung
 
-MyMAGELLAN installiert sich in einen Ordner und die Registry, dafür müssten Zugriffsrechte gewährt werden:
+MyMagellan installiert sich in einen Ordner und die Registry, dafür müssten Zugriffsrechte gewährt werden:
 
 | Was                         | Pfad am Beispiel Windows 10                       |
 | --------------------------- | ------------------------------------------------- |
@@ -89,7 +89,7 @@ MyMAGELLAN installiert sich in einen Ordner und die Registry, dafür müssten Zu
 
 	Die Angaben variieren je nach Betriebssystem. Im oberen Beispiel beziehen sich die Angaben auf Windows 10!
 
-Für die Installation von MyMAGELLAN wie auch für das Update von MyMAGELLAN benötigt der Benutzer Administratorenrechte bzw. er benötigt das Recht in Systemverzeichnisse ("C:\Programme" und "C:\Windows") zu schreiben und in die Registry unter HKEY-LOCAL-MACHINE zur schreiben. Das bedeutet, es könnte auch eine andere Benutzergruppe installieren, sofern diese die oben genannten Zugriffsrechte haben. Technisch gesehen sind Erstinstallation und Update gleich.
+Für die Installation von MyMagellan wie auch für das Update von MyMagellan benötigt der Benutzer Administratorenrechte bzw. er benötigt das Recht in Systemverzeichnisse ("C:\Programme" und "C:\Windows") zu schreiben und in die Registry unter HKEY-LOCAL-MACHINE zur schreiben. Das bedeutet, es könnte auch eine andere Benutzergruppe installieren, sofern diese die oben genannten Zugriffsrechte haben. Technisch gesehen sind Erstinstallation und Update gleich.
 
 Um die Updates möglichst ohne viel Aufwand auf mehreren Rechnern zu verteilen, gibt es zwei Möglichkeiten:
 
@@ -105,11 +105,11 @@ Grundsätzlich basiert unsere Installation auf der MSI-Technologie. Mit dieser M
 
 Folgenden Parameter sind möglich:
 
-Ein Beispiel für Silent-Setup von MyMAGELLAN:
+Ein Beispiel für Silent-Setup von MyMagellan:
 
 | Installationstyp | Parameter                                                                |
 | ---------------- | ------------------------------------------------------------------------ |
-| Installation     | msiexec /i "C:\MySetup\MyMAGELLAN.msi" /q APPDIR="C:\MyFolder\Magellan" |
+| Installation     | msiexec /i "C:\MySetup\MyMagellan.msi" /q APPDIR="C:\MyFolder\Magellan" |
 | Deinstallation   | msiexec /x "C:\MySetup\myagellan.msi" /q                                |
 
 !!! info "Hinweis"

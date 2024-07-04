@@ -1,8 +1,8 @@
 [![Build Status](https://dev.azure.com/stuebersystems/Websites/_apis/build/status/docs/doc.mymagellan7.de?branchName=master)](https://dev.azure.com/stuebersystems/Websites/_build/latest?definitionId=60&branchName=master)
 
-# MyMAGELLAN Dokumentation
+# MyMagellan Dokumentation
 
-Dies ist die deutsche Dokumentation zu [MyMAGELLAN](https://magellan.stueber.de). Die Dokumentation ist Open Source und wir haben sie mit [MkDocs](https://www.mkdocs.org) und [Material for MkDocs](https://squidfunk.github.io/mkdocs-material) realisiert.
+Dies ist die deutsche Dokumentation zu [MyMagellan](https://magellan.stueber.de). Die Dokumentation ist Open Source und wir haben sie mit [MkDocs](https://www.mkdocs.org) und [Material for MkDocs](https://squidfunk.github.io/mkdocs-material) realisiert.
 
 ## MkDocs unter Windows installieren
 
@@ -44,7 +44,7 @@ Du hast Python und das Package MkDocs installiert, Du hast dieses Repository gek
 
 1. Starte die Eingabeaufforderung und wechsle in den Ordner `c:\docs\mymagellan`.
 
-2. Tippe den Befehl `mkdocs build` ein. Die MYMAGELLAN Dokumentation wird neu generiert.
+2. Tippe den Befehl `mkdocs build` ein. Die MyMagellan Dokumentation wird neu generiert.
 
 3. Um Dir das Ergebnis anzeigen zu lassen, tippe den Befehl `mkdocs serve` ein und öffne die Url `http://127.0.0.1:8000` in Deinem Webbrowser.
 

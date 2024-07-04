@@ -6,7 +6,7 @@
 
     **OpenSSL-Schwachstelle**: In unseren Softwareprodukten setzen wir kein OpenSSL ein.
 
-    **Log4Shell-Schwachstelle**: Unsere Software-Produkte ENBREA, DAVINCI, MAGELLAN, CONFIRE SHOWTIME und CONFIRE SHERLOCK sind alle nicht von der Log4Shell-Schwachstelle betroffen, da keines dieser Produkte Java verwendet oder von einer externen Java-Anwendung abhängig ist. Auch unsere öffentlich zugänglichen Dienste (z.B. Ticketsystem, Webseiten) nutzen alle kein Java. Bitte lesen Sie auch unseren [Blogeintrag](https://blog.stueber.de/posts/log4j-desaster).
+    **Log4Shell-Schwachstelle**: Unsere Software-Produkte Enbrea, DaVinci, Magellan, CONFIRE SHOWTIME und CONFIRE SHERLOCK sind alle nicht von der Log4Shell-Schwachstelle betroffen, da keines dieser Produkte Java verwendet oder von einer externen Java-Anwendung abhängig ist. Auch unsere öffentlich zugänglichen Dienste (z.B. Ticketsystem, Webseiten) nutzen alle kein Java. Bitte lesen Sie auch unseren [Blogeintrag](https://blog.stueber.de/posts/log4j-desaster).
 
 ## LEGENDE
 
@@ -38,7 +38,7 @@ Alle Neuerungen beschreiben wir [hier](https://doc.magellan.stueber.de/changelog
 
 ## Version 10.0.0 100 (14.02.2023)
 
-* NEW: Die Felder `Bestanden` und `Leistungsart` aus `Schüler > Zeugnis > Leistungen` können mit in eine MyMAGELLAN-Datei übertragen, dort befüllt und wieder in die Schulverwaltung übertragen werden.
+* NEW: Die Felder `Bestanden` und `Leistungsart` aus `Schüler > Zeugnis > Leistungen` können mit in eine MyMagellan-Datei übertragen, dort befüllt und wieder in die Schulverwaltung übertragen werden.
 * NEW: Die Auswahl der Filterung der Fachzeilen nach der `Beurteilungsart` unter `Fächer anzeigen` ist geändert worden. Die Optionen sind nebeneinander als Schaltflächen angeordnet. Beim Ansichtswechsel innerhalb des Programms bleibt Ihre Auswahl gespeichert, beim Neustart des Programms wird die Standardauswahl auf `Alle (nicht editierbar)` zurückgesetzt.
 
 ## Version 9.0.3 (16.06.2022)
@@ -59,11 +59,11 @@ Eine Übersicht der Neuerungen finden Sie hier: [https://doc.magellan.stueber.de
 
 ### Version 8.0.14 (17.12.2021)
 
-* FIX: Für Dateien, die mit der Version MAGELLAN 8.0.13 oder früher erstellt wurden, wird für Schüler denen derselbe Lehrer als Tutor und als Fachlehrer zugeordnet wurde, die Rolle des Fachlehrers ignoriert. Ab mit der Version MAGELLAN 8.0.14 oder höher erstellten MyMAGELLAN-Dateien tritt diese Problematik nicht mehr auf. Eine Vorabversion von MyMAGELLAN, die diese Problematik korrekt verarbeitet, finden Sie unter: [https://my.hidrive.com/lnk/ncSJCFHd](https://my.hidrive.com/lnk/ncSJCFHd)
+* FIX: Für Dateien, die mit der Version Magellan 8.0.13 oder früher erstellt wurden, wird für Schüler denen derselbe Lehrer als Tutor und als Fachlehrer zugeordnet wurde, die Rolle des Fachlehrers ignoriert. Ab mit der Version Magellan 8.0.14 oder höher erstellten MyMagellan-Dateien tritt diese Problematik nicht mehr auf. Eine Vorabversion von MyMagellan, die diese Problematik korrekt verarbeitet, finden Sie unter: [https://my.hidrive.com/lnk/ncSJCFHd](https://my.hidrive.com/lnk/ncSJCFHd)
 
 ### Version 8.0.13 (30.11.2021)
 
-* FIX: Schlüsselverzeichnis Zeugnisbemerkungen wird in voller Länge aus MAGELLAN übergeben
+* FIX: Schlüsselverzeichnis Zeugnisbemerkungen wird in voller Länge aus Magellan übergeben
 * FIX: `Schüler > Ausbildung > Editieren` Tabulatorreihenfolge korrigiert
 * FIX: Speichern der Eingaben auf der Karte `Zeugnisdaten` (besonderer Fall: nur eine Eingabefeld auf der Karte))
 
@@ -125,7 +125,7 @@ Eine Übersicht der Neuerungen finden Sie hier: [https://doc.magellan.stueber.de
 * FIX: Sortierung von Umlauten korrigiert
 * CHANGE: Fachansicht: Die zuletzt gewählte Sortierung wird beim Wechsel zum nächsten Datensatz für die neue Liste wieder ausgeführt
 * CHANGE: Schüleransicht: Die zuletzt gewählte Sortierung wird beim Wechsel zum nächsten Datensatz für die neue Liste wieder ausgeführt
-* CHANGE: Beim Start einer MyMAGELLAN-Datei wird die Beurteilungsart der Fächeransicht standardmäßig mit der Auswahl `Alle Beurteilungsarten` voreingestellt. 
+* CHANGE: Beim Start einer MyMagellan-Datei wird die Beurteilungsart der Fächeransicht standardmäßig mit der Auswahl `Alle Beurteilungsarten` voreingestellt. 
 
 ### Version 7.1.0 (30.10.2019)
 

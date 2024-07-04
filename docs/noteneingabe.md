@@ -1,13 +1,13 @@
 # Noteneingabe
 
-Öffnen Sie MyMAGELLAN per Doppelklick auf Ihre Datei (*.mymx) oder starten Sie das Programm MyMAGELLAN  und laden über `Datei > Öffnen`.
+Öffnen Sie MyMagellan per Doppelklick auf Ihre Datei (*.mymx) oder starten Sie das Programm MyMagellan  und laden über `Datei > Öffnen`.
 Es gibt zwei Ansichten für die Eingabe, einmal für die Datenerfassung je Schüler (Leistungen, weitere Zeugnisdaten, Zeugnisbemerkungen, Fehlzeiten) oder aus Sicht eines Faches (Leistungen).
 
  ![Aufrufe für die Eingabe nach Schülern oder nach Fächern](/assets/images/09.png)
 
 !!! warning "Wichtig"
 
-    Alle Eingaben beruhen auf zuvor in MAGELLAN festgelegten Schlüsselverzeichnissen für Noten und Zeugnisbemerkungen.
+    Alle Eingaben beruhen auf zuvor in Magellan festgelegten Schlüsselverzeichnissen für Noten und Zeugnisbemerkungen.
     Die Eingabe von selbst definierten Noten oder Veränderung von Schülerstammdaten ist nicht möglich! Wenden Sie sich in diesem Fall an Ihren Administrator.
 
 ## Sortieren, Gruppieren, Filtern usw
@@ -60,17 +60,17 @@ Der schnellste Weg einen Datensatz innerhalb einer Liste zu finden ist die inkre
 
 * Klicken Sie auf einen beliebigen Wert einer Spalte, als Zeichen, dass Sie in dieser Spalte suchen möchten. Beispiel: Klicken Sie auf einen beliebigen Nachnamen um innerhalb der Nachnamen suchen zu können.
 
-* Tippen Sie einen Wert ein. Beispiel: Sie suchen Schüler Müller, Sie tippen ein m, MAGELLAN bringt Sie zur ersten gefundenen Schüler dessen Nachname mit M beginnt. Tippen Sie mü, der Cursor springt in die nächste gefunden Zeile, dass könnte aber auch Schüler Mühlhausen sein. Tippen Sie Müller, springt der Cursor zum ersten Schüler mit dem Nachnamen Müller.
+* Tippen Sie einen Wert ein. Beispiel: Sie suchen Schüler Müller, Sie tippen ein m, Magellan bringt Sie zur ersten gefundenen Schüler dessen Nachname mit M beginnt. Tippen Sie mü, der Cursor springt in die nächste gefunden Zeile, dass könnte aber auch Schüler Mühlhausen sein. Tippen Sie Müller, springt der Cursor zum ersten Schüler mit dem Nachnamen Müller.
 
 * Innerhalb der zutreffenden Schülerzeilen, also innerhalb der Schüler mit dem Nachnamen Müller, können Sie jetzt mit `STRG + Pfeil` aufwärts oder `STRG + Pfeil abwärts` sich bewegen.
 
 ### Spaltenreihenfolge
 
-Die Reihenfolge der Spalten ist in MyMAGELLAN fest vorgegeben.
+Die Reihenfolge der Spalten ist in MyMagellan fest vorgegeben.
 
 ### Spaltensichtbarkeit
 
-Welche Spalten und Felder in der Datei sichtbar sind, grenzt Ihr Administrator beim Erstellen der Dateien ein. Dabei sollten in der Datei immer nur die Spalten/Felder enthalten sein, die von Ihnen gepflegt werden sollen plus Spalten, die für das Erstellen einer bestimmten Reihenfolge wichtig sind. Beispiel: Sie können die Unterrichtsart der Schüler nicht über MyMAGELLAN nicht editieren, benötigen diese Spalte aber um die Schüler des Deutsch Grundkurse korrekt zu sortieren.
+Welche Spalten und Felder in der Datei sichtbar sind, grenzt Ihr Administrator beim Erstellen der Dateien ein. Dabei sollten in der Datei immer nur die Spalten/Felder enthalten sein, die von Ihnen gepflegt werden sollen plus Spalten, die für das Erstellen einer bestimmten Reihenfolge wichtig sind. Beispiel: Sie können die Unterrichtsart der Schüler nicht über MyMagellan nicht editieren, benötigen diese Spalte aber um die Schüler des Deutsch Grundkurse korrekt zu sortieren.
 
 Spalten, die gezeigt werden, die Sie aber nicht benötigen, könenn Sie aus den Listen ausblenden. Dafür entfernen Sie bitte das Häkchen wie in der nachstehenden Abbildung für die Beispiele `Position` und `Schwerpunkt`.
 
@@ -94,7 +94,7 @@ Die Schüler, die auf der linken Seite gezeigt werden, können gefiltert, gruppi
 
 ### Leistungen
 
-In dieser Ansicht entsprechen die angezeigten Felder der in MAGELLAN gewählten Beurteilungsart der Klasse. Möglich sind Noten, Punkte oder Beurteilungstexte.
+In dieser Ansicht entsprechen die angezeigten Felder der in Magellan gewählten Beurteilungsart der Klasse. Möglich sind Noten, Punkte oder Beurteilungstexte.
 
 ![Eingabe nach Schülern](/assets/images/19.png)
 
@@ -104,7 +104,7 @@ Markieren Sie einen Schüler und wechseln auf die Unterkarte `Zeugnisdaten`.
 
 !!! info "Hinweis"
 
-    In der nachstehenden Ansicht sehen Sie sämtliche Felder, die in dieser Ansicht möglich wären. Wenn weniger Felder gezeigt werden, bedeutet dass, das Ihr Administrator einen Teil der Felder nicht mit in die Datei übergeben hat. Das ist sinnvoll, wenn diese Daten beispielsweise per Sammelzuweisung direkt in MAGELLAN gepflegt werden.
+    In der nachstehenden Ansicht sehen Sie sämtliche Felder, die in dieser Ansicht möglich wären. Wenn weniger Felder gezeigt werden, bedeutet dass, das Ihr Administrator einen Teil der Felder nicht mit in die Datei übergeben hat. Das ist sinnvoll, wenn diese Daten beispielsweise per Sammelzuweisung direkt in Magellan gepflegt werden.
 
 ![Unterkarte Zeugnisdaten](/assets/images/22.png)
 
@@ -136,14 +136,14 @@ So geht`s:
 !!! info "Hinweis"
 
     Wenn Sie nur das Häkchen vor einem Feld setzen, aber keine Auswahl treffen, können Sie auch gesammelt Einträge für mehrere Schüler zurücksetzen. 
-    Aber: Das Leeren der Felder betrifft nur Ihre MyMAGELLAN-Datei, es werden keine Feldinhalte in MAGELLAN durch den Import dieser Felder zurückgesetzt.
-    Sollen aus den Blöcken `Abschlussdaten` und `Versetzungs- und Zeugnisdaten` verkehrte Eintragungen entfernt werden, ist das in letzter Konsequenz nur direkt in MAGELLAN möglich.
+    Aber: Das Leeren der Felder betrifft nur Ihre MyMagellan-Datei, es werden keine Feldinhalte in Magellan durch den Import dieser Felder zurückgesetzt.
+    Sollen aus den Blöcken `Abschlussdaten` und `Versetzungs- und Zeugnisdaten` verkehrte Eintragungen entfernt werden, ist das in letzter Konsequenz nur direkt in Magellan möglich.
 
 ### Zeugnisbemerkungen
 
 !!! warning "Wichtig"
 
-    Bitte beachten Sie, dass Sie nur Zeugnisbemerkungen für Schüler erfassen können, für die Sie in MAGELLAN, also im Schulverwaltungsprogramm als Klassenleiter oder als Tutor zugewiesen wurden. Als Fachlehrer können keine Zeugnisbemerkungen für Schüler erfasst werden. In diesem Fall sind die Schaltfläche auf der Karte `Zeugnisbemerkungen` deaktiviert.
+    Bitte beachten Sie, dass Sie nur Zeugnisbemerkungen für Schüler erfassen können, für die Sie in Magellan, also im Schulverwaltungsprogramm als Klassenleiter oder als Tutor zugewiesen wurden. Als Fachlehrer können keine Zeugnisbemerkungen für Schüler erfasst werden. In diesem Fall sind die Schaltfläche auf der Karte `Zeugnisbemerkungen` deaktiviert.
 
 #### neue Zeugnisbemerkungen anlegen
 
@@ -192,9 +192,9 @@ Nach dem Klick auf `Fächer anzeigen` öffnet sich ein zweigeteiltes Fenster, au
 Auswahl|Anmerkung
 --|--
 Alle (nicht editierbar)|Diese Auswahl ist die Statztansicht und zeigt eine Übersicht aller Schüler, es ist in dieser Auswahl keine Bearbeitung möglich.
-Noten/Füllwerte| zeigt die zu beurteilenden Schüler, deren Klassenbeurteilungsart in MAGELLAN auf `Noten` gesetzt wurde
-Punkte/Füllwerte|zeigt die zu beurteilenden Schüler, deren Klassenbeurteilungsart in MAGELLAN auf `Punkte` gesetzt wurde
-Beurteilungstexte|zeigt die zu beurteilenden Schüler, deren Klassenbeurteilungsart in MAGELLAN auf `Beurteilungstexte` gesetzt wurde
+Noten/Füllwerte| zeigt die zu beurteilenden Schüler, deren Klassenbeurteilungsart in Magellan auf `Noten` gesetzt wurde
+Punkte/Füllwerte|zeigt die zu beurteilenden Schüler, deren Klassenbeurteilungsart in Magellan auf `Punkte` gesetzt wurde
+Beurteilungstexte|zeigt die zu beurteilenden Schüler, deren Klassenbeurteilungsart in Magellan auf `Beurteilungstexte` gesetzt wurde
 
 ## Speichern
 
