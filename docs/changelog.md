@@ -27,7 +27,7 @@ NEW       | Neue Funktionalität
 
 ### Version 11.0.2 1100 (22.01.2024)
 
-Alle Neuerungen beschreiben wir [hier](https://doc.magellan.stueber.de/changelog/neu.mag11/).## Version 11
+Alle Neuerungen beschreiben wir [hier](https://doc.magellan.stueber.de/changelog/neu.mag11/).
 
 ## Version 10.0.3 101 (09.05.2023)
 
