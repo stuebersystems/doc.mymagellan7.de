@@ -24,11 +24,13 @@ Nachdem Sie die Installationsdateien für MyMagellan in Absprache mit Ihrem Admi
 
 ![Klicken Sie auf Installieren!](/assets/images/installation/02.png)
 
+![Die Installation läuft!](/assets/images/installation/02.png)
+
 MyMagellan wird auf Ihrem Rechner installiert.
 
 ![Klicken Sie auf Fertigstellen!](/assets/images/installation/04.png)
 
-MyMagellan ist auf Ihren Rechner installiert!
+Fertig!
 
 ## Lizenz?
 
